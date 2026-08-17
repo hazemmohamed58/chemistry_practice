@@ -1,4920 +1,2165 @@
 const lesson1Data = [
   {
     "id": 1,
-    "q": "How many horizontal periods does the modern periodic table (long form) consist of?",
-    "answer": "The modern periodic table (long form) consists of 7 horizontal periods.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "5",
-      "6",
-      "7",
-      "8"
+    "q": "The electron configuration of the final vertical column of d-block elements is ............",
+    "answer": "ns², (n-1)d¹⁰",
+    "steps": [
+      "Identify the final vertical column of the d-block.",
+      "Recognize that this corresponds to Group 12 (Zn, Cd, Hg).",
+      "State the general electronic configuration for Group 12 elements."
     ],
+    "stepExplanations": [
+      "The d-block is composed of groups 3 to 12. The final vertical column is Group 12.",
+      "Group 12 elements have a completely filled (n-1)d subshell and 2 electrons in the ns subshell.",
+      "The general formula representing this completely filled d subshell and filled s subshell is ns²(n-1)d¹⁰."
+    ],
+    "choices": [
+      "ns², nd¹⁰",
+      "ns², nd⁵",
+      "ns², (n-1)d¹⁰",
+      "ns², (n-1)d⁵"
+    ],
+    "image": null,
     "correctIndex": 2,
     "variants": [
-      "How many horizontal periods does the modern periodic table (long form) consist of?",
-      "A student claims that the modern periodic table has 8 horizontal periods. Is this statement correct?",
-      "Which of the following is the correct number of horizontal periods in the modern periodic table: 5, 6, 7, or 8?"
+      "What is the general outer electron configuration for the elements located in the final column of the d-block?",
+      "Which electron configuration correctly describes the valence shell of Group 12 elements in the d-block?",
+      "Elements in the last vertical group of the transition series possess which general electronic arrangement?",
+      "Select the configuration that applies to the d-block elements occupying the extreme right column.",
+      "Identify the general electron configuration characteristic of the transition metals in group 12."
     ]
   },
   {
     "id": 2,
-    "q": "How many vertical groups does the modern periodic table (long form) consist of?",
-    "answer": "The modern periodic table (long form) consists of 18 vertical groups.",
+    "q": "The elements with the most alike properties are ............",
+    "answer": "Fe, Co and Ni",
     "steps": [],
     "stepExplanations": [],
     "choices": [
-      "16",
-      "17",
-      "18",
-      "19"
+      "Cu, Zn and Ni",
+      "Fe, Mn and Cr",
+      "Fe, Co and Ni",
+      "Cu, Ni and Co"
     ],
+    "image": null,
     "correctIndex": 2,
     "variants": [
-      "How many vertical groups does the modern periodic table consist of?",
-      "Identify the error in this statement: The modern periodic table (long form) consists of 16 vertical groups.",
-      "In the modern periodic table, how many vertical columns are arranged from left to right?"
+      "Which set of elements shows the greatest similarity in their chemical and physical properties?",
+      "The elements most alike in their characteristics belong to which group?",
+      "Which of the following groups of elements has the most pronounced similarities?",
+      "Select the trio of elements that exhibit the most closely related properties.",
+      "Which of the following lists comprises elements with the highest degree of similarity in properties?"
     ]
   },
   {
     "id": 3,
-    "q": "Into how many main blocks is the modern periodic table divided, and what are their names?",
-    "answer": "The modern periodic table is divided into four main blocks: s-block, p-block, d-block, and f-block.",
+    "q": "What is the vertical group in the periodic table which contains the highest number of elements ?",
+    "answer": "(VIIIB)",
     "steps": [],
     "stepExplanations": [],
     "choices": [
-      "Three: s-block, p-block, and d-block",
-      "Four: s-block, p-block, d-block, and f-block",
-      "Two: s-block and p-block",
-      "Five: s-block, p-block, d-block, f-block, and g-block"
+      "(VB)",
+      "(VIIB)",
+      "(VIIIB)",
+      "(VIII)"
     ],
-    "correctIndex": 1,
+    "image": null,
+    "correctIndex": 2,
     "variants": [
-      "Into how many main blocks is the modern periodic table divided?",
-      "What are the names of the four main blocks of the modern periodic table?",
-      "Which of the following correctly lists the four main blocks of the modern periodic table: s-block, p-block, d-block, f-block?",
-      "A student says the periodic table has three main blocks. Is this correct? If not, what are the correct blocks?"
+      "Which vertical group in the periodic table contains the greatest number of elements?",
+      "Identify the group that has the maximum number of constituent elements.",
+      "Which periodic table group encompasses the largest number of elements?",
+      "The group with the highest count of elements among the following is...",
+      "Which of these vertical groups accommodates the highest total number of elements?"
     ]
   },
   {
     "id": 4,
-    "q": "Where is the s-block located in the periodic table, and which groups does it include?",
-    "answer": "The s-block is located on the left side of the periodic table and includes groups 1A and 2A.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "On the right side; groups 3A, 4A, 5A, 6A, 7A, and 0",
-      "In the middle; groups 3B to 12B",
-      "On the left side; groups 1A and 2A",
-      "At the bottom; lanthanides and actinides"
+    "q": "Which of the following represents the elements whose electron configuration ends with the sublevels ns², (n-1)d³ ?",
+    "answer": "They are located in the 3rd column.",
+    "steps": [
+      "Determine the group number from the configuration ns²(n-1)d³.",
+      "Identify the group number as 5, which is located in the 3rd column of the d-block."
     ],
-    "correctIndex": 2,
+    "stepExplanations": [
+      "The sum of the electrons in the ns and (n-1)d sublevels determines the group number for transition elements.",
+      "The configuration ns²(n-1)d³ corresponds to Group 5, which is the 3rd column in the d-block."
+    ],
+    "choices": [
+      "They are located in the 3rd column.",
+      "They lie in group (VB).",
+      "They are found in the 10th column.",
+      "They lie in group (IIIB)."
+    ],
+    "image": null,
+    "correctIndex": 0,
     "variants": [
-      "Where is the s-block located in the periodic table, and which groups does it include?",
-      "Which block of the periodic table is located on the left side and includes groups 1A and 2A?",
-      "The s-block includes which of the following groups: 1A and 2A, 3A and 4A, or 5A and 6A?",
-      "Which block is positioned on the far left of the periodic table?"
+      "The elements characterized by the configuration ns², (n-1)d³ are found in which location?",
+      "Which column of the d-block contains elements with the outer electronic arrangement ns²(n-1)d³?",
+      "Identify the placement of elements ending with the sublevels ns², (n-1)d³.",
+      "Which group of elements is represented by the electron configuration ns²(n-1)d³?",
+      "Elements that have ns²(n-1)d³ as their valence configuration are located in which part of the periodic table?"
     ]
   },
   {
     "id": 5,
-    "q": "Where is the p-block located in the periodic table, and which groups does it include?",
-    "answer": "The p-block is located on the right side of the periodic table and includes groups 3A, 4A, 5A, 6A, 7A, and 0.",
+    "q": "A transition metal which is resistant to corrosion and nontoxic (inert), thus it binds efficiently to the bones, is ............",
+    "answer": "titanium.",
     "steps": [],
     "stepExplanations": [],
     "choices": [
-      "On the left side; groups 1A and 2A",
-      "On the right side; groups 3A, 4A, 5A, 6A, 7A, and 0",
-      "In the middle; groups 3B to 12B",
-      "At the bottom; lanthanides and actinides"
+      "nickel.",
+      "cobalt.",
+      "chromium.",
+      "titanium."
     ],
-    "correctIndex": 1,
+    "image": null,
+    "correctIndex": 3,
     "variants": [
-      "Where is the p-block located in the periodic table, and which groups does it include?",
-      "Which groups are included in the p-block of the periodic table?",
-      "Is it correct to say the p-block is found on the left side of the periodic table? Explain its location.",
-      "What are the group numbers for the elements in the p-block?"
+      "Which transition metal is both corrosion-resistant and non-toxic, making it suitable for medical implants that bond to bone?",
+      "The transition metal known for being inert and biocompatible, used in bone implants, is?",
+      "Identify the transition metal that resists corrosion and is safe for use in the human body for structural support.",
+      "Which of these metals is characterized by its resistance to corrosion and ability to bond with osseous tissue?",
+      "The metal used in biomedical implants due to its inertness and high corrosion resistance is?"
     ]
   },
   {
     "id": 6,
-    "q": "Where is the d-block located in the modern periodic table?",
-    "answer": "The d-block is located in the middle of the modern periodic table.",
+    "q": "The strongest element of the first transition series in terms of the rigidity is ............",
+    "answer": "iron.",
     "steps": [],
     "stepExplanations": [],
     "choices": [
-      "Left side",
-      "Right side",
-      "Middle",
-      "Bottom"
+      "iron.",
+      "zinc.",
+      "titanium.",
+      "nickel."
     ],
-    "correctIndex": 2,
+    "image": null,
+    "correctIndex": 0,
     "variants": [
-      "Where is the d-block located in the modern periodic table?",
-      "Which of the following correctly describes the position of the d-block: left side, right side, middle, or bottom?",
-      "Describe the location of the d-block relative to the s-block and p-block."
+      "Which element in the first transition series exhibits the maximum rigidity?",
+      "In terms of mechanical strength, which metal is the strongest in the first transition series?",
+      "Identify the hardest element among the first transition series elements.",
+      "Which of the following transition metals possesses the highest stiffness?",
+      "The element with the greatest rigidity in the initial transition series is?"
     ]
   },
   {
     "id": 7,
-    "q": "Where is the f-block placed in the periodic table?",
-    "answer": "The f-block is placed at the bottom of the periodic table.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Left side",
-      "Right side",
-      "Middle",
-      "Bottom"
+    "q": "The opposite diagram is a section in the periodic table. The characteristic property of the alloy which is formed by adding element (Y) to element (X) is ............",
+    "answer": "its high hardness.",
+    "steps": [
+      "Identify elements X and Y from the diagram as Aluminum and Magnesium.",
+      "Recognize the alloy formed by adding Magnesium to Aluminum as Duralumin.",
+      "State the characteristic property of Duralumin, which is high hardness."
     ],
-    "correctIndex": 3,
+    "stepExplanations": [
+      "The diagram indicates that element X is Aluminum (Al) and element Y is Magnesium (Mg).",
+      "The alloy of Aluminum and Magnesium is known as Duralumin.",
+      "Duralumin is an alloy characterized by its high hardness and strength."
+    ],
+    "choices": [
+      "its low melting point.",
+      "its high density.",
+      "its high hardness.",
+      "its unmalleability."
+    ],
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MjAgMTgwIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIj4KICA8ZGVmcz4KICAgIDxzdHlsZT4KICAgICAgLmJnIHsgZmlsbDogI2ZmZmZmZjsgfQogICAgICAuY2VsbCB7IGZpbGw6ICNmZmZmZmY7IHN0cm9rZTogI2QzM2M0MTsgc3Ryb2tlLXdpZHRoOiAxLjI7IH0KICAgICAgLmxhYmVsLXRleHQgeyBmb250LWZhbWlseTogQXJpYWwsIHNhbnMtc2VyaWY7IGZvbnQtc2l6ZTogMTVweDsgZm9udC13ZWlnaHQ6IGJvbGQ7IGZpbGw6ICMwMDAwMDA7IHRleHQtYW5jaG9yOiBtaWRkbGU7IGRvbWluYW50LWJhc2VsaW5lOiBtaWRkbGU7IH0KICAgIDwvc3R5bGU+CiAgPC9kZWZzPgoKICA8cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBjbGFzcz0iYmciIC8+CgogIDxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDI1LCAyNSkiPgogICAgPCEtLSBzLWJsb2NrICgyIGNvbHVtbnMsIDMgcm93cykgLS0+CiAgICA8IS0tIENvbCAxIC0tPgogICAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjI1IiBoZWlnaHQ9IjI1IiBjbGFzcz0iY2VsbCIgLz4KICAgIDxyZWN0IHg9IjAiIHk9IjI1IiB3aWR0aD0iMjUiIGhlaWdodD0iMjUiIGNsYXNzPSJjZWxsIiAvPgogICAgPHJlY3QgeD0iMCIgeT0iNTAiIHdpZHRoPSIyNSIgaGVpZ2h0PSIyNSIgY2xhc3M9ImNlbGwiIC8+CgogICAgPCEtLSBDb2wgMiAtLT4KICAgIDxyZWN0IHg9IjI1IiB5PSIwIiB3aWR0aD0iMjUiIGhlaWdodD0iMjUiIGNsYXNzPSJjZWxsIiAvPgogICAgPHJlY3QgeD0iMjUiIHk9IjI1IiB3aWR0aD0iMjUiIGhlaWdodD0iMjUiIGNsYXNzPSJjZWxsIiAvPgogICAgPHJlY3QgeD0iMjUiIHk9IjUwIiB3aWR0aD0iMjUiIGhlaWdodD0iMjUiIGNsYXNzPSJjZWxsIiAvPgoKICAgIDwhLS0gZC1ibG9jayAoMTAgY29sdW1ucywgcm93IDMpIC0tPgogICAgPCEtLSBDb2wgMyAod2l0aCBZKSAtLT4KICAgIDxyZWN0IHg9IjUwIiB5PSI1MCIgd2lkdGg9IjI1IiBoZWlnaHQ9IjI1IiBjbGFzcz0iY2VsbCIgLz4KICAgIDx0ZXh0IHg9IjYyLjUiIHk9IjYyLjUiIGNsYXNzPSJsYWJlbC10ZXh0Ij5ZPC90ZXh0PgoKICAgIDwhLS0gQ29sIDQgdG8gMTIgLS0+CiAgICA8cmVjdCB4PSI3NSIgeT0iNTAiIHdpZHRoPSIyNSIgaGVpZ2h0PSIyNSIgY2xhc3M9ImNlbGwiIC8+CiAgICA8cmVjdCB4PSIxMDAiIHk9IjUwIiB3aWR0aD0iMjUiIGhlaWdodD0iMjUiIGNsYXNzPSJjZWxsIiAvPgogICAgPHJlY3QgeD0iMTI1IiB5PSI1MCIgd2lkdGg9IjI1IiBoZWlnaHQ9IjI1IiBjbGFzcz0iY2VsbCIgLz4KICAgIDxyZWN0IHg9IjE1MCIgeT0iNTAiIHdpZHRoPSIyNSIgaGVpZ2h0PSIyNSIgY2xhc3M9ImNlbGwiIC8+CiAgICA8cmVjdCB4PSIxNzUiIHk9IjUwIiB3aWR0aD0iMjUiIGhlaWdodD0iMjUiIGNsYXNzPSJjZWxsIiAvPgogICAgPHJlY3QgeD0iMjAwIiB5PSI1MCIgd2lkdGg9IjI1IiBoZWlnaHQ9IjI1IiBjbGFzcz0iY2VsbCIgLz4KICAgIDxyZWN0IHg9IjIyNSIgeT0iNTAiIHdpZHRoPSIyNSIgaGVpZ2h0PSIyNSIgY2xhc3M9ImNlbGwiIC8+CiAgICA8cmVjdCB4PSIyNTAiIHk9IjUwIiB3aWR0aD0iMjUiIGhlaWdodD0iMjUiIGNsYXNzPSJjZWxsIiAvPgogICAgPHJlY3QgeD0iMjc1IiB5PSI1MCIgd2lkdGg9IjI1IiBoZWlnaHQ9IjI1IiBjbGFzcz0iY2VsbCIgLz4KCiAgICA8IS0tIHAtYmxvY2sgKDYgY29sdW1ucywgMyByb3dzKSAtLT4KICAgIDwhLS0gQ29sIDEzIChHcm91cCAzQSkgLS0+CiAgICA8cmVjdCB4PSIzMDAiIHk9IjAiIHdpZHRoPSIyNSIgaGVpZ2h0PSIyNSIgY2xhc3M9ImNlbGwiIC8+CiAgICA8cmVjdCB4PSIzMDAiIHk9IjI1IiB3aWR0aD0iMjUiIGhlaWdodD0iMjUiIGNsYXNzPSJjZWxsIiAvPgogICAgPHRleHQgeD0iMzEyLjUiIHk9IjM3LjUiIGNsYXNzPSJsYWJlbC10ZXh0Ij5YPC90ZXh0PgogICAgPHJlY3QgeD0iMzAwIiB5PSI1MCIgd2lkdGg9IjI1IiBoZWlnaHQ9IjI1IiBjbGFzcz0iY2VsbCIgLz4KCiAgICA8IS0tIENvbCAxNCAtLT4KICAgIDxyZWN0IHg9IjMyNSIgeT0iMCIgd2lkdGg9IjI1IiBoZWlnaHQ9IjI1IiBjbGFzcz0iY2VsbCIgLz4KICAgIDxyZWN0IHg9IjMyNSIgeT0iMjUiIHdpZHRoPSIyNSIgaGVpZ2h0PSIyNSIgY2xhc3M9ImNlbGwiIC8+CiAgICA8cmVjdCB4PSIzMjUiIHk9IjUwIiB3aWR0aD0iMjUiIGhlaWdodD0iMjUiIGNsYXNzPSJjZWxsIiAvPgoKICAgIDwhLS0gQ29sIDE1IC0tPgogICAgPHJlY3QgeD0iMzUwIiB5PSIwIiB3aWR0aD0iMjUiIGhlaWdodD0iMjUiIGNsYXNzPSJjZWxsIiAvPgogICAgPHJlY3QgeD0iMzUwIiB5PSIyNSIgd2lkdGg9IjI1IiBoZWlnaHQ9IjI1IiBjbGFzcz0iY2VsbCIgLz4KICAgIDxyZWN0IHg9IjM1MCIgeT0iNTAiIHdpZHRoPSIyNSIgaGVpZ2h0PSIyNSIgY2xhc3M9ImNlbGwiIC8+CgogICAgPCEtLSBDb2wgMTYgLS0+CiAgICA8cmVjdCB4PSIzNzUiIHk9IjAiIHdpZHRoPSIyNSIgaGVpZ2h0PSIyNSIgY2xhc3M9ImNlbGwiIC8+CiAgICA8cmVjdCB4PSIzNzUiIHk9IjI1IiB3aWR0aD0iMjUiIGhlaWdodD0iMjUiIGNsYXNzPSJjZWxsIiAvPgogICAgPHJlY3QgeD0iMzc1IiB5PSI1MCIgd2lkdGg9IjI1IiBoZWlnaHQ9IjI1IiBjbGFzcz0iY2VsbCIgLz4KCiAgICA8IS0tIENvbCAxNyAtLT4KICAgIDxyZWN0IHg9IjQwMCIgeT0iMCIgd2lkdGg9IjI1IiBoZWlnaHQ9IjI1IiBjbGFzcz0iY2VsbCIgLz4KICAgIDxyZWN0IHg9IjQwMCIgeT0iMjUiIHdpZHRoPSIyNSIgaGVpZ2h0PSIyNSIgY2xhc3M9ImNlbGwiIC8+CiAgICA8cmVjdCB4PSI0MDAiIHk9IjUwIiB3aWR0aD0iMjUiIGhlaWdodD0iMjUiIGNsYXNzPSJjZWxsIiAvPgoKICAgIDwhLS0gQ29sIDE4IC0tPgogICAgPHJlY3QgeD0iNDI1IiB5PSIwIiB3aWR0aD0iMjUiIGhlaWdodD0iMjUiIGNsYXNzPSJjZWxsIiAvPgogICAgPHJlY3QgeD0iNDI1IiB5PSIyNSIgd2lkdGg9IjI1IiBoZWlnaHQ9IjI1IiBjbGFzcz0iY2VsbCIgLz4KICAgIDxyZWN0IHg9IjQyNSIgeT0iNTAiIHdpZHRoPSIyNSIgaGVpZ2h0PSIyNSIgY2xhc3M9ImNlbGwiIC8+CiAgPC9nPgo8L3N2Zz4K",
+    "correctIndex": 2,
     "variants": [
-      "Where is the f-block placed in the periodic table?",
-      "Identify the block that is placed at the bottom of the periodic table from the following: s-block, p-block, d-block, f-block."
+      "What is the primary characteristic of the alloy produced by combining element Y with element X?",
+      "The alloy resulting from the addition of element Y to element X is notable for which property?",
+      "Identify the defining property of the alloy formed between the metals X and Y.",
+      "Which property best describes the alloy fabricated from elements X and Y?",
+      "The alloy composed of elements X and Y is mainly known for its?"
     ]
   },
   {
     "id": 8,
-    "q": "According to which property are elements arranged in the modern periodic table?",
-    "answer": "Elements in the modern periodic table are arranged according to their atomic numbers.",
+    "q": "Which of the following is not used in batteries ?",
+    "answer": "Sc",
     "steps": [],
     "stepExplanations": [],
     "choices": [
-      "Atomic mass",
-      "Atomic number",
-      "Density",
-      "Melting point"
+      "Cd",
+      "MnO₂",
+      "Co",
+      "Sc"
     ],
-    "correctIndex": 1,
+    "image": null,
+    "correctIndex": 3,
     "variants": [
-      "According to which property are elements arranged in the periodic table?",
-      "Is it true that elements are arranged by increasing atomic mass in the modern periodic table?",
-      "If a student claims that elements are arranged by atomic mass, would this be a correct statement for the modern periodic table? What is the correct property?"
+      "Which of these materials is not utilized in the manufacturing of batteries?",
+      "Identify the substance that is not commonly found in battery components.",
+      "All of the following are used in batteries except:",
+      "Which of the listed elements is not employed in battery technology?",
+      "Select the material that is not part of a battery's composition."
     ]
   },
   {
     "id": 9,
-    "q": "What principle is the basis for the arrangement of elements in the modern periodic table?",
-    "answer": "The arrangement of elements is based on filling energy sublevels with electrons, in ascending order.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Filling energy sublevels with electrons in ascending order",
-      "Arranging by increasing atomic mass",
-      "Arranging by decreasing atomic number",
-      "Grouping by similar chemical properties only"
+    "q": "The following express the economic importance of some oxides of transition elements, except ............",
+    "answer": "rubber industry.",
+    "steps": [
+      "Review the economic uses of transition metal oxides.",
+      "Identify that Zinc oxide is used in the rubber industry.",
+      "Recognize that Zinc is not considered a transition element under strict definitions.",
+      "Conclude that the exception is the rubber industry."
     ],
+    "stepExplanations": [
+      "Oxides like TiO₂, Cr₂O₃, and MnO₂ have uses in welding, ceramics, and batteries.",
+      "ZnO is used in the rubber industry.",
+      "Zinc has a full d-subshell (3d¹⁰), so it is often excluded from the transition metal category.",
+      "Therefore, the rubber industry represents an oxide of a non-transition element."
+    ],
+    "choices": [
+      "rubber industry.",
+      "detecting the welding positions.",
+      "a dye in ceramic industry.",
+      "dry battery."
+    ],
+    "image": null,
     "correctIndex": 0,
     "variants": [
-      "What principle is the basis for the arrangement of elements in the periodic table?",
-      "Explain why elements are arranged in their specific order in the modern periodic table."
+      "All of the following are industrial uses of transition metal oxides, except for:",
+      "Which of the listed industries does NOT rely on an oxide of a transition element?",
+      "Identify the application that is not an economic use of a transition metal oxide.",
+      "Each of these represents an economic importance of transition metal oxides except:",
+      "The following are uses of transition metal oxides, with the exception of the:"
     ]
   },
   {
     "id": 10,
-    "q": "What is the difference in the number of protons and electrons between two successive elements in a period?",
-    "answer": "In a period, each successive element has one more proton and one more electron than the one before it.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "One more proton and one more electron",
-      "One more proton and two more electrons",
-      "Two more protons and one more electron",
-      "Two more protons and two more electrons"
+    "q": "All the following are compounds of transition elements, except ............",
+    "answer": "the surface of a piece of chromium exposed to the weather factors.",
+    "steps": [
+      "Evaluate each option to determine if it represents a compound.",
+      "Identify that chromium metal exposed to weather forms a passivation layer (Cr₂O₃), but the surface itself is initially the metal.",
+      "Recognize that the other options refer to specific chemical compounds.",
+      "Conclude that the surface of chromium is the metal, not a compound."
     ],
-    "correctIndex": 0,
+    "stepExplanations": [
+      "Compounds are chemical substances composed of two or more elements.",
+      "The surface of chromium is the element in its metallic state, not a chemical compound.",
+      "The other options refer to compounds used in dyes, paints, and space shuttles.",
+      "Thus, the surface of chromium is the correct exception."
+    ],
+    "choices": [
+      "the substance used in dyes.",
+      "the substance used in paints.",
+      "the surface of a piece of chromium exposed to the weather factors.",
+      "the substance used in space shuttles."
+    ],
+    "image": null,
+    "correctIndex": 2,
     "variants": [
-      "What is the difference in the number of protons and electrons between two successive elements in a period?",
-      "If an element in a period has atomic number Z, how many protons and electrons does the next element in the period have?",
-      "As you move from left to right in a period, what happens to the number of protons and electrons for each successive element?"
+      "Which of the following is not considered a compound of a transition element?",
+      "All of the listed items are compounds of transition metals except:",
+      "Identify the option that does not represent a transition element compound.",
+      "Each of the following is a compound of a transition element, except for:",
+      "The exception among the choices, which is not a transition metal compound, is:"
     ]
   },
   {
     "id": 11,
-    "q": "What does each period in the periodic table correspond to?",
-    "answer": "Each period corresponds to a main energy level that is being filled with electrons according to increasing energy.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "A main energy level being filled with electrons according to increasing energy",
-      "The filling of a sublevel",
-      "A group of elements with similar properties",
-      "A specific number of valence electrons"
+    "q": "In the following equation : 4K₂Cr₂O₇ → 4K₂CrO₄ + 2X + 3O₂. The compound (X) is used in the industry of",
+    "answer": "leather tanning.",
+    "steps": [
+      "Balance the chemical equation to find compound X.",
+      "Recognize that 4K₂Cr₂O₇ decomposes to 4K₂CrO₄, 2Cr₂O₃, and 3O₂.",
+      "Identify X as Cr₂O₃ (chromium(III) oxide).",
+      "State that Cr₂O₃ is used in leather tanning."
     ],
-    "correctIndex": 0,
+    "stepExplanations": [
+      "By mass balance, the remaining atoms must form a chromium oxide.",
+      "The decomposition equation is 4K₂Cr₂O₇ → 4K₂CrO₄ + 2Cr₂O₃ + 3O₂.",
+      "Cr₂O₃ is chromium(III) oxide.",
+      "Chromium(III) salts are widely used in the leather tanning industry."
+    ],
+    "choices": [
+      "dyes.",
+      "food preservation.",
+      "rubber.",
+      "leather tanning."
+    ],
+    "image": null,
+    "correctIndex": 3,
     "variants": [
-      "What does each period in the periodic table correspond to?",
-      "What is the relationship between a period and the filling of energy levels?",
-      "Why do we have different periods in the periodic table?"
+      "Given the reaction: 4K₂Cr₂O₇ → 4K₂CrO₄ + 2X + 3O₂, the compound X finds its application in which industry?",
+      "Identify the industrial use of compound X formed from the decomposition of potassium dichromate.",
+      "Compound X is generated in the equation 4K₂Cr₂O₇ → 4K₂CrO₄ + 2X + 3O₂. It is commercially employed in:",
+      "The substance X produced in the reaction is essential for which process?",
+      "In the decomposition of K₂Cr₂O₇, the product X is utilized in the industry of:"
     ]
   },
   {
     "id": 12,
-    "q": "What is the relationship between the number of main energy levels in an atom and its period number?",
-    "answer": "The number of main energy levels in an atom is equal to its period number.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "The number of main energy levels is always one more than the period number.",
-      "The number of main energy levels is equal to the period number.",
-      "The number of main energy levels is always one less than the period number.",
-      "There is no direct relationship."
+    "q": "The opposite diagram is a section in the modern periodic table. Which of the following describes element (M) ?",
+    "answer": "It is used in plating metals to protect them from reduction.",
+    "steps": [
+      "Identify element M from the diagram as Chromium (Cr) located in group VIB.",
+      "Recall that Chromium is used in electroplating to protect other metals from corrosion/reduction.",
+      "Select the correct description."
     ],
+    "stepExplanations": [
+      "The diagram shows element M in group VIB of the 4th period, which is Chromium.",
+      "Chromium is commonly used for electroplating metals to prevent rusting and reduction.",
+      "The description matching this property is that it is used for plating."
+    ],
+    "choices": [
+      "It lies in group 1B",
+      "It is used in plating metals to protect them from reduction.",
+      "It resembles carbon in appearance.",
+      "It is magnetic."
+    ],
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1NDAgMTIwIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIj4KICA8ZGVmcz4KICAgIDxzdHlsZT4KICAgICAgLmdyaWQgewogICAgICAgIGZpbGw6IG5vbmU7CiAgICAgICAgc3Ryb2tlOiAjZTYzOTQ2OwogICAgICAgIHN0cm9rZS13aWR0aDogMS41OwogICAgICAgIHN0cm9rZS1saW5lam9pbjogcm91bmQ7CiAgICAgICAgc3Ryb2tlLWxpbmVjYXA6IHNxdWFyZTsKICAgICAgfQogICAgICAubGFiZWwgewogICAgICAgIGZvbnQtZmFtaWx5OiBBcmlhbCwgc2Fucy1zZXJpZjsKICAgICAgICBmb250LXNpemU6IDE4cHg7CiAgICAgICAgZm9udC13ZWlnaHQ6IGJvbGQ7CiAgICAgICAgZmlsbDogIzAwMDAwMDsKICAgICAgICB0ZXh0LWFuY2hvcjogbWlkZGxlOwogICAgICAgIGRvbWluYW50LWJhc2VsaW5lOiBjZW50cmFsOwogICAgICB9CiAgICA8L3N0eWxlPgogIDwvZGVmcz4KCiAgPCEtLSDYp9mE2LXZgSDYp9mE2LPZgdmE2Yog2YPYp9mF2YQgKDE2INmF2LHYqNi5KSAtLT4KICA8cmVjdCBjbGFzcz0iZ3JpZCIgeD0iMTAiIHk9IjYwIiB3aWR0aD0iNTEyIiBoZWlnaHQ9IjMyIiAvPgogIAogIDwhLS0g2KfZhNmB2YjYp9i12YQg2KfZhNix2KPYs9mK2Kkg2YTZhNi02LHZiti3INin2YTYs9mB2YTZiiAtLT4KICA8cGF0aCBjbGFzcz0iZ3JpZCIgZD0iCiAgICBNIDQyLDYwIFYgOTIgTSA3NCw2MCBWIDkyIE0gMTA2LDYwIFYgOTIgTSAxMzgsNjAgViA5MiAKICAgIE0gMTcwLDYwIFYgOTIgTSAyMDIsNjAgViA5MiBNIDIzNCw2MCBWIDkyIE0gMjY2LDYwIFYgOTIgCiAgICBNIDI5OCw2MCBWIDkyIE0gMzMwLDYwIFYgOTIgTSAzNjIsNjAgViA5MiBNIDM5NCw2MCBWIDkyIAogICAgTSA0MjYsNjAgViA5MiBNIDQ1OCw2MCBWIDkyIE0gNDkwLDYwIFYgOTIKICAiIC8+CgogIDwhLS0g2KfZhNi12YEg2KfZhNi52YTZiNmKINin2YTYo9mK2YXZhiAoNiDZhdix2KjYudin2Kog2YHZiNmCINii2K7YsSA2KSAtLT4KICA8cmVjdCBjbGFzcz0iZ3JpZCIgeD0iMzMwIiB5PSIyOCIgd2lkdGg9IjE5MiIgaGVpZ2h0PSIzMiIgLz4KICAKICA8IS0tINin2YTZgdmI2KfYtdmEINin2YTYsdij2LPZitipINmE2YTYtdmBINin2YTYudmE2YjZiiAtLT4KICA8cGF0aCBjbGFzcz0iZ3JpZCIgZD0iCiAgICBNIDM2MiwyOCBWIDYwIE0gMzk0LDI4IFYgNjAgTSA0MjYsMjggViA2MCAKICAgIE0gNDU4LDI4IFYgNjAgTSA0OTAsMjggViA2MAogICIgLz4KCiAgPCEtLSDYsdmF2LIg2KfZhNi52YbYtdixIE0g2YHZiiDYp9mE2YXYsdio2Lkg2KfZhNiz2KfYqNi5INmF2YYg2KfZhNmK2LPYp9ixIC0tPgogIDx0ZXh0IHg9IjIxOCIgeT0iNzYiIGNsYXNzPSJsYWJlbCI+TTwvdGV4dD4KPC9zdmc+Cg==",
     "correctIndex": 1,
     "variants": [
-      "What is the relationship between the number of main energy levels in an atom and its period number?",
-      "An element is located in period 3. How many main energy levels does it have?",
-      "If an atom has 4 main energy levels, which period is it most likely located in?"
+      "Referring to the periodic table diagram, which statement correctly describes element M?",
+      "Element M, as shown in the diagram, can be characterized by which statement?",
+      "Identify the accurate description of element M from the provided options.",
+      "Which property correctly applies to the element indicated as M in the table?",
+      "Based on its position in the periodic table, element M is best described as:"
     ]
   },
   {
     "id": 13,
-    "q": "How do the electron configurations of elements in a period end in their ground state?",
-    "answer": "In the ground state, the electron configurations of the elements in a period end with the filling of the outermost sublevel.",
+    "q": "H₂SO₄ can be stored in a vessel made of ............",
+    "answer": "iron.",
     "steps": [],
     "stepExplanations": [],
     "choices": [
-      "With the filling of the innermost sublevel",
-      "With the filling of the outermost sublevel",
-      "With the filling of the 4s sublevel",
-      "With the filling of the 3d sublevel"
+      "iron.",
+      "Sc and Al alloy.",
+      "cobalt 60.",
+      "Ni and steel alloy."
     ],
-    "correctIndex": 1,
+    "image": null,
+    "correctIndex": 0,
     "variants": [
-      "How do the electron configurations of elements in a period end in their ground state?",
-      "What is characteristic of the electron configurations of elements in the same period?",
-      "What does it mean for elements in a period to have their configurations end with the filling of the outermost sublevel?"
+      "Which material is suitable for constructing a vessel to store concentrated sulfuric acid?",
+      "A container made of which metal is commonly used for storing H₂SO₄?",
+      "Identify the material that can safely be used to store sulfuric acid.",
+      "For storage of H₂SO₄, a vessel composed of what material is typically employed?",
+      "Which of the following metals is used to fabricate storage tanks for concentrated sulfuric acid?"
     ]
   },
   {
     "id": 14,
-    "q": "What are the four types of elements classified in the modern periodic table?",
-    "answer": "The modern periodic table classifies elements into four types: Representative elements, Noble gases, Transition elements, and Inner transition elements.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Metals, Nonmetals, Metalloids, and Noble Gases",
-      "Representative elements, Noble gases, Transition elements, and Inner transition elements",
-      "Alkali metals, Alkaline earth metals, Halogens, and Noble Gases",
-      "s-block, p-block, d-block, and f-block elements"
+    "q": "All the following can describe the transition metal (M) which lies in the first series and resists the effect of the atmospheric air, except that ............",
+    "answer": "it is used in manufacturing the soft drink cans.",
+    "steps": [
+      "Identify M as Chromium, which resists atmospheric corrosion.",
+      "Evaluate the uses of Chromium.",
+      "Recognize that soft drink cans are made of Aluminum, not Chromium.",
+      "Conclude that the exception is the use in soft drink cans."
     ],
-    "correctIndex": 1,
+    "stepExplanations": [
+      "Chromium is a first series transition metal that resists corrosion by forming a protective oxide layer.",
+      "Chromium is used in leather tanning and its compounds are used in dyes.",
+      "Aluminum is the metal used for manufacturing beverage cans.",
+      "Therefore, this property does not describe Chromium."
+    ],
+    "choices": [
+      "it lies in the fourth period of the periodic table.",
+      "it is used in leather tanning.",
+      "one of its compounds is used in making dyes.",
+      "it is used in manufacturing the soft drink cans."
+    ],
+    "image": null,
+    "correctIndex": 3,
     "variants": [
-      "What are the four types of elements classified in the modern periodic table?",
-      "Classify the following types of elements into the correct categories of the modern periodic table: Transition elements, Representative elements, Inner transition elements, Noble gases.",
-      "Which of the following is NOT a type of element classified in the modern periodic table: Noble gases, Transition elements, Alkali metals, or Inner transition elements?"
+      "All of the following are true for a corrosion-resistant first-series transition metal except:",
+      "Which statement does not correctly describe the transition metal M that resists air corrosion?",
+      "The first-series transition metal resistant to air has all these properties except:",
+      "Identify the property that does not belong to the corrosion-resistant transition metal M.",
+      "Which of the following is not a characteristic or use of the transition metal M?"
     ]
   },
   {
     "id": 15,
-    "q": "How many quantum numbers are required to determine the electron configuration of an atom?",
-    "answer": "Four quantum numbers are required to describe the electrons and determine the electron configuration of an atom.",
+    "q": "In the diagram below which shows a section in the periodic table : The two elements whose sulphate salts are used as fungicides are ............",
+    "answer": "(2) and (4).",
+    "steps": [
+      "Identify the elements in positions (2) and (4) from the diagram.",
+      "Recall that Copper sulphate and Zinc sulphate are used as fungicides.",
+      "Select the correct option."
+    ],
+    "stepExplanations": [
+      "The diagram shows the positions of elements in the 4th period. Position (2) is Zinc, and (4) is Copper.",
+      "Zinc sulfate and Copper sulfate are commonly used as agricultural fungicides.",
+      "Thus, the elements in squares (2) and (4) are the correct answer."
+    ],
+    "choices": [
+      "(1) and (2).",
+      "(2) and (3).",
+      "(3) and (4).",
+      "(2) and (4)."
+    ],
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2MDAgMTIwIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIj4KICA8ZGVmcz4KICAgIDxzdHlsZT4KICAgICAgLmdyaWQgewogICAgICAgIGZpbGw6IG5vbmU7CiAgICAgICAgc3Ryb2tlOiAjZTYzOTQ2OwogICAgICAgIHN0cm9rZS13aWR0aDogMS41OwogICAgICAgIHN0cm9rZS1saW5lam9pbjogcm91bmQ7CiAgICAgICAgc3Ryb2tlLWxpbmVjYXA6IHNxdWFyZTsKICAgICAgfQogICAgICAubGFiZWwgewogICAgICAgIGZvbnQtZmFtaWx5OiBBcmlhbCwgc2Fucy1zZXJpZjsKICAgICAgICBmb250LXNpemU6IDE0cHg7CiAgICAgICAgZm9udC13ZWlnaHQ6IG5vcm1hbDsKICAgICAgICBmaWxsOiAjMDAwMDAwOwogICAgICAgIHRleHQtYW5jaG9yOiBtaWRkbGU7CiAgICAgICAgZG9taW5hbnQtYmFzZWxpbmU6IGNlbnRyYWw7CiAgICAgIH0KICAgIDwvc3R5bGU+CiAgPC9kZWZzPgoKICA8IS0tINin2YTYtdmBINin2YTYs9mB2YTZiiDYp9mE2LHYptmK2LPZiiAoMTgg2YXYsdio2LnYp9mLINi52KjYsSDYp9mE2KzYr9mI2YQg2KfZhNiv2YjYsdmKINio2KfZhNmD2KfZhdmEKSAtLT4KICA8cmVjdCBjbGFzcz0iZ3JpZCIgeD0iMTUiIHk9IjYwIiB3aWR0aD0iNTc2IiBoZWlnaHQ9IjMyIiAvPgogIAogIDwhLS0g2KfZhNmB2YjYp9i12YQg2KfZhNix2KPYs9mK2Kkg2YTZhNi02LHZiti3INin2YTYs9mB2YTZiiDZg9in2YXZhNmL2KcgLS0+CiAgPHBhdGggY2xhc3M9ImdyaWQiIGQ9IgogICAgTSA0Nyw2MCBWIDkyIE0gNzksNjAgViA5MiBNIDExMSw2MCBWIDkyIE0gMTQzLDYwIFYgOTIgCiAgICBNIDE3NSw2MCBWIDkyIE0gMjA3LDYwIFYgOTIgTSAyMzksNjAgViA5MiBNIDI3MSw2MCBWIDkyIAogICAgTSAzMDMsNjAgViA5MiBNIDMzNSw2MCBWIDkyIE0gMzY3LDYwIFYgOTIgTSAzOTksNjAgViA5MiAKICAgIE0gNDMxLDYwIFYgOTIgTSA0NjMsNjAgViA5MiBNIDQ5NSw2MCBWIDkyIE0gNTI3LDYwIFYgOTIgCiAgICBNIDU1OSw2MCBWIDkyCiAgIiAvPgoKICA8IS0tINin2YTYqNix2Kwg2KfZhNij2YrYs9ixICjYp9mE2YHYptipIHMgLSDYo9mI2YQg2YXYsdio2LnZitmGINmB2Yog2KfZhNi12YEg2KfZhNi52YTZiNmKKSAtLT4KICA8cmVjdCBjbGFzcz0iZ3JpZCIgeD0iMTUiIHk9IjI4IiB3aWR0aD0iNjQiIGhlaWdodD0iMzIiIC8+CiAgPGxpbmUgY2xhc3M9ImdyaWQiIHgxPSI0NyIgeTE9IjI4IiB4Mj0iNDciIHkyPSI2MCIgLz4KCiAgPCEtLSDYp9mE2KjYsdisINin2YTYo9mK2YXZhiAo2KfZhNmB2KbYqSBwIC0g2KLYrtixIDYg2YXYsdio2LnYp9iqINmB2Yog2KfZhNi12YEg2KfZhNi52YTZiNmKKSAtLT4KICA8cmVjdCBjbGFzcz0iZ3JpZCIgeD0iMzk5IiB5PSIyOCIgd2lkdGg9IjE5MiIgaGVpZ2h0PSIzMiIgLz4KICA8cGF0aCBjbGFzcz0iZ3JpZCIgZD0iCiAgICBNIDQzMSwyOCBWIDYwIE0gNDYzLDI4IFYgNjAgTSA0OTUsMjggViA2MCAKICAgIE0gNTI3LDI4IFYgNjAgTSA1NTksMjggViA2MAogICIgLz4KCiAgPCEtLSDYp9mE2KPYsdmC2KfZhSDZiNin2YTYqtiz2YXZitin2Kog2YHZiiDYp9mE2YHYptipIGQgLS0+CiAgPHRleHQgeD0iMTU5IiB5PSI3NiIgY2xhc3M9ImxhYmVsIj4oMSk8L3RleHQ+CiAgPHRleHQgeD0iMjIzIiB5PSI3NiIgY2xhc3M9ImxhYmVsIj4oMik8L3RleHQ+CiAgPHRleHQgeD0iMjg3IiB5PSI3NiIgY2xhc3M9ImxhYmVsIj4oMyk8L3RleHQ+CiAgPHRleHQgeD0iMzUxIiB5PSI3NiIgY2xhc3M9ImxhYmVsIj4oNCk8L3RleHQ+Cjwvc3ZnPgo=",
+    "correctIndex": 3,
+    "variants": [
+      "Based on the periodic table section shown, which two elements' sulfate salts function as fungicides?",
+      "Identify the pair of elements whose sulfate salts are utilized as fungicides.",
+      "The sulfate salts of which two elements in the diagram are employed as fungicides?",
+      "Which two elements, indicated in the diagram, form sulfate salts used for fungicidal purposes?",
+      "From the periodic table section, the two elements with fungicidal sulfate salts are:"
+    ]
+  },
+  {
+    "id": 16,
+    "q": "All the following describe a d-block element used in protecting iron from rusting, except that ............",
+    "answer": "it lies in group (IIIB).",
+    "steps": [
+      "Identify the element used to protect iron from rusting as Zinc.",
+      "Evaluate the properties of Zinc.",
+      "Recognize that Zinc is in group IIB, not IIIB.",
+      "Conclude that the statement about group IIIB is the exception."
+    ],
+    "stepExplanations": [
+      "Zinc is used in galvanizing to protect iron from rusting.",
+      "Zinc belongs to group IIB and is located in column 12.",
+      "Zinc oxide is used in the rubber industry.",
+      "Thus, the statement that it lies in group IIIB is incorrect."
+    ],
+    "choices": [
+      "it lies in group (IIIB).",
+      "its oxide is used in making rubber.",
+      "it lies in column 12 in the periodic table.",
+      "it is used in making heating coils."
+    ],
+    "image": null,
+    "correctIndex": 0,
+    "variants": [
+      "All of the following are true for the d-block element used to protect iron from rust except:",
+      "Which property does not describe the element used for rust protection of iron?",
+      "The d-block element used for galvanizing iron is characterized by all of these except:",
+      "Identify the statement that is incorrect regarding the rust-protecting d-block element.",
+      "Which of the following is false about the element used to prevent iron rusting?"
+    ]
+  },
+  {
+    "id": 17,
+    "q": "The elements (X) and (Y), belong to d-block in the periodic table and are used in manufacturing a rechargeable battery, so if (Y) lies in the 5th period, then (X) and (Y) are ............",
+    "answer": "(X) is nickel, and (Y) is cadmium.",
+    "steps": [
+      "Identify the rechargeable battery components as Nickel and Cadmium.",
+      "Match the 5th period condition to Cadmium.",
+      "Conclude X is Nickel and Y is Cadmium."
+    ],
+    "stepExplanations": [
+      "Nickel-Cadmium (Ni-Cd) is a common type of rechargeable battery.",
+      "Nickel is in the 4th period, and Cadmium is in the 5th period.",
+      "If Y is in the 5th period, Y must be Cadmium, making X Nickel."
+    ],
+    "choices": [
+      "(X) is chromium, and (Y) is cadmium.",
+      "(X) is nickel, and (Y) is cadmium.",
+      "(X) is zinc, and (Y) is yttrium.",
+      "(X) is nickel, and (Y) is zinc."
+    ],
+    "image": null,
+    "correctIndex": 1,
+    "variants": [
+      "Given that elements X and Y form a rechargeable battery and Y is in the 5th period, identify X and Y.",
+      "The elements used in a rechargeable battery, where one (Y) is in the 5th period, are:",
+      "If the battery components X and Y have Y in the 5th period, what are the elements?",
+      "Identify the pair of d-block elements X and Y used in rechargeable batteries given Y is in period 5.",
+      "Which elements X and Y constitute a rechargeable battery, with Y located in the fifth period?"
+    ]
+  },
+  {
+    "id": 18,
+    "q": "The alloys (X) and (Y) have these characteristics : • Alloy (X): Durable with low density. • Alloy (Y): Heavy but it can resist corrosion. Which of the following are suitable uses for (X) and (Y) ?",
+    "answer": "(X): Space shuttles, (Y): Bridge supports.",
+    "steps": [
+      "Analyze the properties of Alloy X: low density and durable.",
+      "Analyze the properties of Alloy Y: heavy but corrosion-resistant.",
+      "Match the properties to their uses: space shuttles need lightweight materials, bridges need strong, heavy, corrosion-resistant steel.",
+      "Select the correct option."
+    ],
+    "stepExplanations": [
+      "Low density and durability are key requirements for aerospace applications like space shuttles.",
+      "Heavy materials with high corrosion resistance, such as steel, are used for infrastructure like bridge supports.",
+      "Thus, X is suitable for space shuttles and Y for bridge supports."
+    ],
+    "choices": [
+      "(X): Planes, (Y): Space shuttles.",
+      "(X): Railway tracks, (Y): Planes.",
+      "(X): Space shuttles, (Y): Bridge supports.",
+      "(X): Bridge supports, (Y): Railway tracks."
+    ],
+    "image": null,
+    "correctIndex": 2,
+    "variants": [
+      "Based on their properties, what are the appropriate applications for alloys X and Y?",
+      "Alloy X is durable and light, while Alloy Y is heavy and corrosion-resistant. What are their uses?",
+      "Match the following alloys to their uses given their density and corrosion properties.",
+      "Which uses correctly correspond to the characteristics of alloys X and Y?",
+      "Considering the characteristics of alloys X and Y, they are best used for:"
+    ]
+  },
+  {
+    "id": 19,
+    "q": "The size of the molecules of the oxide of the transition element (A) is larger than that of its atoms, element (B) is used in oil hydrogenation processes. Which of the following is the use of the alloy made of (A) and (B) ?",
+    "answer": "Car springs.",
+    "steps": [
+      "Identify A as Titanium and B as Nickel based on their properties.",
+      "Recognize that the alloy of Titanium and Nickel is Nitinol.",
+      "Identify the application of Nitinol, which is used in car springs."
+    ],
+    "stepExplanations": [
+      "Titanium dioxide (TiO₂) forms large polymeric molecules, fitting the description of A.",
+      "Nickel is used as a catalyst in oil hydrogenation.",
+      "The alloy of Titanium and Nickel is Nitinol, known for its superelasticity and shape memory.",
+      "Nitinol is commonly used in car springs."
+    ],
+    "choices": [
+      "Electric furnaces.",
+      "Car springs.",
+      "Migfighter jets.",
+      "Space shuttles."
+    ],
+    "image": null,
+    "correctIndex": 1,
+    "variants": [
+      "If element A's oxide forms large molecules and B is used in hydrogenation, what is the alloy of A and B used for?",
+      "The alloy formed between A and B is utilized in which application?",
+      "Identify the use of the alloy made of A and B given the properties of A's oxide and B's catalytic role.",
+      "The alloy of the transition elements A and B finds application in:",
+      "Based on the properties of A and B, the alloy they form is used in the manufacture of:"
+    ]
+  },
+  {
+    "id": 20,
+    "q": "Element (A) has similar rigidity as steel, while when scandium is added to element (B), an alloy is formed characterized by its lightness and high hardness. Which of the following is incorrect ?",
+    "answer": "Elements (A) and (B) are of the first transition series elements.",
+    "steps": [
+      "Identify A as Titanium and B as Aluminum.",
+      "Check each statement for its veracity.",
+      "Find that Aluminum is not a transition metal, so the statement that both are in the first transition series is false."
+    ],
+    "stepExplanations": [
+      "Titanium (A) has rigidity comparable to steel.",
+      "Scandium added to Aluminum (B) creates a light, hard alloy.",
+      "Aluminum is in the p-block, not the d-block, so it is not a transition element.",
+      "Therefore, the statement that both are first series transition elements is incorrect."
+    ],
+    "choices": [
+      "Element (A) is nontoxic, lies in 4th period.",
+      "Alloy of element (B) with manganese resists corrosion.",
+      "The durability of (A) is higher than that of (B) at high temperatures.",
+      "Elements (A) and (B) are of the first transition series elements."
+    ],
+    "image": null,
+    "correctIndex": 3,
+    "variants": [
+      "Which of the following statements about elements A and B is false?",
+      "Identify the incorrect statement regarding elements A and B.",
+      "All the following are correct about A and B except:",
+      "Which of the provided descriptions of elements A and B is not accurate?",
+      "The erroneous statement regarding the properties of A and B is:"
+    ]
+  },
+  {
+    "id": 21,
+    "q": "Each of the following elements the number of its (B) group in the periodic table can be determined through the sum of the numbers of the electrons of ns, (n-1)d sublevels except ............",
+    "answer": "28Ni",
+    "steps": [
+      "Apply the rule: Group number = sum of ns and (n-1)d electrons.",
+      "Check this rule for each element.",
+      "Identify that for Ni, the sum is 10, which does not correspond to a unique group number in the old notation (VIIIB for 8,9,10).",
+      "Conclude that Ni is the exception."
+    ],
+    "stepExplanations": [
+      "For d-block elements, the group number is determined by adding the electrons in the ns and (n-1)d sublevels.",
+      "For Sc (2+1=3), V (2+3=5), and Mn (2+5=7), the sum matches the group number (IIIB, VB, VIIB).",
+      "Nickel has the configuration [Ar]4s²3d⁸, so the sum is 2+8=10. However, it belongs to group VIIIB, which is an exception to the direct numeric correspondence.",
+      "Thus, Nickel is the element where this rule fails."
+    ],
+    "choices": [
+      "21Sc",
+      "28Ni",
+      "25Mn",
+      "23V"
+    ],
+    "image": null,
+    "correctIndex": 1,
+    "variants": [
+      "For which of these elements does the sum of ns and (n-1)d electrons not directly determine its B group number?",
+      "The rule for finding the B group number by electron sum applies to all of these except:",
+      "Which element is an exception to the rule that the B group number equals the sum of the outer d and s electrons?",
+      "Identify the element for which the group number cannot be determined from the sum of its ns and (n-1)d electrons.",
+      "The group number rule based on electron configuration fails for which of the following elements?"
+    ]
+  },
+  {
+    "id": 22,
+    "q": "The oxidation states of the first transition series elements range between ............",
+    "answer": "+2, +7",
     "steps": [],
     "stepExplanations": [],
+    "choices": [
+      "+1, +7",
+      "+2, +8",
+      "+2, +7",
+      "+3, +7"
+    ],
+    "image": null,
+    "correctIndex": 2,
+    "variants": [
+      "What is the range of oxidation states exhibited by the elements of the first transition series?",
+      "The common oxidation states of the first transition elements span from:",
+      "Which of the following represents the typical oxidation state range for the first series transition metals?",
+      "First transition series elements display oxidation states within the range of:",
+      "The range of oxidation numbers for the first row d-block elements is:"
+    ]
+  },
+  {
+    "id": 23,
+    "q": "Which of these pairs of elements can have more than one oxidation state in their compounds ?",
+    "answer": "Mn, Ti",
+    "steps": [
+      "Evaluate each pair of elements for their possible oxidation states.",
+      "Determine that Manganese can have states from +2 to +7.",
+      "Determine that Titanium can have states like +2, +3, +4.",
+      "Conclude that Mn and Ti both exhibit multiple oxidation states."
+    ],
+    "stepExplanations": [
+      "Transition elements are characterized by variable oxidation states.",
+      "Mn shows a wide range of oxidation states (e.g., +2, +4, +6, +7).",
+      "Ti also shows multiple states like +2, +3, and +4.",
+      "Thus, Mn and Ti is the only pair where both elements show this property."
+    ],
+    "choices": [
+      "Zn, Cr",
+      "Cu, Sc",
+      "Mn, Ti",
+      "Co, Zn"
+    ],
+    "image": null,
+    "correctIndex": 2,
+    "variants": [
+      "Which pair of elements is capable of exhibiting multiple oxidation states?",
+      "Select the pair in which both elements display more than one oxidation state in their compounds.",
+      "Which of the following pairs of elements shows variable oxidation states?",
+      "Identify the pair of elements that can both exist in multiple oxidation states.",
+      "The elements that both exhibit variable oxidation numbers are:"
+    ]
+  },
+  {
+    "id": 24,
+    "q": "Which of the following represents the electron configuration of an ion of one of the first transition series elements ?",
+    "answer": "[Ar], 3d¹⁰",
+    "steps": [
+      "Analyze the given electron configurations.",
+      "Recall that transition metal ions typically lose ns electrons first.",
+      "Identify [Ar]3d¹⁰ as the configuration of Zn²⁺ or Cu⁺, which are ions of first transition series elements.",
+      "Conclude that D is the correct configuration of an ion."
+    ],
+    "stepExplanations": [
+      "Configurations of transition metal ions usually involve the loss of electrons from the ns orbital before the (n-1)d orbital.",
+      "[Ar], 4s², 3d¹⁰ represents a neutral Zinc atom.",
+      "[Ar], 4s¹, 3d⁹ represents a neutral Copper atom.",
+      "[Ar], 3d¹⁰ is the configuration of Zn²⁺ (loss of the two 4s electrons), which is an ion."
+    ],
+    "choices": [
+      "[Ar], 4s², 3d¹⁰",
+      "[Ar], 4s¹, 3d⁹",
+      "[Ar], 4s², 3d⁶",
+      "[Ar], 3d¹⁰"
+    ],
+    "image": null,
+    "correctIndex": 3,
+    "variants": [
+      "Which of the following electron configurations corresponds to an ion of a first transition series element?",
+      "Identify the electron configuration that belongs to an ion of a transition metal in the first series.",
+      "Which configuration represents a cation of a first-row transition element?",
+      "Select the electron arrangement for an ion of one of the first transition series metals.",
+      "The electron configuration of a first series transition metal ion is:"
+    ]
+  },
+  {
+    "id": 25,
+    "q": "What are the two oxidation states which are common among the transition metals in the fourth period in the periodic table ?",
+    "answer": "+2, +3",
+    "steps": [],
+    "stepExplanations": [],
+    "choices": [
+      "+1, +2",
+      "+2, +3",
+      "+3, +4",
+      "+4, +5"
+    ],
+    "image": null,
+    "correctIndex": 1,
+    "variants": [
+      "Which two oxidation states are most common for the transition metals in the 4th period?",
+      "The most frequently observed oxidation states for the 4th period transition metals are:",
+      "Among the 4th period d-block elements, the prevalent oxidation states are:",
+      "What are the common oxidation numbers for the transition metals of the fourth period?",
+      "The typical oxidation states of the first transition series are:"
+    ]
+  },
+  {
+    "id": 26,
+    "q": "All the elements of the following groups can have the oxidation state +2, except the elements of group ............",
+    "answer": "IIIB",
+    "steps": [
+      "Examine the common oxidation states of groups VIIB, VIB, IIB, and IIIB.",
+      "Note that IIB elements (like Zn) primarily have +2.",
+      "Observe that group IIIB elements (Sc, Y, La) primarily exhibit +3.",
+      "Conclude that group IIIB is the exception."
+    ],
+    "stepExplanations": [
+      "Group IIB elements are known for having a +2 oxidation state.",
+      "Group VIB and VIIB elements can exhibit +2, among other states.",
+      "Group IIIB elements (Sc, Y, La) typically show a +3 oxidation state.",
+      "Thus, group IIIB elements do not commonly have a +2 oxidation state."
+    ],
+    "choices": [
+      "VIIB",
+      "VIB",
+      "IIB",
+      "IIIB"
+    ],
+    "image": null,
+    "correctIndex": 3,
+    "variants": [
+      "Members of which group generally cannot exhibit a +2 oxidation state?",
+      "Elements of all these groups can show a +2 state except those of:",
+      "Which group's elements do not commonly form ions with a +2 oxidation number?",
+      "The +2 oxidation state is not characteristic of the elements in group:",
+      "All of the following groups can exhibit a +2 oxidation state except group:"
+    ]
+  },
+  {
+    "id": 27,
+    "q": "Which of the following ions its orbitals contain the highest number of unpaired electrons ?",
+    "answer": "Co⁴⁺",
+    "steps": [
+      "Determine the electron configuration of each ion.",
+      "Count the number of unpaired electrons for each.",
+      "Identify Co⁴⁺ as having the highest number (5 unpaired)."
+    ],
+    "stepExplanations": [
+      "Cu²⁺: [Ar]3d⁹ -> 1 unpaired electron.",
+      "Fe²⁺: [Ar]3d⁶ -> 4 unpaired electrons.",
+      "Co⁴⁺: [Ar]3d⁵ -> 5 unpaired electrons.",
+      "Cr²⁺: [Ar]3d⁴ -> 4 unpaired electrons.",
+      "The highest number of unpaired electrons is 5, found in Co⁴⁺."
+    ],
+    "choices": [
+      "Cu²⁺",
+      "Fe²⁺",
+      "Co⁴⁺",
+      "Cr²⁺"
+    ],
+    "image": null,
+    "correctIndex": 2,
+    "variants": [
+      "Which ion has the greatest number of unpaired electrons in its orbitals?",
+      "Identify the ion with the maximum number of unpaired electrons.",
+      "Among the following ions, which one possesses the most unpaired electrons?",
+      "The ion whose orbitals contain the highest count of unpaired electrons is:",
+      "Select the ion that has the largest number of unpaired electrons in its d-orbitals."
+    ]
+  },
+  {
+    "id": 28,
+    "q": "The number of the unpaired electrons in the cation of CoCl₂ is ............",
+    "answer": "3",
+    "steps": [
+      "Identify the cation in CoCl₂ as Co²⁺.",
+      "Write the electron configuration of Co²⁺: [Ar] 3d⁷.",
+      "Count the unpaired electrons in 3d⁷, which is 3."
+    ],
+    "stepExplanations": [
+      "The compound CoCl₂ dissociates to give Co²⁺ ions.",
+      "The electron configuration of Co is [Ar] 4s² 3d⁷. Co²⁺ loses two electrons from the 4s subshell, resulting in [Ar] 3d⁷.",
+      "The 3d⁷ configuration has 3 unpaired electrons according to Hund's rule."
+    ],
     "choices": [
       "2",
       "3",
       "4",
       "5"
     ],
-    "correctIndex": 2,
-    "variants": [
-      "How many quantum numbers are required to determine the electron configuration of an atom?",
-      "What is the purpose of using quantum numbers in chemistry?",
-      "Identify the statement that correctly describes the number of quantum numbers needed for electron configuration: 2, 3, 4, or 5?"
-    ]
-  },
-  {
-    "id": 16,
-    "q": "What is the function of the principal quantum number (n)?",
-    "answer": "The principal quantum number (n) is used to determine the number of main energy levels in the atom.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "To determine the number of energy sublevels",
-      "To determine the number of main energy levels",
-      "To determine the number of orbitals",
-      "To determine the direction of electron spin"
-    ],
+    "image": null,
     "correctIndex": 1,
     "variants": [
-      "What is the function of the principal quantum number (n)?",
-      "Which quantum number is used to determine the number of main energy levels in an atom?",
-      "If you want to know the number of main energy levels in an atom, which quantum number would you use: n, l, m_l, or m_s?"
-    ]
-  },
-  {
-    "id": 17,
-    "q": "What is the maximum number of main energy levels found in the known atoms?",
-    "answer": "The number of main energy levels equals 7 in the known atoms.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "5",
-      "6",
-      "7",
-      "8"
-    ],
-    "correctIndex": 2,
-    "variants": [
-      "What is the maximum number of main energy levels found in the known atoms?",
-      "Is it true that the number of main energy levels in known atoms is exactly 7?",
-      "A student writes that the number of main energy levels in an atom is 8. Is this statement correct based on current knowledge?"
-    ]
-  },
-  {
-    "id": 18,
-    "q": "For which state is the principal quantum number (n) used?",
-    "answer": "The principal quantum number (n) is used for the ground state.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Excited state only",
-      "Ground state only",
-      "Both ground and excited states",
-      "Neither ground nor excited states"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "For which state is the principal quantum number (n) used?",
-      "Is the principal quantum number (n) applicable for the ground state, excited state, or both?"
-    ]
-  },
-  {
-    "id": 19,
-    "q": "What is the function of the secondary (azimuthal) quantum number (l)?",
-    "answer": "The secondary (azimuthal) quantum number (l) is used to determine the number of energy sublevels within each main energy level.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "To determine the number of main energy levels",
-      "To determine the number of energy sublevels within a main energy level",
-      "To determine the number of orbitals within a sublevel",
-      "To determine the direction of electron spin"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "What is the function of the secondary (azimuthal) quantum number (l)?",
-      "Which quantum number is used to determine the number of energy sublevels within a main energy level?",
-      "What does the secondary quantum number (l) determine for a given principal quantum level?"
-    ]
-  },
-  {
-    "id": 20,
-    "q": "What does the magnetic quantum number (mₗ) determine?",
-    "answer": "The magnetic quantum number (mₗ) is used to determine the number of orbitals within each energy sublevel.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "The number of main energy levels",
-      "The number of energy sublevels",
-      "The number of orbitals within an energy sublevel",
-      "The direction of electron spin"
-    ],
-    "correctIndex": 2,
-    "variants": [
-      "What does the magnetic quantum number (mₗ) determine?",
-      "Which quantum number is used to determine the number of orbitals in an energy sublevel?",
-      "How is the number of orbitals within an energy sublevel determined, and which quantum number is used?"
-    ]
-  },
-  {
-    "id": 21,
-    "q": "What is the maximum number of electrons that can be accommodated in an orbital according to the magnetic quantum number?",
-    "answer": "The magnetic quantum number (mₗ) does not accept more than 2 electrons per orbital.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "1 electron",
-      "2 electrons",
-      "3 electrons",
-      "4 electrons"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "What is the maximum number of electrons that can be accommodated in an orbital according to the magnetic quantum number?",
-      "A student states that an orbital can hold up to 3 electrons. Is this statement correct?",
-      "What restriction does the magnetic quantum number place on the number of electrons per orbital?"
-    ]
-  },
-  {
-    "id": 22,
-    "q": "What is the number of orbitals for the s, p, d, and f sublevels respectively?",
-    "answer": "The number of orbitals for the s, p, d, and f sublevels is 1, 3, 5, and 7 respectively.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "1, 2, 3, 4",
-      "1, 3, 5, 7",
-      "2, 6, 10, 14",
-      "1, 4, 6, 8"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "What is the number of orbitals for the s, p, d, and f sublevels respectively?",
-      "If a sublevel has 3 orbitals, what type of sublevel is it?",
-      "How many orbitals does a d sublevel contain: 1, 3, 5, or 7?",
-      "Complete the following sequence: s sublevel has 1 orbital, p sublevel has 3, d sublevel has ____, f sublevel has ____."
-    ]
-  },
-  {
-    "id": 23,
-    "q": "What does the spin quantum number (mₛ) determine?",
-    "answer": "The spin quantum number (mₛ) is used to determine the direction of electron spin within the orbital (the orbital movement of the electron).",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "The number of main energy levels",
-      "The number of energy sublevels",
-      "The number of orbitals",
-      "The direction of electron spin within the orbital"
-    ],
-    "correctIndex": 3,
-    "variants": [
-      "What does the spin quantum number (mₛ) determine?",
-      "What physical property of the electron does the spin quantum number describe?"
-    ]
-  },
-  {
-    "id": 24,
-    "q": "What are the two possible values of the spin quantum number (mₛ) and what do they represent?",
-    "answer": "The spin quantum number (mₛ) can have two values: +1/2 representing counter-clockwise spin, or -1/2 representing clockwise spin.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "+1 and -1; representing spin up and spin down",
-      "+1/2 and -1/2; representing counter-clockwise and clockwise spin",
-      "+2 and -2; representing spin right and spin left",
-      "There is only one value for spin"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "What are the two possible values of the spin quantum number (mₛ) and what do they represent?",
-      "If an electron has a spin quantum number of +1/2, what is the direction of its spin?",
-      "An electron has a clockwise spin. What is the value of its spin quantum number (mₛ)?"
-    ]
-  },
-  {
-    "id": 25,
-    "q": "In which direction does the electron move around its axis relative to an external magnetic field?",
-    "answer": "The electron moves around its axis in a direction that aligns with the external magnetic field.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Opposite to the external magnetic field",
-      "Aligning with the external magnetic field",
-      "Perpendicular to the external magnetic field",
-      "Randomly, regardless of the magnetic field"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "In which direction does the electron move around its axis relative to an external magnetic field?",
-      "What determines the direction of the electron's spin movement around its axis?"
-    ]
-  },
-  {
-    "id": 26,
-    "q": "What is the maximum number of electrons that can occupy a single orbital, and what must be true about their spins?",
-    "answer": "An orbital can contain a maximum of two electrons with opposite spins.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "One electron; spin can be either +1/2 or -1/2",
-      "Two electrons with opposite spins",
-      "Two electrons with parallel spins",
-      "Three electrons with opposite spins"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "What is the maximum number of electrons that can occupy a single orbital, and what must be true about their spins?",
-      "If an orbital contains two electrons, what can be said about their spin states?",
-      "A student says an orbital can contain two electrons with parallel spins. Is this correct?"
-    ]
-  },
-  {
-    "id": 27,
-    "q": "What is the electron configuration of a filled orbital?",
-    "answer": "A filled orbital contains two electrons in a paired state.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "One electron in an unpaired state",
-      "Two electrons in an unpaired state",
-      "Two electrons in a paired state",
-      "Zero electrons"
-    ],
-    "correctIndex": 2,
-    "variants": [
-      "What is the electron configuration of a filled orbital?",
-      "What does it mean for an orbital to be filled, in terms of the number and state of its electrons?"
-    ]
-  },
-  {
-    "id": 28,
-    "q": "How many electrons are present in a half-filled orbital?",
-    "answer": "A half-filled orbital contains one electron only.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "0 electrons",
-      "1 electron",
-      "2 electrons",
-      "3 electrons"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "How many electrons are present in a half-filled orbital?",
-      "If an orbital has only one electron, what is its state called?"
+      "How many unpaired electrons are present in the cation of CoCl₂?",
+      "The cation of CoCl₂ contains how many unpaired electrons?",
+      "Calculate the number of unpaired electrons in the Co²⁺ ion.",
+      "The number of unpaired electrons in the cobalt ion of CoCl₂ is:",
+      "Determine the count of unpaired electrons for the cation found in CoCl₂."
     ]
   },
   {
     "id": 29,
-    "q": "How many electrons are present in an empty orbital?",
-    "answer": "An empty orbital contains zero electrons.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "0 electrons",
-      "1 electron",
-      "2 electrons",
-      "3 electrons"
+    "q": "When scandium reacts with : • Oxygen , it yields (X). • Chlorine , it yields (Y). • Dil. hydrochloric acid , it yields ion (Z). Which of the following is correct ?",
+    "answer": "(X): Sc₂O₃ , (Y): ScCl₃ , (Z): Sc³⁺",
+    "steps": [
+      "Determine the products of the reactions of Scandium.",
+      "Identify X as Sc₂O₃, Y as ScCl₃, and Z as Sc³⁺.",
+      "Select the option that matches."
     ],
-    "correctIndex": 0,
+    "stepExplanations": [
+      "Scandium (Sc) reacts with oxygen to form scandium oxide, Sc₂O₃.",
+      "Scandium reacts with chlorine to form scandium chloride, ScCl₃.",
+      "Scandium reacts with dilute hydrochloric acid to form Sc³⁺ ions and hydrogen gas.",
+      "Thus, the correct combination is Sc₂O₃, ScCl₃, and Sc³⁺."
+    ],
+    "choices": [
+      "(X): Sc₂O₃ , (Y): ScCl₂ , (Z): Sc³⁺",
+      "(X): Sc₂O₃ , (Y): ScCl₃ , (Z): Sc³⁺",
+      "(X): ScO , (Y): ScCl₂ , (Z): Sc²⁺",
+      "(X): ScO , (Y): ScCl₃ , (Z): Sc²⁺"
+    ],
+    "image": null,
+    "correctIndex": 1,
     "variants": [
-      "How many electrons are present in an empty orbital?",
-      "What is the term used to describe an orbital that contains no electrons?"
+      "Which option correctly identifies the products of scandium reacting with oxygen, chlorine, and dilute HCl?",
+      "Identify the correct formula for scandium oxide (X), scandium chloride (Y), and the ion formed with acid (Z).",
+      "Given the reactions of scandium, which set of products (X, Y, Z) is accurate?",
+      "The correct products from the reactions of scandium with O₂, Cl₂, and dilute HCl are:",
+      "Scandium reacts with oxygen, chlorine, and dilute acid to form what products respectively?"
     ]
   },
   {
     "id": 30,
-    "q": "How many rules govern the distribution of electrons in an atom?",
-    "answer": "There are three rules governing the distribution of electrons in the atom.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "1",
-      "2",
-      "3",
-      "4"
+    "q": "The compound which is used in luminescent paints its cation exhibits the oxidation number ............",
+    "answer": "+2",
+    "steps": [
+      "Identify the compound used in luminescent paints as Zinc sulfide (ZnS).",
+      "Determine the oxidation number of the cation (Zn²⁺) in ZnS, which is +2."
     ],
-    "correctIndex": 2,
+    "stepExplanations": [
+      "Zinc sulfide (ZnS) is commonly used in luminescent paints and phosphors.",
+      "In ZnS, the zinc ion is Zn²⁺.",
+      "The oxidation number of the zinc cation is +2."
+    ],
+    "choices": [
+      "+2",
+      "+3",
+      "+1",
+      "+4"
+    ],
+    "image": null,
+    "correctIndex": 0,
     "variants": [
-      "How many rules govern the distribution of electrons in an atom?",
-      "Is it true that there are three rules governing electron distribution in an atom?",
-      "When studying electron distribution, what is the number of rules one must remember?"
+      "What is the oxidation state of the cation in the compound used for luminescent paints?",
+      "The cation in the luminescent paint compound has what oxidation number?",
+      "Identify the oxidation number of the metal cation in the phosphorescent compound.",
+      "The metal ion in the compound employed for luminescent paints exhibits which oxidation state?",
+      "The oxidation number of the cation in the substance used for luminous paints is:"
     ]
   },
   {
     "id": 31,
-    "q": "What are the names of the three rules governing the distribution of electrons in an atom?",
-    "answer": "The three rules are: The Aufbau Principle, Hund's Rule, and Pauli's Exclusion Principle.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Bohr's Principle, Aufbau Principle, and Hund's Rule",
-      "Aufbau Principle, Hund's Rule, and Pauli's Exclusion Principle",
-      "Heisenberg's Uncertainty Principle, Aufbau Principle, and Hund's Rule",
-      "Pauli's Exclusion Principle, Bohr's Principle, and Hund's Rule"
+    "q": "The sublevel 3d is half-filled with electrons in the two ions ............",
+    "answer": "Fe³⁺ and Mn²⁺",
+    "steps": [
+      "Determine the electron configuration of each ion.",
+      "Identify the ions with a 3d⁵ configuration.",
+      "Recognize Fe³⁺ ([Ar]3d⁵) and Mn²⁺ ([Ar]3d⁵) as the correct pair."
     ],
+    "stepExplanations": [
+      "A half-filled 3d sublevel means it has exactly 5 electrons (3d⁵).",
+      "Fe³⁺: [Ar] 3d⁵. Mn²⁺: [Ar] 3d⁵.",
+      "Both Fe³⁺ and Mn²⁺ have a half-filled 3d subshell."
+    ],
+    "choices": [
+      "Fe²⁺ and Mn²⁺",
+      "Fe³⁺ and Mn²⁺",
+      "Mn²⁺ and Cr³⁺",
+      "Co²⁺ and Fe²⁺"
+    ],
+    "image": null,
     "correctIndex": 1,
     "variants": [
-      "What are the names of the three rules governing the distribution of electrons in an atom?",
-      "Which of the following is NOT one of the three rules for electron distribution: Aufbau Principle, Hund's Rule, Pauli's Exclusion Principle, or Bohr's Principle?",
-      "Identify the three principles that dictate how electrons are arranged in an atom."
+      "Which pair of ions possesses a half-filled 3d sublevel?",
+      "The two ions that have a half-filled 3d subshell are:",
+      "Identify the ions in which the 3d sublevel is exactly half-filled.",
+      "Which of the following pairs of ions exhibits a half-filled d-orbital configuration?",
+      "The 3d sublevel is half-filled in the ions:"
     ]
   },
   {
     "id": 32,
-    "q": "What does the Aufbau Principle state about the order in which electrons fill energy sublevels?",
-    "answer": "The Aufbau Principle states that electrons fill the lowest energy sublevels first, then the higher energy sublevels.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Electrons fill higher energy sublevels first, then lower energy sublevels.",
-      "Electrons fill the lowest energy sublevels first, then the higher energy sublevels.",
-      "Electrons fill sublevels randomly.",
-      "Electrons only fill the s sublevel."
+    "q": "If the electron configuration of M³⁺ ion is : [Ar], 3d⁵, then the atomic number of the transition metal (M) is ............",
+    "answer": "26",
+    "steps": [
+      "Calculate the number of electrons in M³⁺, which is 18 (Ar) + 5 = 23.",
+      "Add 3 to account for the lost electrons to find the atomic number of the neutral atom.",
+      "23 + 3 = 26."
     ],
-    "correctIndex": 1,
+    "stepExplanations": [
+      "Argon has 18 electrons.",
+      "M³⁺ has [Ar]3d⁵, so it has 18 + 5 = 23 electrons.",
+      "Since it is a 3+ ion, the neutral metal M must have 23 + 3 = 26 electrons.",
+      "An element with 26 electrons has an atomic number of 26, which is Iron."
+    ],
+    "choices": [
+      "24",
+      "25",
+      "26",
+      "27"
+    ],
+    "image": null,
+    "correctIndex": 2,
     "variants": [
-      "What does the Aufbau Principle state about the order in which electrons fill energy sublevels?",
-      "According to the Aufbau Principle, do electrons fill higher energy sublevels before lower energy ones?",
-      "A student says the Aufbau Principle means electrons fill higher energy levels first. Is this correct? Explain why."
+      "Find the atomic number of the transition metal M if its M³⁺ ion has the configuration [Ar]3d⁵.",
+      "The atomic number of element M, whose ion M³⁺ is [Ar]3d⁵, is:",
+      "What is the atomic number of the metal whose trivalent ion has the configuration [Ar]3d⁵?",
+      "Given that M³⁺ is [Ar]3d⁵, determine the atomic number of M.",
+      "If the ion M³⁺ has the electron configuration [Ar]3d⁵, what is the atomic number of M?"
     ]
   },
   {
     "id": 33,
-    "q": "What is the correct ascending order of energy sublevels according to the (n+l) rule, starting from 1s?",
-    "answer": "The correct ascending order of energy sublevels according to the (n+l) rule is: 1s < 2s < 2p < 3s < 3p < 4s < 3d < 4p < 5s < 4d < 5p < 6s < 4f < 5d < 6p < 7s < 5f < 6d < 7p.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "1s < 2s < 2p < 3s < 3p < 3d < 4s < 4p < 4d < 4f",
-      "1s < 2s < 2p < 3s < 3p < 4s < 3d < 4p < 5s < 4d < 5p < 6s < 4f < 5d < 6p < 7s < 5f < 6d < 7p",
-      "1s < 2s < 2p < 3s < 3p < 4s < 4p < 3d < 4d < 5s",
-      "1s < 2s < 3s < 2p < 3p < 4s < 3d < 4p < 5s"
+    "q": "Which of the following represents the correct descending graduation in the number of the unpaired electrons ?",
+    "answer": "Mn²⁺ > Fe²⁺ > Cr³⁺ > Ti²⁺",
+    "steps": [
+      "Determine the number of unpaired electrons for each ion.",
+      "Mn²⁺: [Ar]3d⁵ -> 5 unpaired.",
+      "Fe²⁺: [Ar]3d⁶ -> 4 unpaired.",
+      "Cr³⁺: [Ar]3d³ -> 3 unpaired.",
+      "Ti²⁺: [Ar]3d² -> 2 unpaired.",
+      "Arrange them in descending order."
     ],
-    "correctIndex": 1,
+    "stepExplanations": [
+      "Mn²⁺ has 5 unpaired electrons (half-filled d orbital).",
+      "Fe²⁺ has 4 unpaired electrons.",
+      "Cr³⁺ has 3 unpaired electrons.",
+      "Ti²⁺ has 2 unpaired electrons.",
+      "The correct descending order is Mn²⁺ > Fe²⁺ > Cr³⁺ > Ti²⁺."
+    ],
+    "choices": [
+      "Mn²⁺ > Fe²⁺ > Cr³⁺ > Ti²⁺",
+      "Fe²⁺ > Mn²⁺ > Ti²⁺ > Cr³⁺",
+      "Ti²⁺ > Mn²⁺ > Fe²⁺ > Cr³⁺",
+      "Cr³⁺ > Mn²⁺ > Ti²⁺ > Fe²⁺"
+    ],
+    "image": null,
+    "correctIndex": 0,
     "variants": [
-      "What is the correct ascending order of energy sublevels according to the (n+l) rule, starting from 1s?",
-      "According to the (n+l) rule, which sublevel has a higher energy: 3d or 4s?",
-      "Place the following sublevels in correct ascending order of energy based on the (n+l) rule: 3d, 4s, 4p, 3p.",
-      "Is it correct to say that 4s is filled before 3d according to the (n+l) rule?"
+      "Which sequence correctly arranges the ions by decreasing number of unpaired electrons?",
+      "Identify the correct descending order of the number of unpaired electrons for the given ions.",
+      "Arrange the following ions in descending order based on their unpaired electrons.",
+      "Which of the following represents the decreasing trend in unpaired electrons for the ions?",
+      "Select the option that shows the correct order of ions from highest to lowest unpaired electrons."
     ]
   },
   {
     "id": 34,
-    "q": "What characteristic distinguishes the atoms of noble gases regarding their energy sublevels?",
-    "answer": "Atoms of noble gases are characterized by completely filled energy sublevels.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Partially filled energy sublevels",
-      "Completely filled energy sublevels",
-      "Empty energy sublevels",
-      "Half-filled energy sublevels"
+    "q": "Which of the following indicates the isotope of the transition metal which is used in diagnosing cancer tumors ?",
+    "answer": "Number of its unpaired electrons is 3",
+    "steps": [
+      "Identify the isotope used in cancer diagnosis as Cobalt-60.",
+      "Recall that Cobalt has 3 unpaired electrons in its ground state.",
+      "Select the option describing the number of unpaired electrons."
     ],
-    "correctIndex": 1,
+    "stepExplanations": [
+      "The isotope used for radiotherapy and cancer treatment is Cobalt-60.",
+      "Cobalt's electron configuration is [Ar]4s²3d⁷, which contains 3 unpaired electrons.",
+      "The option describing the number of unpaired electrons indicates the isotope."
+    ],
+    "choices": [
+      "It is used in nickel-cadmium battery.",
+      "Its atomic number is 60",
+      "Its electron configuration is [Ar], 4s¹, 3d⁵",
+      "Number of its unpaired electrons is 3"
+    ],
+    "image": null,
+    "correctIndex": 3,
     "variants": [
-      "What characteristic distinguishes the atoms of noble gases regarding their energy sublevels?",
-      "Why are noble gases generally considered very stable?",
-      "What is a defining electronic feature of the noble gases?"
+      "Which characteristic identifies the isotope of the transition metal used for cancer diagnosis?",
+      "The isotope used in cancer treatment can be identified by which property?",
+      "Which of the following is a correct indication of the isotope of the metal used in diagnosing tumors?",
+      "Identify the feature that points to the transition metal isotope used in cancer therapy.",
+      "The isotope of the transition metal employed in diagnosing cancer is characterized by:"
     ]
   },
   {
     "id": 35,
-    "q": "How is the electron distribution of a noble gas typically written in shorthand form?",
-    "answer": "For noble gases, electron distribution is written in a general form which is [Noble Gas Symbol] followed by the electrons present in the outermost shell of the modern periodic table.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Using the full electron configuration only",
-      "Using the noble gas symbol followed by the electrons in the outermost shell",
-      "Using only the valence electrons",
-      "Using the element's symbol and then all its electrons"
+    "q": "In which two groups of the following do the elements differ in the number of the unpaired electrons ?",
+    "answer": "6 and 12",
+    "steps": [
+      "Determine the number of unpaired electrons for elements in each group.",
+      "Group 6 (Cr): [Ar]4s¹3d⁵ -> 6 unpaired.",
+      "Group 12 (Zn): [Ar]4s²3d¹⁰ -> 0 unpaired.",
+      "Conclude that elements in groups 6 and 12 differ in unpaired electrons."
     ],
-    "correctIndex": 1,
+    "stepExplanations": [
+      "Group 3 (Sc) and Group 11 (Cu) both have 1 unpaired electron (Sc: 3d¹, Cu: 4s¹).",
+      "Group 4 (Ti) and Group 10 (Ni) both have 2 unpaired electrons (Ti: 3d², Ni: 3d⁸).",
+      "Group 5 (V) and Group 9 (Co) both have 3 unpaired electrons (V: 3d³, Co: 3d⁷).",
+      "Group 6 (Cr) has 6 unpaired electrons, while Group 12 (Zn) has 0. They differ."
+    ],
+    "choices": [
+      "3 and 11",
+      "4 and 10",
+      "5 and 9",
+      "6 and 12"
+    ],
+    "image": null,
+    "correctIndex": 3,
     "variants": [
-      "How is the electron distribution of a noble gas typically written in shorthand form?",
-      "What does the shorthand electron configuration of a noble gas consist of?",
-      "Explain what the notation [Ne] 3s² 3p⁵ represents in terms of the noble gas core."
+      "In which two groups do the elements have a different number of unpaired electrons?",
+      "Identify the pair of groups whose elements differ in their number of unpaired electrons.",
+      "Which groups consist of elements with distinct counts of unpaired electrons?",
+      "The elements in which two groups have different numbers of unpaired electrons?",
+      "Select the pair of groups where the elements show a difference in unpaired electron count."
     ]
   },
   {
     "id": 36,
-    "q": "What is the outermost sublevel that is filled in Neon (10Ne)?",
-    "answer": "The outermost sublevel that is filled in Neon (10Ne) is 2s² 2p⁶.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "1s²",
-      "2s² 2p⁶",
-      "3s² 3p⁶",
-      "4s² 4p⁶"
+    "q": "The table below shows some ions of first series transition elements : Ion: W²⁺, X³⁺, Y⁴⁺, Z⁴⁺. No. of unpaired electrons: zero, 1, 5, 3. Which of the ions elements is used in modern car batteries ?",
+    "answer": "Y",
+    "steps": [
+      "Identify the elements from the given unpaired electron counts.",
+      "W²⁺ (zero) -> Zn²⁺. X³⁺ (1) -> Ti³⁺. Y⁴⁺ (5) -> Co⁴⁺. Z⁴⁺ (3) -> Mn⁴⁺.",
+      "Recognize that Cobalt (Y) is used in modern rechargeable batteries."
     ],
-    "correctIndex": 1,
+    "stepExplanations": [
+      "W²⁺ with 0 unpaired is Zn²⁺. X³⁺ with 1 is Ti³⁺. Y⁴⁺ with 5 is Co⁴⁺. Z⁴⁺ with 3 is Mn⁴⁺.",
+      "Modern car batteries often use Lithium-ion technology, which utilizes Cobalt in the cathode.",
+      "The element Y (Cobalt) is used in modern car batteries."
+    ],
+    "choices": [
+      "W",
+      "X",
+      "Y",
+      "Z"
+    ],
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0NTAgMjUwIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIj4KICA8ZGVmcz4KICAgIDxzdHlsZT4KICAgICAgLnRhYmxlLWJvcmRlciB7CiAgICAgICAgZmlsbDogI2ZmZmZmZjsKICAgICAgICBzdHJva2U6ICMzMzMzMzM7CiAgICAgICAgc3Ryb2tlLXdpZHRoOiAxLjU7CiAgICAgICAgcng6IDEycHg7CiAgICAgICAgcnk6IDEycHg7CiAgICAgIH0KICAgICAgLmdyaWQtbGluZSB7CiAgICAgICAgc3Ryb2tlOiAjNTU1NTU1OwogICAgICAgIHN0cm9rZS13aWR0aDogMTsKICAgICAgfQogICAgICAuaGVhZGVyLXRleHQgewogICAgICAgIGZvbnQtZmFtaWx5OiBBcmlhbCwgc2Fucy1zZXJpZjsKICAgICAgICBmb250LXNpemU6IDE4cHg7CiAgICAgICAgZm9udC13ZWlnaHQ6IGJvbGQ7CiAgICAgICAgZmlsbDogIzAwODhmZjsKICAgICAgICB0ZXh0LWFuY2hvcjogbWlkZGxlOwogICAgICAgIGRvbWluYW50LWJhc2VsaW5lOiBjZW50cmFsOwogICAgICB9CiAgICAgIC5jZWxsLXRleHQgewogICAgICAgIGZvbnQtZmFtaWx5OiAiVGltZXMgTmV3IFJvbWFuIiwgVGltZXMsIHNlcmlmOwogICAgICAgIGZvbnQtc2l6ZTogMjBweDsKICAgICAgICBmaWxsOiAjMDAwMDAwOwogICAgICAgIHRleHQtYW5jaG9yOiBtaWRkbGU7CiAgICAgICAgZG9taW5hbnQtYmFzZWxpbmU6IGNlbnRyYWw7CiAgICAgIH0KICAgICAgLmlvbi1zeW1ib2wgewogICAgICAgIGZvbnQtZmFtaWx5OiBBcmlhbCwgc2Fucy1zZXJpZjsKICAgICAgICBmb250LXdlaWdodDogYm9sZDsKICAgICAgICBmb250LXNpemU6IDIwcHg7CiAgICAgIH0KICAgICAgLmlvbi1jaGFyZ2UgewogICAgICAgIGZvbnQtZmFtaWx5OiBBcmlhbCwgc2Fucy1zZXJpZjsKICAgICAgICBmb250LXNpemU6IDEzcHg7CiAgICAgICAgZm9udC13ZWlnaHQ6IGJvbGQ7CiAgICAgIH0KICAgIDwvc3R5bGU+CiAgPC9kZWZzPgoKICA8IS0tINil2LfYp9ixINin2YTYrNiv2YjZhCDYp9mE2LHYptmK2LPZiiDYqNit2YjYp9mBINmF2YbYrdmG2YrYqSAtLT4KICA8cmVjdCB4PSIxMCIgeT0iMTAiIHdpZHRoPSI0MzAiIGhlaWdodD0iMjMwIiBjbGFzcz0idGFibGUtYm9yZGVyIiAvPgoKICA8IS0tINin2YTYrti3INin2YTYsdij2LPZiiDYp9mE2YHYp9i12YQg2KjZitmGINin2YTYudmF2YjYr9mK2YYgLS0+CiAgPGxpbmUgeDE9IjE1MCIgeTE9IjEwIiB4Mj0iMTUwIiB5Mj0iMjQwIiBjbGFzcz0iZ3JpZC1saW5lIiAvPgoKICA8IS0tINin2YTYrti32YjYtyDYp9mE2KPZgdmC2YrYqSDYp9mE2YHYp9i12YTYqSDYqNmK2YYg2KfZhNi12YHZiNmBIC0tPgogIDxsaW5lIHgxPSIxMCIgeTE9IjU2IiB4Mj0iNDQwIiB5Mj0iNTYiIGNsYXNzPSJncmlkLWxpbmUiIC8+CiAgPGxpbmUgeDE9IjEwIiB5MT0iMTAyIiB4Mj0iNDQwIiB5Mj0iMTAyIiBjbGFzcz0iZ3JpZC1saW5lIiAvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjE0OCIgeDI9IjQ0MCIgeTI9IjE0OCIgY2xhc3M9ImdyaWQtbGluZSIgLz4KICA8bGluZSB4MT0iMTAiIHkxPSIxOTQiIHgyPSI0NDAiIHkyPSIxOTQiIGNsYXNzPSJncmlkLWxpbmUiIC8+CgogIDwhLS0g2KfZhNi52YbYp9mI2YrZhiAo2KfZhNi12YEg2KfZhNij2YjZhCkgLS0+CiAgPHRleHQgeD0iODAiIHk9IjMzIiBjbGFzcz0iaGVhZGVyLXRleHQiPklvbjwvdGV4dD4KICA8dGV4dCB4PSIyOTUiIHk9IjMzIiBjbGFzcz0iaGVhZGVyLXRleHQiPk5vLiBvZiB1bnBhaXJlZCBlbGVjdHJvbnM8L3RleHQ+CgogIDwhLS0g2KfZhNi12YEg2KfZhNir2KfZhtmKOiBXXjIrIC0tPgogIDx0ZXh0IHg9IjgwIiB5PSI3OSIgY2xhc3M9ImNlbGwtdGV4dCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+CiAgICA8dHNwYW4gY2xhc3M9Imlvbi1zeW1ib2wiPlc8L3RzcGFuPjx0c3BhbiBjbGFzcz0iaW9uLWNoYXJnZSIgZHk9Ii04Ij4yKzwvdHNwYW4+CiAgPC90ZXh0PgogIDx0ZXh0IHg9IjI5NSIgeT0iNzkiIGNsYXNzPSJjZWxsLXRleHQiPnplcm88L3RleHQ+CgogIDwhLS0g2KfZhNi12YEg2KfZhNir2KfZhNirOiBYXjMrIC0tPgogIDx0ZXh0IHg9IjgwIiB5PSIxMjUiIGNsYXNzPSJjZWxsLXRleHQiIHRleHQtYW5jaG9yPSJtaWRkbGUiPgogICAgPHRzcGFuIGNsYXNzPSJpb24tc3ltYm9sIj5YPC90c3Bhbj48dHNwYW4gY2xhc3M9Imlvbi1jaGFyZ2UiIGR5PSItOCI+Mys8L3RzcGFuPgogIDwvdGV4dD4KICA8dGV4dCB4PSIyOTUiIHk9IjEyNSIgY2xhc3M9ImNlbGwtdGV4dCI+MTwvdGV4dD4KCiAgPCEtLSDYp9mE2LXZgSDYp9mE2LHYp9io2Lk6IFleNCsgLS0+CiAgPHRleHQgeD0iODAiIHk9IjE3MSIgY2xhc3M9ImNlbGwtdGV4dCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+CiAgICA8dHNwYW4gY2xhc3M9Imlvbi1zeW1ib2wiPlk8L3RzcGFuPjx0c3BhbiBjbGFzcz0iaW9uLWNoYXJnZSIgZHk9Ii04Ij40KzwvdHNwYW4+CiAgPC90ZXh0PgogIDx0ZXh0IHg9IjI5NSIgeT0iMTcxIiBjbGFzcz0iY2VsbC10ZXh0Ij41PC90ZXh0PgoKICA8IS0tINin2YTYtdmBINin2YTYrtin2YXYszogWl40KyAtLT4KICA8dGV4dCB4PSI4MCIgeT0iMjE3IiBjbGFzcz0iY2VsbC10ZXh0IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj4KICAgIDx0c3BhbiBjbGFzcz0iaW9uLXN5bWJvbCI+WjwvdHNwYW4+PHRzcGFuIGNsYXNzPSJpb24tY2hhcmdlIiBkeT0iLTgiPjQrPC90c3Bhbj4KICA8L3RleHQ+CiAgPHRleHQgeD0iMjk1IiB5PSIyMTciIGNsYXNzPSJjZWxsLXRleHQiPjM8L3RleHQ+Cjwvc3ZnPgo=",
+    "correctIndex": 2,
     "variants": [
-      "What is the outermost sublevel that is filled in Neon (10Ne)?",
-      "Complete the table: Helium has outermost sublevel 1s², Neon has 2s² 2p⁶, Argon has ____, Krypton has ____.",
-      "Which noble gas has an outermost sublevel of 4s² 4p⁶?",
-      "What is the outermost sublevel for Radon (86Rn)?"
+      "Based on the given table of ions and their unpaired electrons, which element is used in modern car batteries?",
+      "Identify the element, among W, X, Y, and Z, that is utilized in current car battery technology.",
+      "Using the information in the table, which ion's element is employed in modern car batteries?",
+      "Which of the elements listed in the table is a component of modern car batteries?",
+      "From the provided data, the element used in modern car batteries is:"
     ]
   },
   {
     "id": 37,
-    "q": "What is the full electron configuration of Chlorine (17Cl) according to the Aufbau Principle?",
-    "answer": "The full electron configuration of Chlorine (17Cl) according to the Aufbau Principle is 1s² 2s² 2p⁶ 3s² 3p⁵.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "1s² 2s² 2p⁶ 3s² 3p⁵",
-      "1s² 2s² 2p⁶ 3s² 3p⁶",
-      "1s² 2s² 2p⁶ 3s² 3p⁴",
-      "[Ne] 3s² 3p⁵"
+    "q": "Which of the following represents a d-block element that lies in 4th period in the periodic table ?",
+    "answer": "3d sublevel in Cu⁺ ion is completely filled with electrons.",
+    "steps": [
+      "Evaluate each statement to find which describes a 4th period d-block element.",
+      "Identify that Cu (Copper) is a 4th period d-block element.",
+      "Recognize that Cu⁺ has a completely filled 3d subshell (3d¹⁰)."
     ],
-    "correctIndex": 0,
+    "stepExplanations": [
+      "Silver is in the 5th period.",
+      "Scandium is in the 4th period, but the statement about oxidation numbers is general.",
+      "Copper is in the 4th period. Cu⁺ has the configuration [Ar]3d¹⁰, which is a completely filled 3d sublevel.",
+      "Fe²⁺ has 4 unpaired electrons, not 3."
+    ],
+    "choices": [
+      "The electron configuration of the outer orbitals in silver atom is : ns¹, (n-1)d¹⁰",
+      "Scandium can exhibit various oxidation numbers.",
+      "3d sublevel in Cu⁺ ion is completely filled with electrons.",
+      "The orbitals of Fe²⁺ ion contain only 3 unpaired electrons."
+    ],
+    "image": null,
+    "correctIndex": 2,
     "variants": [
-      "What is the full electron configuration of Chlorine (17Cl) according to the Aufbau Principle?",
-      "What is the abbreviated core configuration of Chlorine (17Cl)?",
-      "The electron configuration [Ne] 3s² 3p⁵ corresponds to which element?",
-      "How many core electrons does Chlorine (17Cl) have according to its abbreviated configuration [Ne] 3s² 3p⁵?"
+      "Which statement correctly describes a d-block element located in the 4th period?",
+      "Identify the correct description of a fourth-period d-block element among the options.",
+      "Which of the following is true for a transition element in the 4th period?",
+      "Which statement accurately represents an element in the 4th period d-block?",
+      "Select the option that describes a d-block element in the 4th period."
     ]
   },
   {
     "id": 38,
-    "q": "What is the full electron configuration of Iron (26Fe)?",
-    "answer": "The full electron configuration of Iron (26Fe) is 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d⁶.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d⁵",
-      "1s² 2s² 2p⁶ 3s² 3p⁶ 4s¹ 3d⁶",
-      "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d⁶",
-      "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d⁷"
+    "q": "Which of the following ions have the electron configuration [Ar], 3d⁶ ?",
+    "answer": "Fe²⁺, Co³⁺",
+    "steps": [
+      "Determine the electron configuration of each ion.",
+      "Fe²⁺: [Ar]3d⁶.",
+      "Co³⁺: [Ar]3d⁶.",
+      "Select the pair containing Fe²⁺ and Co³⁺."
     ],
-    "correctIndex": 2,
+    "stepExplanations": [
+      "Fe²⁺ has lost the two 4s electrons from Fe ([Ar]4s²3d⁶), leaving [Ar]3d⁶.",
+      "Co³⁺ has lost the two 4s and one 3d electron from Co ([Ar]4s²3d⁷), leaving [Ar]3d⁶.",
+      "Both Fe²⁺ and Co³⁺ have the [Ar]3d⁶ configuration."
+    ],
+    "choices": [
+      "Mn²⁺, Co²⁺",
+      "Fe³⁺, Cr³⁺",
+      "Co³⁺, Mn³⁺",
+      "Fe²⁺, Co³⁺"
+    ],
+    "image": null,
+    "correctIndex": 3,
     "variants": [
-      "What is the full electron configuration of Iron (26Fe)?",
-      "What is the abbreviated core configuration of Iron (26Fe)?",
-      "An element has the electron configuration [Ar] 4s² 3d⁶. What is the element?",
-      "How many core electrons are present in an Iron (26Fe) atom according to its abbreviated configuration [Ar] 4s² 3d⁶?"
+      "Which pair of ions corresponds to the electron configuration [Ar]3d⁶?",
+      "Identify the ions that share the electron configuration [Ar]3d⁶.",
+      "The ions that have the configuration [Ar]3d⁶ are:",
+      "Which of the following sets of ions both have the [Ar]3d⁶ configuration?",
+      "Select the pair of ions with the electron configuration [Ar]3d⁶."
     ]
   },
   {
     "id": 39,
-    "q": "What is the full electron configuration of Cadmium (48Cd)?",
-    "answer": "The full electron configuration of Cadmium (48Cd) is 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰.",
+    "q": "In which of the following oxidation states is manganese ion the most stable ?",
+    "answer": "Mn²⁺",
     "steps": [],
     "stepExplanations": [],
     "choices": [
-      "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰",
-      "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s¹ 4d¹⁰",
-      "[Kr] 5s² 4d¹⁰",
-      "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d⁹"
+      "MnO₄²⁻",
+      "Mn₂O₃",
+      "Mn²⁺",
+      "MnO"
     ],
-    "correctIndex": 0,
+    "image": null,
+    "correctIndex": 2,
     "variants": [
-      "What is the full electron configuration of Cadmium (48Cd)?",
-      "What is the abbreviated core configuration of Cadmium (48Cd)?",
-      "Which element has the electron configuration [Kr] 5s² 4d¹⁰?",
-      "Identify the element that uses [Kr] as a core and has an outermost configuration of 5s² 4d¹⁰."
+      "In which oxidation state is the manganese ion most stable?",
+      "The most stable oxidation state of manganese is:",
+      "Which manganese ion exhibits the greatest stability?",
+      "Identify the most stable oxidation state of manganese.",
+      "The stable form of manganese ion is found at the oxidation state of:"
     ]
   },
   {
     "id": 40,
-    "q": "What is the full electron configuration of Barium (56Ba)?",
-    "answer": "The full electron configuration of Barium (56Ba) is 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s².",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s²",
-      "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s¹",
-      "[Xe] 6s²",
-      "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴"
+    "q": "Element (M) is found in the following formulas : • MO₂ • M₂O₃ • HMO₄⁻ • MO₄²⁻. Which of the following is likely to be metal (M) ?",
+    "answer": "Manganese.",
+    "steps": [
+      "Analyze the given formulas.",
+      "Recognize the formulas as those of manganese: MnO₂, Mn₂O₃, HMnO₄, MnO₄²⁻.",
+      "Conclude that M is Manganese."
     ],
-    "correctIndex": 0,
+    "stepExplanations": [
+      "These formulas correspond to different oxidation states of manganese.",
+      "MnO₂ is manganese dioxide. Mn₂O₃ is manganese(III) oxide.",
+      "HMnO₄ is permanganic acid. MnO₄²⁻ is the manganate ion.",
+      "Thus, the metal (M) is Manganese."
+    ],
+    "choices": [
+      "Chromium.",
+      "Manganese.",
+      "Iron.",
+      "Cobalt."
+    ],
+    "image": null,
+    "correctIndex": 1,
     "variants": [
-      "What is the full electron configuration of Barium (56Ba)?",
-      "What is the abbreviated core configuration of Barium (56Ba)?",
-      "An element has the abbreviated electron configuration [Xe] 6s². Which element is this?",
-      "Which noble gas core is used to write the abbreviated electron configuration of Barium?"
+      "Element M appears in the compounds MO₂, M₂O₃, HMO₄⁻, and MO₄²⁻. What is element M?",
+      "Which transition metal forms the compounds MO₂, M₂O₃, HMO₄⁻, and MO₄²⁻?",
+      "Identify the metal M from its following compounds: MO₂, M₂O₃, HMO₄⁻, MO₄²⁻.",
+      "The formulas MO₂, M₂O₃, HMO₄⁻, and MO₄²⁻ belong to which element?",
+      "Based on its oxides and oxoacids, element M is likely to be:"
     ]
   },
   {
     "id": 41,
-    "q": "What does Hund's Rule state about the pairing of electrons in orbitals?",
-    "answer": "Hund's Rule states that electrons do not pair up in an orbital of a sublevel until all orbitals of that sublevel contain one electron.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Electrons pair up in orbitals as soon as possible.",
-      "Electrons do not pair up until all orbitals in a sublevel have one electron each.",
-      "Electrons always pair up in the lowest energy orbital first.",
-      "Hund's Rule applies only to the s sublevel."
+    "q": "The cation of the transition metal whose oxide is MO contains 26 electrons. What is the metal which follows metal (M) in the same period ?",
+    "answer": "Cu",
+    "steps": [
+      "Identify the metal M from the cation information.",
+      "MO implies M²⁺. M²⁺ has 26 electrons, so M atom has 28 electrons.",
+      "The element with atomic number 28 is Nickel (Ni).",
+      "The element that follows Nickel in the 4th period is Copper (Cu)."
     ],
-    "correctIndex": 1,
+    "stepExplanations": [
+      "In the oxide MO, the metal M is in the +2 oxidation state.",
+      "M²⁺ has 26 electrons, so the neutral M atom has 28 electrons.",
+      "Atomic number 28 corresponds to Nickel (Ni).",
+      "Nickel is in the 4th period. The next element in the same period is Copper (Cu), atomic number 29."
+    ],
+    "choices": [
+      "Co",
+      "Ni",
+      "Cu",
+      "Zn"
+    ],
+    "image": null,
+    "correctIndex": 2,
     "variants": [
-      "What does Hund's Rule state about the pairing of electrons in orbitals?",
-      "According to Hund's Rule, under what condition will electrons pair up in an orbital?",
-      "A student suggests that two electrons can pair up in an orbital of a sublevel even if another orbital in that sublevel is empty. According to Hund's Rule, is this correct?"
+      "If the cation of the transition metal in MO has 26 electrons, which element comes after M in the same period?",
+      "The cation of metal M in the oxide MO has 26 electrons. Identify the element that follows M in its period.",
+      "Given that the cation of M in MO has 26 electrons, what is the next element in the period?",
+      "Determine the element that succeeds metal M in the periodic table, given its cation in MO has 26 electrons.",
+      "If M²⁺ has 26 electrons, what is the element that follows M in the 4th period?"
     ]
   },
   {
     "id": 42,
-    "q": "What is the electron configuration of Nitrogen (7N) and how many unpaired electrons does it have in its 2p sublevel?",
-    "answer": "Nitrogen (7N) has the electron configuration 1s² 2s² 2p³, with three unpaired electrons in the 2p sublevel.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "1s² 2s² 2p⁴; two unpaired electrons",
-      "1s² 2s² 2p³; three unpaired electrons",
-      "1s² 2s² 2p³; one unpaired electron",
-      "1s² 2s² 2p⁶; zero unpaired electrons"
+    "q": "The compound MXY₄ is used as an insecticide and a fungicide. What are the oxidation numbers of (M), (X) and (Y) in this compound ?",
+    "answer": "(M) : +2 , (X) : +6 , (Y) : -2",
+    "steps": [
+      "Identify the compound as Copper(II) sulfate (CuSO₄).",
+      "Determine the oxidation numbers: Cu = +2, S = +6, O = -2.",
+      "Select the corresponding option."
     ],
+    "stepExplanations": [
+      "The compound used as an insecticide and fungicide is Copper(II) sulfate, CuSO₄.",
+      "In CuSO₄, M is Copper (Cu), X is Sulfur (S), and Y is Oxygen (O).",
+      "The oxidation numbers are: Cu = +2, S = +6, and O = -2."
+    ],
+    "choices": [
+      "(M) : +3 , (X) : +5 , (Y) : -2",
+      "(M) : +2 , (X) : +6 , (Y) : -2",
+      "(M) : +2 , (X) : +6 , (Y) : -8",
+      "(M) : +1 , (X) : +7 , (Y) : -2"
+    ],
+    "image": null,
     "correctIndex": 1,
     "variants": [
-      "What is the electron configuration of Nitrogen (7N) and how many unpaired electrons does it have in its 2p sublevel?",
-      "What is the electron configuration of Oxygen (8O) and how many unpaired electrons does it have in its 2p sublevel?",
-      "How many unpaired electrons are present in the 2p sublevel of Neon (10Ne)?",
-      "Which element, according to Hund's rule example, has the configuration 1s² 2s² 2p³ with three unpaired electrons?"
+      "Identify the oxidation states of M, X, and Y in the formula MXY₄, which is an insecticide and fungicide.",
+      "Copper sulfate (MXY₄) is used as a fungicide. What are the oxidation numbers of M, X, and Y?",
+      "In the insecticidal compound MXY₄, what are the oxidation numbers of M, X, and Y respectively?",
+      "Determine the oxidation numbers of the elements in the compound MXY₄, used as a pesticide.",
+      "Given MXY₄ is a fungicide, what are the oxidation states of M, X, and Y?"
     ]
   },
   {
     "id": 43,
-    "q": "In what states is the atom considered more stable regarding its outermost sublevel orbitals?",
-    "answer": "The atom is more stable when the outermost sublevel orbitals are completely empty (0 electrons), half-filled (e.g., 3 electrons in p or 5 in d), or completely filled (e.g., 6 in p or 10 in d).",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Half-filled only",
-      "Completely filled only",
-      "Completely empty, half-filled, or completely filled",
-      "Partially filled"
+    "q": "Which of the following are correct for the mentioned compounds ?",
+    "answer": "Row 4",
+    "steps": [
+      "Evaluate the correctness of each row in the table.",
+      "Check Row 4: MnO₂ (+4), KMnO₄ (fish tank antiparasitic), MnSO₄ (added to soil).",
+      "Confirm that all statements in Row 4 are factually correct.",
+      "Select Row 4 as the correct option."
     ],
-    "correctIndex": 2,
+    "stepExplanations": [
+      "Row 1: MnSO₄ is a salt, not an alloy. Incorrect.",
+      "Row 2: MnO₂ does not reduce H₂SO₄. Incorrect.",
+      "Row 3: KMnO₄ is not used for detecting tumors. Incorrect.",
+      "Row 4: MnO₂ has Mn in +4 state, KMnO₄ is used in fish tanks, and MnSO₄ is a soil additive. Correct."
+    ],
+    "choices": [
+      "Row 1",
+      "Row 2",
+      "Row 3",
+      "Row 4"
+    ],
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NTAgMjkwIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIj4KICA8ZGVmcz4KICAgIDxzdHlsZT4KICAgICAgLmJnLWNhcmQgewogICAgICAgIGZpbGw6ICNmZmZmZmY7CiAgICAgICAgc3Ryb2tlOiAjMzMzMzMzOwogICAgICAgIHN0cm9rZS13aWR0aDogMS41OwogICAgICAgIHJ4OiAxMHB4OwogICAgICAgIHJ5OiAxMHB4OwogICAgICB9CiAgICAgIC5oZWFkZXItYmcgewogICAgICAgIGZpbGw6ICNlNmYzZmY7CiAgICAgIH0KICAgICAgLmdyaWQtbGluZSB7CiAgICAgICAgc3Ryb2tlOiAjNjY2NjY2OwogICAgICAgIHN0cm9rZS13aWR0aDogMTsKICAgICAgfQogICAgICAuaGVhZGVyLXRleHQgewogICAgICAgIGZvbnQtZmFtaWx5OiBBcmlhbCwgc2Fucy1zZXJpZjsKICAgICAgICBmb250LXNpemU6IDE1cHg7CiAgICAgICAgZm9udC13ZWlnaHQ6IGJvbGQ7CiAgICAgICAgZmlsbDogIzAwMDAwMDsKICAgICAgICB0ZXh0LWFuY2hvcjogbWlkZGxlOwogICAgICAgIGRvbWluYW50LWJhc2VsaW5lOiBjZW50cmFsOwogICAgICB9CiAgICAgIC5jaGVtLWhlYWRlciB7CiAgICAgICAgZm9udC1mYW1pbHk6ICJUaW1lcyBOZXcgUm9tYW4iLCBUaW1lcywgc2VyaWY7CiAgICAgICAgZm9udC1zaXplOiAxN3B4OwogICAgICAgIGZvbnQtd2VpZ2h0OiBib2xkOwogICAgICAgIGZpbGw6ICMwMDAwMDA7CiAgICAgICAgdGV4dC1hbmNob3I6IG1pZGRsZTsKICAgICAgICBkb21pbmFudC1iYXNlbGluZTogY2VudHJhbDsKICAgICAgfQogICAgICAuY2VsbC10ZXh0IHsKICAgICAgICBmb250LWZhbWlseTogQXJpYWwsIHNhbnMtc2VyaWY7CiAgICAgICAgZm9udC1zaXplOiAxMy41cHg7CiAgICAgICAgZmlsbDogIzAwMDAwMDsKICAgICAgICB0ZXh0LWFuY2hvcjogbWlkZGxlOwogICAgICAgIGRvbWluYW50LWJhc2VsaW5lOiBjZW50cmFsOwogICAgICB9CiAgICAgIC5jaGVtLXRleHQgewogICAgICAgIGZvbnQtZmFtaWx5OiAiVGltZXMgTmV3IFJvbWFuIiwgVGltZXMsIHNlcmlmOwogICAgICAgIGZvbnQtc2l6ZTogMTQuNXB4OwogICAgICAgIGZpbGw6ICMwMDAwMDA7CiAgICAgIH0KICAgICAgLmNob2ljZS1jaXJjbGUgewogICAgICAgIGZpbGw6ICNmZmZmZmY7CiAgICAgICAgc3Ryb2tlOiAjMmI3YmJhOwogICAgICAgIHN0cm9rZS13aWR0aDogMS4yOwogICAgICB9CiAgICAgIC5jaG9pY2UtdGV4dCB7CiAgICAgICAgZm9udC1mYW1pbHk6IEFyaWFsLCBzYW5zLXNlcmlmOwogICAgICAgIGZvbnQtc2l6ZTogMTNweDsKICAgICAgICBmb250LXdlaWdodDogYm9sZDsKICAgICAgICBmaWxsOiAjMmI3YmJhOwogICAgICAgIHRleHQtYW5jaG9yOiBtaWRkbGU7CiAgICAgICAgZG9taW5hbnQtYmFzZWxpbmU6IGNlbnRyYWw7CiAgICAgIH0KICAgICAgLnN1YnNjcmlwdCB7CiAgICAgICAgZm9udC1zaXplOiAxMHB4OwogICAgICB9CiAgICA8L3N0eWxlPgogIDwvZGVmcz4KCiAgPCEtLSDYrtmE2YHZitipINmI2KXYt9in2LEg2KfZhNis2K/ZiNmEINin2YTYsdim2YrYs9mKIC0tPgogIDxyZWN0IHg9IjEwIiB5PSIxMCIgd2lkdGg9IjYzMCIgaGVpZ2h0PSIyNzAiIGNsYXNzPSJiZy1jYXJkIiAvPgoKICA8IS0tINiu2YTZgdmK2Kkg2LXZgSDYp9mE2LnZhtin2YjZitmGINin2YTZh9mK2K/YsSAtLT4KICA8cGF0aCBkPSJNIDExIDExIEwgNjM5IDExIEEgOSA5IDAgMCAxIDYzOSA1MCBMIDExIDUwIFoiIGNsYXNzPSJoZWFkZXItYmciIC8+CgogIDwhLS0g2KfZhNiu2LfZiNi3INin2YTYsdij2LPZitipINin2YTZgdin2LXZhNipINio2YrZhiDYp9mE2KPYudmF2K/YqSAtLT4KICA8bGluZSB4MT0iMTAwIiB5MT0iMTAiIHgyPSIxMDAiIHkyPSIyODAiIGNsYXNzPSJncmlkLWxpbmUiIC8+CiAgPGxpbmUgeDE9IjI3NSIgeTE9IjEwIiB4Mj0iMjc1IiB5Mj0iMjgwIiBjbGFzcz0iZ3JpZC1saW5lIiAvPgogIDxsaW5lIHgxPSI0NTUiIHkxPSIxMCIgeDI9IjQ1NSIgeTI9IjI4MCIgY2xhc3M9ImdyaWQtbGluZSIgLz4KCiAgPCEtLSDYp9mE2K7Yt9mI2Lcg2KfZhNij2YHZgtmK2Kkg2KfZhNmB2KfYtdmE2Kkg2KjZitmGINin2YTYtdmB2YjZgSAtLT4KICA8bGluZSB4MT0iMTAiIHkxPSI1MCIgeDI9IjY0MCIgeTI9IjUwIiBjbGFzcz0iZ3JpZC1saW5lIiAvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjEwNy41IiB4Mj0iNjQwIiB5Mj0iMTA3LjUiIGNsYXNzPSJncmlkLWxpbmUiIC8+CiAgPGxpbmUgeDE9IjEwIiB5MT0iMTY1IiB4Mj0iNjQwIiB5Mj0iMTY1IiBjbGFzcz0iZ3JpZC1saW5lIiAvPgogIDxsaW5lIHgxPSIxMCIgeTE9IjIyMi41IiB4Mj0iNjQwIiB5Mj0iMjIyLjUiIGNsYXNzPSJncmlkLWxpbmUiIC8+CgogIDwhLS0g2LXZgSDYp9mE2LnZhtin2YjZitmGIC0tPgogIDx0ZXh0IHg9IjU1IiB5PSIzMCIgY2xhc3M9ImhlYWRlci10ZXh0Ij5DaG9pY2VzPC90ZXh0PgogIDx0ZXh0IHg9IjE4Ny41IiB5PSIzMCIgY2xhc3M9ImNoZW0taGVhZGVyIj5Nbk88dHNwYW4gZHk9IjQiIGNsYXNzPSJzdWJzY3JpcHQiPjI8L3RzcGFuPjwvdGV4dD4KICA8dGV4dCB4PSIzNjUiIHk9IjMwIiBjbGFzcz0iY2hlbS1oZWFkZXIiPktNbk88dHNwYW4gZHk9IjQiIGNsYXNzPSJzdWJzY3JpcHQiPjQ8L3RzcGFuPjwvdGV4dD4KICA8dGV4dCB4PSI1NDcuNSIgeT0iMzAiIGNsYXNzPSJjaGVtLWhlYWRlciI+TW5TTzx0c3BhbiBkeT0iNCIgY2xhc3M9InN1YnNjcmlwdCI+NDwvdHNwYW4+PC90ZXh0PgoKICA8IS0tINin2YTYtdmBIEEgLS0+CiAgPGNpcmNsZSBjeD0iNTUiIGN5PSI3OC43NSIgcj0iMTEiIGNsYXNzPSJjaG9pY2UtY2lyY2xlIiAvPgogIDx0ZXh0IHg9IjU1IiB5PSI3OC43NSIgY2xhc3M9ImNob2ljZS10ZXh0Ij5hPC90ZXh0PgogIDx0ZXh0IHg9IjE4Ny41IiB5PSI3MCIgY2xhc3M9ImNlbGwtdGV4dCI+TWFuZ2FuZXNlIG94aWRhdGlvbjwvdGV4dD4KICA8dGV4dCB4PSIxODcuNSIgeT0iODgiIGNsYXNzPSJjZWxsLXRleHQiPm51bWJlciBpcyArNDwvdGV4dD4KICA8dGV4dCB4PSIzNjUiIHk9IjcwIiBjbGFzcz0iY2VsbC10ZXh0Ij5Vc2VkIGluIHB1cmlmaWNhdGlvbjwvdGV4dD4KICA8dGV4dCB4PSIzNjUiIHk9Ijg4IiBjbGFzcz0iY2VsbC10ZXh0Ij5vZiB3YXRlcjwvdGV4dD4KICA8dGV4dCB4PSI1NDcuNSIgeT0iNzguNzUiIGNsYXNzPSJjZWxsLXRleHQiPk9uZSBvZiBtYW5nYW5lc2UgYWxsb3lzPC90ZXh0PgoKICA8IS0tINin2YTYtdmBIEIgLS0+CiAgPGNpcmNsZSBjeD0iNTUiIGN5PSIxMzYuMjUiIHI9IjExIiBjbGFzcz0iY2hvaWNlLWNpcmNsZSIgLz4KICA8dGV4dCB4PSI1NSIgeT0iMTM2LjI1IiBjbGFzcz0iY2hvaWNlLXRleHQiPmI8L3RleHQ+CiAgPHRleHQgeD0iMTg3LjUiIHk9IjEzNi4yNSIgY2xhc3M9ImNlbGwtdGV4dCI+CiAgICA8dHNwYW4+VXNlZCB0byByZWR1Y2UgSDwvdHNwYW4+PHRzcGFuIGR5PSIzIiBjbGFzcz0ic3Vic2NyaXB0Ij4yPC90c3Bhbj48dHNwYW4gZHk9Ii0zIj5TTzwvdHNwYW4+PHRzcGFuIGR5PSIzIiBjbGFzcz0ic3Vic2NyaXB0Ij40PC90c3Bhbj4KICA8L3RleHQ+CiAgPHRleHQgeD0iMzY1IiB5PSIxMjcuNSIgY2xhc3M9ImNlbGwtdGV4dCI+TWFuZ2FuZXNlIG94aWRhdGlvbjwvdGV4dD4KICA8dGV4dCB4PSIzNjUiIHk9IjE0NS41IiBjbGFzcz0iY2VsbC10ZXh0Ij5udW1iZXIgaXMgKzc8L3RleHQ+CiAgPHRleHQgeD0iNTQ3LjUiIHk9IjEzNi4yNSIgY2xhc3M9ImNlbGwtdGV4dCI+VXNlZCBhcyBpbmsgZHJ5ZXI8L3RleHQ+CgogIDwhLS0g2KfZhNi12YEgQyAtLT4KICA8Y2lyY2xlIGN4PSI1NSIgY3k9IjE5My43NSIgcj0iMTEiIGNsYXNzPSJjaG9pY2UtY2lyY2xlIiAvPgogIDx0ZXh0IHg9IjU1IiB5PSIxOTMuNzUiIGNsYXNzPSJjaG9pY2UtdGV4dCI+YzwvdGV4dD4KICA8dGV4dCB4PSIxODcuNSIgeT0iMTg1IiBjbGFzcz0iY2VsbC10ZXh0Ij5SZWFjdHMgd2l0aCBBbCBmb3JtaW5nPC90ZXh0PgogIDx0ZXh0IHg9IjE4Ny41IiB5PSIyMDMiIGNsYXNzPSJjZWxsLXRleHQiPgogICAgPHRzcGFuPkFsPC90c3Bhbj48dHNwYW4gZHk9IjMiIGNsYXNzPSJzdWJzY3JpcHQiPjI8L3RzcGFuPjx0c3BhbiBkeT0iLTMiPk88L3RzcGFuPjx0c3BhbiBkeT0iMyIgY2xhc3M9InN1YnNjcmlwdCI+MzwvdHNwYW4+PHRzcGFuIGR5PSItMyI+IGFuZCBNbjwvdHNwYW4+CiAgPC90ZXh0PgogIDx0ZXh0IHg9IjM2NSIgeT0iMTg1IiBjbGFzcz0iY2VsbC10ZXh0Ij5Vc2VkIGluIGRldGVjdGluZzwvdGV4dD4KICA8dGV4dCB4PSIzNjUiIHk9IjIwMyIgY2xhc3M9ImNlbGwtdGV4dCI+bWFsaWduYW50IHR1bW9yczwvdGV4dD4KICA8dGV4dCB4PSI1NDcuNSIgeT0iMTg1IiBjbGFzcz0iY2VsbC10ZXh0Ij5NYW5nYW5lc2Ugb3hpZGF0aW9uPC90ZXh0PgogIDx0ZXh0IHg9IjU0Ny41IiB5PSIyMDMiIGNsYXNzPSJjZWxsLXRleHQiPm51bWJlciBpcyArMjwvdGV4dD4KCiAgPCEtLSDYp9mE2LXZgSBEIC0tPgogIDxjaXJjbGUgY3g9IjU1IiBjeT0iMjUxLjI1IiByPSIxMSIgY2xhc3M9ImNob2ljZS1jaXJjbGUiIC8+CiAgPHRleHQgeD0iNTUiIHk9IjI1MS4yNSIgY2xhc3M9ImNob2ljZS10ZXh0Ij5kPC90ZXh0PgogIDx0ZXh0IHg9IjE4Ny41IiB5PSIyNDIuNSIgY2xhc3M9ImNlbGwtdGV4dCI+TWFuZ2FuZXNlIG94aWRhdGlvbjwvdGV4dD4KICA8dGV4dCB4PSIxODcuNSIgeT0iMjYwLjUiIGNsYXNzPSJjZWxsLXRleHQiPm51bWJlciBpcyArNDwvdGV4dD4KICA8dGV4dCB4PSIzNjUiIHk9IjI0Mi41IiBjbGFzcz0iY2VsbC10ZXh0Ij5Vc2VkIGluIGZpc2ggdGFua3MgYXM8L3RleHQ+CiAgPHRleHQgeD0iMzY1IiB5PSIyNjAuNSIgY2xhc3M9ImNlbGwtdGV4dCI+YW4gYW50aXBhcmFzaXRpYzwvdGV4dD4KICA8dGV4dCB4PSI1NDcuNSIgeT0iMjQyLjUiIGNsYXNzPSJjZWxsLXRleHQiPkFkZGVkIHRvIHRoZSBzb2lsIHRvPC90ZXh0PgogIDx0ZXh0IHg9IjU0Ny41IiB5PSIyNjAuNSIgY2xhc3M9ImNlbGwtdGV4dCI+cHJvdGVjdCBjaXRydXMgY3JvcHM8L3RleHQ+Cjwvc3ZnPgo=",
+    "correctIndex": 3,
     "variants": [
-      "In what states is the atom considered more stable regarding its outermost sublevel orbitals?",
-      "Which of the following outermost sublevel configurations would lead to a more stable atom: half-filled, completely filled, or partially filled?",
-      "Give an example of a half-filled sublevel that contributes to atomic stability.",
-      "Why are atoms with completely empty, half-filled, or completely filled outermost sublevels considered more stable?"
+      "Which row in the table contains completely correct information?",
+      "Identify the row where all statements about the compounds are accurate.",
+      "Select the correct row from the provided table of compound properties.",
+      "Which of the following rows contains only correct statements?",
+      "The row with the correct descriptions of the compounds is:"
     ]
   },
   {
     "id": 44,
-    "q": "What is the definition of ionization energy?",
-    "answer": "Ionization energy is the energy required to remove an electron from a gaseous atom or ion.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "The energy released when an electron is added to a gaseous atom.",
-      "The energy required to remove an electron from a gaseous atom or ion.",
-      "The energy required to add an electron to a gaseous atom.",
-      "The energy released when an electron is removed from a gaseous atom."
+    "q": "Metal (M) which lies in the first transition series : • Has high hardness as steel, yet still lighter than steel. • Its stable chloride salt is MCl₃. • It reacts with water as follows : M + 2H₂O → MO₂ + 2H₂. Another property of metal (M) is that ............",
+    "answer": "it is harder than aluminum at high temperatures.",
+    "steps": [
+      "Identify the metal M as Titanium based on its properties.",
+      "Evaluate the properties of Titanium.",
+      "Note that Titanium is harder than aluminum at high temperatures."
     ],
-    "correctIndex": 1,
+    "stepExplanations": [
+      "Titanium is a first transition series metal with high hardness and lower density than steel.",
+      "Titanium forms TiCl₃ and reacts with water to form TiO₂.",
+      "Titanium is known to maintain its hardness and strength at high temperatures better than aluminum.",
+      "Thus, the additional property is that it is harder than aluminum at high temperatures."
+    ],
+    "choices": [
+      "it is brittle in its pure form.",
+      "it is toxic for human body.",
+      "it is harder than aluminum at high temperatures.",
+      "it is a strong oxidizing agent."
+    ],
+    "image": null,
+    "correctIndex": 2,
     "variants": [
-      "What is the definition of ionization energy?",
-      "What is the minimum energy required to remove an electron from a gaseous atom called?",
-      "Define the term \"ionization energy\" in the context of chemistry."
+      "Based on its properties, what is another characteristic of metal M?",
+      "Which additional property correctly describes the transition metal M?",
+      "Metal M, identified by its reaction with water and chloride salt, also possesses the property that:",
+      "Given the characteristics of metal M, which of the following is true?",
+      "The transition metal M, known for its lightweight strength, is also characterized by:"
     ]
   },
   {
     "id": 45,
-    "q": "If a small amount of energy is required to remove an electron from an atom, what does this indicate about the electron's binding to the nucleus?",
-    "answer": "If the energy removed is small, the electrons are relatively loosely bound to the nucleus.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "The electrons are strongly bound to the nucleus.",
-      "The electrons are loosely bound to the nucleus.",
-      "The electrons are not bound to the nucleus.",
-      "The binding energy is irrelevant."
+    "q": "The ion of metal (M) in the compound MO₂ contains 3 electrons in 3d sublevel. What is the formula of the sulphate salt of (M) in which 3d sublevel contains 5 electrons ? What is the use of this compound ?",
+    "answer": "MSO₄ / Fungicide.",
+    "steps": [
+      "Determine M from MO₂. M⁴⁺ has 3d³, so M is Mn.",
+      "Find the sulfate salt where Mn has 3d⁵. This is Mn²⁺ (3d⁵).",
+      "Formula of the sulfate salt is MnSO₄.",
+      "Identify the use of MnSO₄ as a fungicide."
     ],
-    "correctIndex": 1,
+    "stepExplanations": [
+      "MO₂ implies M⁴⁺. M⁴⁺ has 3d³, so the neutral atom M has 3d⁷ (Mn).",
+      "A 3d⁵ configuration corresponds to Mn²⁺.",
+      "The sulfate salt of Mn²⁺ is MnSO₄ (M=Mn).",
+      "Manganese sulfate is commonly used as a fungicide."
+    ],
+    "choices": [
+      "MSO₄ / Oxidizing agent.",
+      "MSO₄ / Dry battery.",
+      "M(SO₄)₂ / Insecticide.",
+      "MSO₄ / Fungicide."
+    ],
+    "image": null,
+    "correctIndex": 3,
     "variants": [
-      "If a small amount of energy is required to remove an electron from an atom, what does this indicate about the electron's binding to the nucleus?",
-      "What can be inferred about the binding of an electron to the nucleus if its ionization energy is small?"
+      "What is the sulfate salt of M, and what is it used for?",
+      "The sulfate salt of metal M with a 3d⁵ configuration is used as what?",
+      "Identify the formula and use of the sulfate salt of M where the 3d sublevel is half-filled.",
+      "Which compound of M is utilized as a fungicide?",
+      "Determine the sulfate salt of M and its application."
     ]
   },
   {
     "id": 46,
-    "q": "If a large amount of energy is required to remove an electron from an atom, what does this indicate about the electron's binding to the nucleus?",
-    "answer": "If the energy removed is large, the electrons are more strongly bound to the nucleus.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "The electrons are loosely bound to the nucleus.",
-      "The electrons are strongly bound to the nucleus.",
-      "The electrons are not bound to the nucleus.",
-      "The binding energy is irrelevant."
+    "q": "The atoms of the transition metal which is used in leather tanning are similar to the atoms of the metal which was first discovered in ............",
+    "answer": "the ability to form the metal chloride MCl₃",
+    "steps": [
+      "Identify the metal used in leather tanning as Chromium.",
+      "Identify the metal which was first discovered (in the context) as Titanium.",
+      "Find a similarity between their atoms.",
+      "Both can form MCl₃ (CrCl₃ and TiCl₃)."
     ],
-    "correctIndex": 1,
+    "stepExplanations": [
+      "Chromium is used in leather tanning.",
+      "Titanium is a transition metal that was discovered around the same time period.",
+      "Both Chromium and Titanium can form chlorides in the +3 oxidation state (MCl₃).",
+      "The similarity is their ability to form the metal chloride MCl₃."
+    ],
+    "choices": [
+      "the ability to form the metal chloride MCl₃",
+      "the number of the electrons of 4s sublevel.",
+      "the ability to be used in fungicides.",
+      "the number of the electrons of 3d sublevel."
+    ],
+    "image": null,
+    "correctIndex": 0,
     "variants": [
-      "If a large amount of energy is required to remove an electron from an atom, what does this indicate about the electron's binding to the nucleus?",
-      "What does a high ionization energy suggest about the strength of binding of an electron to the nucleus?"
+      "What is the similarity between the atoms of the transition metal used in leather tanning and the first discovered metal?",
+      "The atoms of the leather-tanning transition metal resemble those of the first discovered metal in what aspect?",
+      "Identify the point of similarity between Chromium and the first discovered transition metal.",
+      "Which property is shared by the atoms of the metal used in tanning and the metal first discovered?",
+      "The atoms of the tanning metal and the first discovered metal are similar regarding:"
     ]
   },
   {
     "id": 47,
-    "q": "What happens to an atom when it loses one or more electrons from its outermost energy level?",
-    "answer": "The atom becomes a positively charged ion after losing one or more electrons from its outermost energy level.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "It becomes a negatively charged ion.",
-      "It becomes a neutral atom.",
-      "It becomes a positively charged ion.",
-      "It becomes a molecule."
+    "q": "The first transition series metals can react with halogens. Which of the following are the most stable metal halides ?",
+    "answer": "TiCl₄, VF₅, FeCl₃",
+    "steps": [
+      "Examine the given sets of metal halides.",
+      "Determine which set contains the most stable halides.",
+      "TiCl₄, VF₅, and FeCl₃ are stable halides of their respective metals."
     ],
+    "stepExplanations": [
+      "TiCl₄ is a stable chloride of Titanium(IV).",
+      "VF₅ is a stable fluoride of Vanadium(V).",
+      "FeCl₃ is a stable chloride of Iron(III).",
+      "These represent the most stable combinations of the metals with halogens."
+    ],
+    "choices": [
+      "TiCl₂, VBr₃, FeCl₃",
+      "TiCl₄, VCl₄, MnBr₃",
+      "TiCl₄, VF₅, FeCl₃",
+      "TiBr₃, VCl₃, FeCl₂"
+    ],
+    "image": null,
     "correctIndex": 2,
     "variants": [
-      "What happens to an atom when it loses one or more electrons from its outermost energy level?",
-      "What type of charge does an ion have after an atom loses one or more electrons?",
-      "An atom loses 2 electrons. What is the charge of the resulting ion, and what is this process called?"
+      "Which set represents the most stable halides of the first transition series metals?",
+      "Identify the most stable group of metal halides from the choices.",
+      "The halides of Ti, V, and Fe that are most stable are found in which option?",
+      "Select the option that lists the most stable halides of the transition metals.",
+      "Which combination of metal halides is considered the most stable?"
     ]
   },
   {
     "id": 48,
-    "q": "Does a single element have one ionization energy, or does it have multiple?",
-    "answer": "The same element has multiple ionization energies.",
+    "q": "What is the formula of yttrium sulphide salt ?",
+    "answer": "Y₂S₃",
     "steps": [],
     "stepExplanations": [],
     "choices": [
-      "Only one ionization energy",
-      "Multiple ionization energies",
-      "Two ionization energies",
-      "No ionization energy"
+      "Y₂S₃",
+      "YS",
+      "Y₂S",
+      "YS₃"
     ],
-    "correctIndex": 1,
+    "image": null,
+    "correctIndex": 0,
     "variants": [
-      "Does a single element have one ionization energy, or does it have multiple?",
-      "How many ionization energies can a single element possess?",
-      "A student says an element has only one ionization energy. Is this statement correct?"
+      "Determine the chemical formula for yttrium sulfide.",
+      "What is the correct formula for the sulfide salt of yttrium?",
+      "Yttrium sulfide is represented by which chemical formula?",
+      "Identify the formula of yttrium sulphide.",
+      "Which of the following is the formula for yttrium sulfide?"
     ]
   },
   {
     "id": 49,
-    "q": "What is the charge of the ion formed by the first ionization energy, and what is its general equation?",
-    "answer": "The first ionization energy leads to the formation of an ion with a charge of +1. The equation is: M(g) + Energy → M⁺(g) + e⁻, where ΔH = (I₁) kJ/mol.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Charge +1; M(g) + Energy → M⁺(g) + e⁻",
-      "Charge +2; M(g) + Energy → M²⁺(g) + 2e⁻",
-      "Charge +1; M(g) + Energy → M⁻(g) + e⁻",
-      "Charge +2; M(g) + Energy → M²⁺(g) + e⁻"
+    "q": "The nanoparticles of the transition metal (M) oxide have the ability to absorb the ultraviolet rays. All the following are possible oxidation states of this metal and its ions, except ............",
+    "answer": "M²⁺ → M⁴⁺",
+    "steps": [
+      "Identify the metal M as Zinc (ZnO absorbs UV).",
+      "Check the possible oxidation state transitions for Zinc.",
+      "Zinc does not have a +4 oxidation state, so M²⁺ to M⁴⁺ is impossible."
     ],
-    "correctIndex": 0,
+    "stepExplanations": [
+      "Zinc oxide (ZnO) nanoparticles are known for absorbing UV radiation.",
+      "The common oxidation states of zinc are 0 and +2.",
+      "It cannot form a +4 ion, so the transition from M²⁺ to M⁴⁺ is not possible.",
+      "Thus, M²⁺ → M⁴⁺ is the exception."
+    ],
+    "choices": [
+      "M → M²⁺",
+      "M²⁺ → M⁴⁺",
+      "M → M³⁺",
+      "M³⁺ → M⁵⁺"
+    ],
+    "image": null,
+    "correctIndex": 1,
     "variants": [
-      "What is the charge of the ion formed by the first ionization energy, and what is its general equation?",
-      "Write the general chemical equation for the first ionization energy of an element M.",
-      "What does the notation ΔH = (I₁) kJ/mol represent in the context of ionization energy?"
+      "Which oxidation state change is not possible for the metal M used in UV-absorbing nanoparticles?",
+      "All of the following are possible for the UV-absorbing transition metal except:",
+      "Identify the impossible oxidation state transition for metal M.",
+      "Which of the following oxidation number changes cannot occur for element M?",
+      "The transition metal oxide that absorbs UV does not allow which oxidation state change?"
     ]
   },
   {
     "id": 50,
-    "q": "What is the charge of the ion formed by the second ionization energy, and what is its general equation?",
-    "answer": "The second ionization energy leads to the formation of an ion with a charge of +2. The equation is: M⁺(g) + Energy → M²⁺(g) + e⁻, where ΔH = (I₂) kJ/mol.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Charge +1; M⁺(g) + Energy → M²⁺(g) + e⁻",
-      "Charge +2; M⁺(g) + Energy → M²⁺(g) + e⁻",
-      "Charge +2; M(g) + Energy → M²⁺(g) + 2e⁻",
-      "Charge +3; M²⁺(g) + Energy → M³⁺(g) + e⁻"
+    "q": "The magnetic transition element (M) does not exhibit an oxidation state whose electron configuration is ............",
+    "answer": "d⁹",
+    "steps": [
+      "Identify the magnetic transition elements (Fe, Co, Ni).",
+      "Check which configuration is not a common oxidation state for them.",
+      "Fe: d⁵, d⁶. Co: d⁶, d⁷. Ni: d⁸ (Ni²⁺), d⁹ (Ni⁺, not common).",
+      "Conclude that d⁹ is the exception."
     ],
-    "correctIndex": 1,
+    "stepExplanations": [
+      "Magnetic transition elements are Fe, Co, and Ni.",
+      "Fe has oxidation states Fe²⁺ (d⁶) and Fe³⁺ (d⁵).",
+      "Co has Co²⁺ (d⁷) and Co³⁺ (d⁶).",
+      "Ni has Ni²⁺ (d⁸) as a common state, while Ni⁺ (d⁹) is not commonly exhibited."
+    ],
+    "choices": [
+      "d⁵",
+      "d⁶",
+      "d⁷",
+      "d⁹"
+    ],
+    "image": null,
+    "correctIndex": 3,
     "variants": [
-      "What is the charge of the ion formed by the second ionization energy, and what is its general equation?",
-      "Write the general chemical equation for the second ionization energy of an element M.",
-      "What process does the equation M⁺(g) → M²⁺(g) + e⁻ represent?"
+      "Which electron configuration is not observed in an oxidation state of a magnetic transition element?",
+      "The magnetic transition element M does not show an oxidation state with which configuration?",
+      "Identify the electron configuration that is not possible for an ion of a magnetic transition element.",
+      "Which d-orbital configuration is not exhibited by a magnetic transition metal?",
+      "The transition element M, which is magnetic, lacks an oxidation state corresponding to:"
     ]
   },
   {
     "id": 51,
-    "q": "What is the charge of the ion formed by the third ionization energy, and what is its general equation?",
-    "answer": "The third ionization energy leads to the formation of an ion with a charge of +3. The equation is: M²⁺(g) + Energy → M³⁺(g) + e⁻, where ΔH = (I₃) kJ/mol.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Charge +2; M²⁺(g) + Energy → M³⁺(g) + e⁻",
-      "Charge +3; M²⁺(g) + Energy → M³⁺(g) + e⁻",
-      "Charge +3; M³⁺(g) + Energy → M⁴⁺(g) + e⁻",
-      "Charge +2; M⁺(g) + Energy → M²⁺(g) + e⁻"
+    "q": "In the reaction : 2KMnO₄ + 16HCl → 5Cl₂ + 2MnCl₂ + 2KCl + 8H₂O. What is the product of the reduction process ?",
+    "answer": "MnCl₂",
+    "steps": [
+      "Identify the oxidation state changes in the reaction.",
+      "Mn in KMnO₄ goes from +7 to +2 in MnCl₂ (reduction).",
+      "Cl in HCl goes from -1 to 0 in Cl₂ (oxidation).",
+      "The product of the reduction process is MnCl₂."
     ],
+    "stepExplanations": [
+      "In the reaction, potassium permanganate is reduced.",
+      "The manganese atom changes its oxidation state from +7 to +2.",
+      "This reduction process results in the formation of manganese(II) chloride, MnCl₂."
+    ],
+    "choices": [
+      "Cl₂",
+      "MnCl₂",
+      "H₂O",
+      "KCl"
+    ],
+    "image": null,
     "correctIndex": 1,
     "variants": [
-      "What is the charge of the ion formed by the third ionization energy, and what is its general equation?",
-      "Write the general chemical equation for the third ionization energy of an element M.",
-      "An atom undergoes its third ionization. What is the equation representing this step?"
+      "In the given reaction, which compound is formed as a result of the reduction process?",
+      "Identify the product that corresponds to the reduction step in the reaction.",
+      "Which substance is the reduction product in this chemical equation?",
+      "The species produced by the reduction in the reaction is:",
+      "Select the product of the reduction process from the reaction 2KMnO₄ + 16HCl → ..."
     ]
   },
   {
     "id": 52,
-    "q": "What is the general trend for successive ionization energies of an element?",
-    "answer": "Successive ionization energies increase (I₁ < I₂ < I₃).",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "I₁ > I₂ > I₃",
-      "I₁ < I₂ < I₃",
-      "I₁ = I₂ = I₃",
-      "I₁ > I₂ < I₃"
+    "q": "The compounds KXO₄ and K₂XO₄ can be converted to one another. What is the oxidation number of the transition element (X) in each of the oxidizing agent and the reducing agent respectively ?",
+    "answer": "+7 / +6",
+    "steps": [
+      "Identify X as Manganese (Mn).",
+      "KMnO₄ has Mn in +7 state.",
+      "K₂MnO₄ has Mn in +6 state.",
+      "The oxidizing agent is KMnO₄ (+7) and the reducing agent is K₂MnO₄ (+6)."
     ],
-    "correctIndex": 1,
+    "stepExplanations": [
+      "KXO₄ corresponds to KMnO₄, where Mn has an oxidation state of +7.",
+      "K₂XO₄ corresponds to K₂MnO₄, where Mn has an oxidation state of +6.",
+      "The compound with the higher oxidation state acts as the oxidizing agent.",
+      "Thus, X is +7 in the oxidizing agent and +6 in the reducing agent."
+    ],
+    "choices": [
+      "+7 / +6",
+      "+5 / +6",
+      "+7 / +7",
+      "+5 / +7"
+    ],
+    "image": null,
+    "correctIndex": 0,
     "variants": [
-      "What is the general trend for successive ionization energies of an element?",
-      "Arrange the ionization energies I₁, I₂, and I₃ in increasing order of magnitude.",
-      "Which is larger: the second ionization energy or the first ionization energy of an element?"
+      "What are the oxidation numbers of element X in the oxidizing and reducing agents KXO₄ and K₂XO₄?",
+      "In the interconversion of KXO₄ and K₂XO₄, what are the oxidation states of X in the oxidizing and reducing agents?",
+      "Determine the oxidation numbers of the transition element X in KXO₄ and K₂XO₄ respectively.",
+      "The oxidation number of X in the oxidizing agent and the reducing agent are:",
+      "Identify the oxidation states of X in KXO₄ and K₂XO₄."
     ]
   },
   {
     "id": 53,
-    "q": "What does a sudden increase in successive ionization energies indicate about the electron being removed?",
-    "answer": "A sudden increase in successive ionization energies indicates a change in the electron shell (e.g., moving from the outermost shell to an inner shell).",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "It indicates no change in the electron shell.",
-      "It indicates a change in the electron shell, moving to an inner shell.",
-      "It indicates a change in the electron shell, moving to an outer shell.",
-      "It indicates that the next electron is easier to remove."
+    "q": "The following compounds can act as oxidizing or reducing agents in the chemical reactions, except ............",
+    "answer": "Sc₂O₃",
+    "steps": [
+      "Evaluate the ability of each compound to act as an oxidizing or reducing agent.",
+      "FeO: Fe is +2, can be oxidized to +3.",
+      "MnO: Mn is +2, can be oxidized to higher states.",
+      "Cr₂O₃: Cr is +3, can be oxidized to +6.",
+      "Sc₂O₃: Sc is +3 (maximum), cannot be oxidized.",
+      "Conclude that Sc₂O₃ is the exception."
     ],
-    "correctIndex": 1,
+    "stepExplanations": [
+      "FeO and MnO contain metals in lower oxidation states, allowing them to act as reducing agents.",
+      "Cr₂O₃ contains Cr in +3 state, which can be oxidized to +6.",
+      "Sc₂O₃ contains Sc in its maximum oxidation state of +3, so it cannot be oxidized.",
+      "Therefore, Sc₂O₃ cannot act as a reducing agent."
+    ],
+    "choices": [
+      "FeO",
+      "MnO",
+      "Sc₂O₃",
+      "Cr₂O₃"
+    ],
+    "image": null,
+    "correctIndex": 2,
     "variants": [
-      "What does a sudden increase in successive ionization energies indicate about the electron being removed?",
-      "If there is a large jump between the first and second ionization energies, what does this imply about the electron shells?",
-      "Why does the third ionization energy show a massive increase compared to the second in some elements?"
+      "Which of the following compounds cannot function as an oxidizing or reducing agent?",
+      "All of the following can act as reducing agents except:",
+      "Identify the compound that does not have the ability to act as a reducing agent.",
+      "Which of these oxides cannot be further oxidized?",
+      "The compound that cannot act as a reducing agent is:"
     ]
   },
   {
     "id": 54,
-    "q": "How is oxidation number (state) defined?",
-    "answer": "Oxidation number (state) is defined as the charge that appears on the atom or ion in a compound.",
+    "q": "What is the metal whose oxide has the chemical formula M₂O₃ and is used in dyes industry ?",
+    "answer": "Cr",
     "steps": [],
     "stepExplanations": [],
     "choices": [
-      "The charge that appears on an atom or ion in a compound",
-      "The charge that appears on an atom in its elemental form",
-      "The number of electrons gained or lost by an atom",
-      "The charge of the nucleus of an atom"
+      "V",
+      "Ti",
+      "Cr",
+      "Mn"
     ],
-    "correctIndex": 0,
+    "image": null,
+    "correctIndex": 2,
     "variants": [
-      "How is oxidation number (state) defined?",
-      "What is the charge that appears on an atom or ion in a compound called?",
-      "What does the term \"oxidation state\" refer to in a chemical compound?"
+      "Which metal forms the oxide M₂O₃ used in the production of dyes?",
+      "The oxide M₂O₃, used in the dye industry, belongs to which metal?",
+      "Identify the metal M whose oxide M₂O₃ is used as a dye.",
+      "Which transition metal forms an oxide of formula M₂O₃ that is utilized in dyes?",
+      "Name the metal whose M₂O₃ oxide finds application in the dye industry."
     ]
   },
   {
     "id": 55,
-    "q": "Which group of elements is characterized by variable oxidation states?",
-    "answer": "Transition elements are characterized by variable oxidation states.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Alkali metals",
-      "Halogens",
-      "Transition elements",
-      "Noble gases"
+    "q": "Metal (M) which lies in the 4th period, group 3B, reacts with sulphuric acid forming hydrogen gas and a salt whose chemical formula is ............",
+    "answer": "M₂(SO₄)₃",
+    "steps": [
+      "Identify the metal M in period 4, group 3B as Scandium (Sc).",
+      "Scandium forms a +3 ion (Sc³⁺).",
+      "The sulfate ion is SO₄²⁻.",
+      "Balance the charges to get the formula: Sc₂(SO₄)₃."
     ],
-    "correctIndex": 2,
+    "stepExplanations": [
+      "Period 4, group 3B corresponds to the element Scandium.",
+      "Scandium typically exhibits a +3 oxidation state.",
+      "The sulfate ion has a -2 charge, so two Sc³⁺ ions are needed for three sulfate ions.",
+      "The chemical formula is M₂(SO₄)₃."
+    ],
+    "choices": [
+      "MSO₄",
+      "M₂(SO₄)₃",
+      "M(SO₄)₂",
+      "M₂(SO₄)₃"
+    ],
+    "image": null,
+    "correctIndex": 1,
     "variants": [
-      "Which group of elements is characterized by variable oxidation states?",
-      "Why is it common for transition elements to have multiple oxidation states?",
-      "Identify the class of elements that most often exhibits variable oxidation states."
+      "When the metal in period 4, group 3B, reacts with sulfuric acid, what is the formula of the salt produced?",
+      "Determine the chemical formula of the salt formed by the reaction of the period 4, group 3B metal with H₂SO₄.",
+      "What is the sulfate salt formula for the metal located in group 3B, period 4?",
+      "The reaction of the group 3B metal in period 4 with sulfuric acid yields a salt with which formula?",
+      "Identify the formula of the salt resulting from the reaction between sulfuric acid and the group 3B metal in the 4th period."
     ]
   },
   {
     "id": 56,
-    "q": "What does a positive oxidation number indicate about the element?",
-    "answer": "A positive oxidation number indicates that the element has lost electrons.",
+    "q": "Which of the following is the electron configuration of a nontransition element ?",
+    "answer": "ns², (n-1)d¹⁰",
     "steps": [],
     "stepExplanations": [],
     "choices": [
-      "The element has gained electrons.",
-      "The element has lost electrons.",
-      "The element has neither gained nor lost electrons.",
-      "The element has formed a covalent bond."
+      "ns², (n-1)d³",
+      "ns², (n-1)d¹⁰",
+      "ns², (n-1)d⁶",
+      "ns¹, (n-1)d¹⁰"
     ],
+    "image": null,
     "correctIndex": 1,
     "variants": [
-      "What does a positive oxidation number indicate about the element?",
-      "If an element is in a positive oxidation state, has it lost or gained electrons?",
-      "An element has an oxidation number of +2. What has happened to its electrons?"
+      "Which electron configuration represents a nontransition element?",
+      "Identify the configuration that belongs to a non-transition element.",
+      "Select the outer electron arrangement of a nontransition element.",
+      "Which of the following configurations is not characteristic of a transition element?",
+      "The electron configuration of a nontransition element among these is:"
     ]
   },
   {
     "id": 57,
-    "q": "What does a negative oxidation number indicate about the element?",
-    "answer": "A negative oxidation number indicates that the element has gained electrons.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "The element has gained electrons.",
-      "The element has lost electrons.",
-      "The element has neither gained nor lost electrons.",
-      "The element has formed an ionic bond."
+    "q": "Which of the following sets of elements includes one main transition element ?",
+    "answer": "V , Th and Hg",
+    "steps": [
+      "Examine each set of elements.",
+      "Determine which elements are transition metals.",
+      "Identify the set that contains exactly one transition element.",
+      "V is a transition element, Th is an actinide, Hg is a post-transition metal.",
+      "Thus, V, Th, and Hg contain only one main transition element."
     ],
-    "correctIndex": 0,
+    "stepExplanations": [
+      "Fe, Cu, and Ni are all transition elements.",
+      "Cu, Ag, and Cd: Cu and Ag are transition metals, Cd may be considered non-transition in some contexts.",
+      "Zn, Mn, and Ti: Zn is not a transition metal (full d), Mn and Ti are.",
+      "V is a transition metal, Th is an actinide, and Hg is a post-transition metal.",
+      "Therefore, the set with only one main transition element is V, Th, and Hg."
+    ],
+    "choices": [
+      "Fe , Cu and Ni",
+      "Cu , Ag and Cd",
+      "Zn , Mn and Ti",
+      "V , Th and Hg"
+    ],
+    "image": null,
+    "correctIndex": 3,
     "variants": [
-      "What does a negative oxidation number indicate about the element?",
-      "If an element is in a negative oxidation state, has it lost or gained electrons?",
-      "An element has an oxidation number of -1. What has happened to its electrons?"
+      "Which group of elements contains exactly one main transition element?",
+      "Identify the set that includes only a single main transition element.",
+      "Which of the following sets has exactly one transition metal?",
+      "The set consisting of one main transition element is:",
+      "Select the list that contains just one transition element."
     ]
   },
   {
     "id": 58,
-    "q": "What is the electronic configuration of Manganese (25Mn) that can be used to determine its oxidation states?",
-    "answer": "The electronic configuration of Manganese (25Mn) is [Ar] 4s² 3d⁵.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "[Ar] 4s² 3d⁵",
-      "[Ar] 4s¹ 3d⁶",
-      "[Ar] 4s² 3d⁴",
-      "[Ar] 4s² 3d⁶"
+    "q": "The highest ionization potential of a transition metal that contains 2 unpaired electrons in its (n-1)d sublevel is its ............",
+    "answer": "fourth ionization potential.",
+    "steps": [
+      "Identify the metal with 2 unpaired electrons in the d-sublevel as Titanium (Ti).",
+      "Determine the ionization steps for Ti.",
+      "Ti → Ti⁺ (IP1), Ti⁺ → Ti²⁺ (IP2), Ti²⁺ → Ti³⁺ (IP3), Ti³⁺ → Ti⁴⁺ (IP4).",
+      "The highest ionization potential is IP4."
     ],
-    "correctIndex": 0,
+    "stepExplanations": [
+      "Titanium ([Ar]4s²3d²) has 2 unpaired electrons in the 3d sublevel.",
+      "Ionization removes the 4s electrons first (IP1, IP2), then the 3d electrons (IP3, IP4).",
+      "The 4th ionization potential, which removes the last 3d electron, is the highest.",
+      "Thus, it is the fourth ionization potential."
+    ],
+    "choices": [
+      "second ionization potential.",
+      "third ionization potential.",
+      "fourth ionization potential.",
+      "fifth ionization potential."
+    ],
+    "image": null,
+    "correctIndex": 2,
     "variants": [
-      "What is the electronic configuration of Manganese (25Mn) that can be used to determine its oxidation states?",
-      "From which element's electronic configuration can we determine the oxidation states of manganese?",
-      "The electronic configuration for determining manganese's oxidation state is: 25Mn: [Ar] 4s² 3d⁵. What element is this?"
+      "For a transition metal with 2 unpaired d-electrons, which ionization potential is the highest?",
+      "Which ionization step requires the most energy for a metal with two unpaired electrons in its d subshell?",
+      "The highest ionization potential for the metal with a d² configuration is the:",
+      "Identify the ionization potential that represents the highest energy removal for a metal with 2 unpaired d-electrons.",
+      "Which ionization potential is the maximum for the transition metal containing 2 unpaired electrons in the (n-1)d orbital?"
     ]
   },
   {
     "id": 59,
-    "q": "What is the compound formed by manganese in its +2 oxidation state?",
-    "answer": "The compound formed by manganese in its +2 oxidation state is MnO.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "MnO",
-      "Mn₂O₃",
-      "MnO₂",
-      "KMnO₄"
+    "q": "According to the opposite graph : All the following statements are correct, except that ............",
+    "answer": "the first ionization potentials of the first transition series elements increase with increasing their atomic numbers by a large margin.",
+    "steps": [
+      "Observe the graph of ionization potentials.",
+      "Check each statement against the graph.",
+      "Note that the first ionization potentials do not increase by a large margin; they have small fluctuations.",
+      "Conclude that the statement about a large margin increase is incorrect."
     ],
-    "correctIndex": 0,
+    "stepExplanations": [
+      "The graph shows the first ionization potentials of the first transition series elements.",
+      "These potentials do not increase significantly or smoothly; they show small variations.",
+      "The statement that they increase with atomic number by a large margin is false.",
+      "All other statements about specific ionization potentials are correct based on the graph."
+    ],
+    "choices": [
+      "the second ionization potential of copper is higher than the second ionization potentials of the other elements in the first transition series.",
+      "the second ionization potential of chromium is higher than the second ionization potential of manganese.",
+      "the first ionization potentials of the first transition series elements increase with increasing their atomic numbers by a large margin.",
+      "the third ionization potential of manganese is higher than the first ionization potential of scandium."
+    ],
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MDAgNDgwIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIj4KICA8ZGVmcz4KICAgIDxzdHlsZT4KICAgICAgLmJnIHsgZmlsbDogI2ZmZmZmZjsgfQogICAgICAuYXhpcyB7IHN0cm9rZTogIzJiNTlhMjsgc3Ryb2tlLXdpZHRoOiAyLjU7IHN0cm9rZS1saW5lY2FwOiByb3VuZDsgfQogICAgICAuZ3JpZC1oIHsgc3Ryb2tlOiAjYmNkMmVlOyBzdHJva2Utd2lkdGg6IDE7IH0KICAgICAgLmdyaWQtdiB7IHN0cm9rZTogIzgwODA4MDsgc3Ryb2tlLXdpZHRoOiAxOyB9CiAgICAgIC5saW5lLXBsb3QgeyBmaWxsOiBub25lOyBzdHJva2U6ICNlMzFiMjM7IHN0cm9rZS13aWR0aDogMjsgc3Ryb2tlLWxpbmVjYXA6IHJvdW5kOyBzdHJva2UtbGluZWpvaW46IHJvdW5kOyB9CiAgICAgIC5kb3QgeyBmaWxsOiAjZTMxYjIzOyB9CiAgICAgIC5sYWJlbC1heGlzIHsgZm9udC1mYW1pbHk6IEFyaWFsLCBzYW5zLXNlcmlmOyBmb250LXNpemU6IDE0cHg7IGZpbGw6ICMyYjU5YTI7IGZvbnQtd2VpZ2h0OiBib2xkOyB9CiAgICAgIC50aWNrLXRleHQgeyBmb250LWZhbWlseTogQXJpYWwsIHNhbnMtc2VyaWY7IGZvbnQtc2l6ZTogMTNweDsgZmlsbDogIzMzMzMzMzsgfQogICAgICAuZWxlbS10ZXh0IHsgZm9udC1mYW1pbHk6IEFyaWFsLCBzYW5zLXNlcmlmOyBmb250LXNpemU6IDE0cHg7IGZpbGw6ICMwMDAwMDA7IGZvbnQtd2VpZ2h0OiBib2xkOyB9CiAgICAgIC5jdXJ2ZS1sYWJlbC1iZyB7IGZpbGw6ICNmZmZmZmY7IH0KICAgICAgLmN1cnZlLWxhYmVsLXRleHQgeyBmb250LWZhbWlseTogQXJpYWwsIHNhbnMtc2VyaWY7IGZvbnQtc2l6ZTogMTNweDsgZmlsbDogIzAwMDAwMDsgdGV4dC1hbmNob3I6IG1pZGRsZTsgZG9taW5hbnQtYmFzZWxpbmU6IGNlbnRyYWw7IH0KICAgIDwvc3R5bGU+CiAgPC9kZWZzPgoKICA8cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBjbGFzcz0iYmciIC8+CgogIDwhLS0g2LTYqNmD2Kkg2KfZhNiu2LfZiNi3INin2YTYo9mB2YLZitipIChIb3Jpem9udGFsIEdyaWQgTGluZXMpIC0tPgogIDxsaW5lIHgxPSI4MCIgeTE9IjM2MCIgeDI9IjQ0MCIgeTI9IjM2MCIgY2xhc3M9ImdyaWQtaCIgLz4KICA8bGluZSB4MT0iODAiIHkxPSIzMjAiIHgyPSI0NDAiIHkyPSIzMjAiIGNsYXNzPSJncmlkLWgiIC8+CiAgPGxpbmUgeDE9IjgwIiB5MT0iMjgwIiB4Mj0iNDQwIiB5Mj0iMjgwIiBjbGFzcz0iZ3JpZC1oIiAvPgogIDxsaW5lIHgxPSI4MCIgeTE9IjI0MCIgeDI9IjQ0MCIgeTI9IjI0MCIgY2xhc3M9ImdyaWQtaCIgLz4KICA8bGluZSB4MT0iODAiIHkxPSIyMDAiIHgyPSI0NDAiIHkyPSIyMDAiIGNsYXNzPSJncmlkLWgiIC8+CiAgPGxpbmUgeDE9IjgwIiB5MT0iMTYwIiB4Mj0iNDQwIiB5Mj0iMTYwIiBjbGFzcz0iZ3JpZC1oIiAvPgogIDxsaW5lIHgxPSI4MCIgeTE9IjEyMCIgeDI9IjQ0MCIgeTI9IjEyMCIgY2xhc3M9ImdyaWQtaCIgLz4KICA8bGluZSB4MT0iODAiIHkxPSI4MCIgIHgyPSI0NDAiIHkyPSI4MCIgIGNsYXNzPSJncmlkLWgiIC8+CiAgPGxpbmUgeDE9IjgwIiB5MT0iNDAiICB4Mj0iNDQwIiB5Mj0iNDAiICBjbGFzcz0iZ3JpZC1oIiAvPgoKICA8IS0tINi02KjZg9ipINin2YTYrti32YjYtyDYp9mE2LHYo9iz2YrYqSAoVmVydGljYWwgR3JpZCBMaW5lcykgLS0+CiAgPGxpbmUgeDE9IjEwMCIgeTE9IjMwIiB4Mj0iMTAwIiB5Mj0iNDAwIiBjbGFzcz0iZ3JpZC12IiAvPgogIDxsaW5lIHgxPSIxNDAiIHkxPSIzMCIgeDI9IjE0MCIgeTI9IjQwMCIgY2xhc3M9ImdyaWQtdiIgLz4KICA8bGluZSB4MT0iMTgwIiB5MT0iMzAiIHgyPSIxODAiIHkyPSI0MDAiIGNsYXNzPSJncmlkLXYiIC8+CiAgPGxpbmUgeDE9IjIyMCIgeTE9IjMwIiB4Mj0iMjIwIiB5Mj0iNDAwIiBjbGFzcz0iZ3JpZC12IiAvPgogIDxsaW5lIHgxPSIyNjAiIHkxPSIzMCIgeDI9IjI2MCIgeTI9IjQwMCIgY2xhc3M9ImdyaWQtdiIgLz4KICA8bGluZSB4MT0iMzAwIiB5MT0iMzAiIHgyPSIzMDAiIHkyPSI0MDAiIGNsYXNzPSJncmlkLXYiIC8+CiAgPGxpbmUgeDE9IjM0MCIgeTE9IjMwIiB4Mj0iMzQwIiB5Mj0iNDAwIiBjbGFzcz0iZ3JpZC12IiAvPgogIDxsaW5lIHgxPSIzODAiIHkxPSIzMCIgeDI9IjM4MCIgeTI9IjQwMCIgY2xhc3M9ImdyaWQtdiIgLz4KICA8bGluZSB4MT0iNDIwIiB5MT0iMzAiIHgyPSI0MjAiIHkyPSI0MDAiIGNsYXNzPSJncmlkLXYiIC8+CgogIDwhLS0g2KfZhNmF2K3Yp9mI2LEg2KfZhNij2LPYp9iz2YrYqSAoQXhlcykgLS0+CiAgPGxpbmUgeDE9IjgwIiB5MT0iNDAwIiB4Mj0iNDUwIiB5Mj0iNDAwIiBjbGFzcz0iYXhpcyIgLz4KICA8bGluZSB4MT0iODAiIHkxPSI0MDAiIHgyPSI4MCIgIHkyPSIyMCIgIGNsYXNzPSJheGlzIiAvPgoKICA8IS0tINin2YTYudmE2KfZhdin2Kog2YjYp9mE2KPYsdmC2KfZhSDYudmE2Ykg2KfZhNmF2K3ZiNixINin2YTYsdij2LPZiiAoWS1BeGlzIFRpY2tzKSAtLT4KICA8bGluZSB4MT0iNzMiIHkxPSI0MDAiIHgyPSI4MCIgeTI9IjQwMCIgY2xhc3M9ImF4aXMiIC8+CiAgPHRleHQgeD0iNjgiIHk9IjQwNCIgY2xhc3M9InRpY2stdGV4dCIgdGV4dC1hbmNob3I9ImVuZCI+MDwvdGV4dD4KCiAgPGxpbmUgeDE9IjczIiB5MT0iMzYwIiB4Mj0iODAiIHkyPSIzNjAiIGNsYXNzPSJheGlzIiAvPgogIDx0ZXh0IHg9IjY4IiB5PSIzNjQiIGNsYXNzPSJ0aWNrLXRleHQiIHRleHQtYW5jaG9yPSJlbmQiPjUwMDwvdGV4dD4KCiAgPGxpbmUgeDE9IjczIiB5MT0iMzIwIiB4Mj0iODAiIHkyPSIzMjAiIGNsYXNzPSJheGlzIiAvPgogIDx0ZXh0IHg9IjY4IiB5PSIzMjQiIGNsYXNzPSJ0aWNrLXRleHQiIHRleHQtYW5jaG9yPSJlbmQiPjEwMDA8L3RleHQ+CgogIDxsaW5lIHgxPSI3MyIgeTE9IjI4MCIgeDI9IjgwIiB5Mj0iMjgwIiBjbGFzcz0iYXhpcyIgLz4KICA8dGV4dCB4PSI2OCIgeT0iMjg0IiBjbGFzcz0idGljay10ZXh0IiB0ZXh0LWFuY2hvcj0iZW5kIj4xNTAwPC90ZXh0PgoKICA8bGluZSB4MT0iNzMiIHkxPSIyNDAiIHgyPSI4MCIgeTI9IjI0MCIgY2xhc3M9ImF4aXMiIC8+CiAgPHRleHQgeD0iNjgiIHk9IjI0NCIgY2xhc3M9InRpY2stdGV4dCIgdGV4dC1hbmNob3I9ImVuZCI+MjAwMDwvdGV4dD4KCiAgPGxpbmUgeDE9IjczIiB5MT0iMjAwIiB4Mj0iODAiIHkyPSIyMDAiIGNsYXNzPSJheGlzIiAvPgogIDx0ZXh0IHg9IjY4IiB5PSIyMDQiIGNsYXNzPSJ0aWNrLXRleHQiIHRleHQtYW5jaG9yPSJlbmQiPjI1MDA8L3RleHQ+CgogIDxsaW5lIHgxPSI3MyIgeTE9IjE2MCIgeDI9IjgwIiB5Mj0iMTYwIiBjbGFzcz0iYXhpcyIgLz4KICA8dGV4dCB4PSI2OCIgeT0iMTY0IiBjbGFzcz0idGljay10ZXh0IiB0ZXh0LWFuY2hvcj0iZW5kIj4zMDAwPC90ZXh0PgoKICA8bGluZSB4MT0iNzMiIHkxPSIxMjAiIHgyPSI4MCIgeTI9IjEyMCIgY2xhc3M9ImF4aXMiIC8+CiAgPHRleHQgeD0iNjgiIHk9IjEyNCIgY2xhc3M9InRpY2stdGV4dCIgdGV4dC1hbmNob3I9ImVuZCI+MzUwMDwvdGV4dD4KCiAgPGxpbmUgeDE9IjczIiB5MT0iODAiICB4Mj0iODAiIHkyPSI4MCIgIGNsYXNzPSJheGlzIiAvPgogIDx0ZXh0IHg9IjY4IiB5PSI4NCIgIGNsYXNzPSJ0aWNrLXRleHQiIHRleHQtYW5jaG9yPSJlbmQiPjQwMDA8L3RleHQ+CgogIDwhLS0g2KfZhNi52YTYp9mF2KfYqiDZiNin2YTYsdmF2YjYsiDYudmE2Ykg2KfZhNmF2K3ZiNixINin2YTYo9mB2YLZiiAoWC1BeGlzIFRpY2tzICYgRWxlbWVudHMpIC0tPgogIDxsaW5lIHgxPSIxMDAiIHkxPSI0MDAiIHgyPSIxMDAiIHkyPSI0MDciIGNsYXNzPSJheGlzIiAvPgogIDx0ZXh0IHg9IjEwMCIgeT0iNDI1IiBjbGFzcz0iZWxlbS10ZXh0IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5TYzwvdGV4dD4KCiAgPGxpbmUgeDE9IjE0MCIgeTE9IjQwMCIgeDI9IjE0MCIgeTI9IjQwNyIgY2xhc3M9ImF4aXMiIC8+CiAgPHRleHQgeD0iMTQwIiB5PSI0MjUiIGNsYXNzPSJlbGVtLXRleHQiIHRleHQtYW5jaG9yPSJtaWRkbGUiPlRpPC90ZXh0PgoKICA8bGluZSB4MT0iMTgwIiB5MT0iNDAwIiB4Mj0iMTgwIiB5Mj0iNDA3IiBjbGFzcz0iYXhpcyIgLz4KICA8dGV4dCB4PSIxODAiIHk9IjQyNSIgY2xhc3M9ImVsZW0tdGV4dCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+VjwvdGV4dD4KCiAgPGxpbmUgeDE9IjIyMCIgeTE9IjQwMCIgeDI9IjIyMCIgeTI9IjQwNyIgY2xhc3M9ImF4aXMiIC8+CiAgPHRleHQgeD0iMjIwIiB5PSI0MjUiIGNsYXNzPSJlbGVtLXRleHQiIHRleHQtYW5jaG9yPSJtaWRkbGUiPkNyPC90ZXh0PgoKICA8bGluZSB4MT0iMjYwIiB5MT0iNDAwIiB4Mj0iMjYwIiB5Mj0iNDA3IiBjbGFzcz0iYXhpcyIgLz4KICA8dGV4dCB4PSIyNjAiIHk9IjQyNSIgY2xhc3M9ImVsZW0tdGV4dCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+TW48L3RleHQ+CgogIDxsaW5lIHgxPSIzMDAiIHkxPSI0MDAiIHgyPSIzMDAiIHkyPSI0MDciIGNsYXNzPSJheGlzIiAvPgogIDx0ZXh0IHg9IjMwMCIgeT0iNDI1IiBjbGFzcz0iZWxlbS10ZXh0IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5GZTwvdGV4dD4KCiAgPGxpbmUgeDE9IjM0MCIgeTE9IjQwMCIgeDI9IjM0MCIgeTI9IjQwNyIgY2xhc3M9ImF4aXMiIC8+CiAgPHRleHQgeD0iMzQwIiB5PSI0MjUiIGNsYXNzPSJlbGVtLXRleHQiIHRleHQtYW5jaG9yPSJtaWRkbGUiPkNvPC90ZXh0PgoKICA8bGluZSB4MT0iMzgwIiB5MT0iNDAwIiB4Mj0iMzgwIiB5Mj0iNDA3IiBjbGFzcz0iYXhpcyIgLz4KICA8dGV4dCB4PSIzODAiIHk9IjQyNSIgY2xhc3M9ImVsZW0tdGV4dCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+Tmk8L3RleHQ+CgogIDxsaW5lIHgxPSI0MjAiIHkxPSI0MDAiIHgyPSI0MjAiIHkyPSI0MDciIGNsYXNzPSJheGlzIiAvPgogIDx0ZXh0IHg9IjQyMCIgeT0iNDI1IiBjbGFzcz0iZWxlbS10ZXh0IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5DdTwvdGV4dD4KCiAgPCEtLSDYudmG2KfZiNmK2YYg2KfZhNmF2K3Yp9mI2LEgKEF4aXMgTGFiZWxzKSAtLT4KICA8dGV4dCB4PSIyNjAiIHk9IjQ2MCIgY2xhc3M9ImxhYmVsLWF4aXMiIHRleHQtYW5jaG9yPSJtaWRkbGUiPkVsZW1lbnQ8L3RleHQ+CiAgPHRleHQgeD0iMjUiIHk9IjIyMCIgY2xhc3M9ImxhYmVsLWF4aXMiIHRleHQtYW5jaG9yPSJtaWRkbGUiIHRyYW5zZm9ybT0icm90YXRlKC05MCwgMjUsIDIyMCkiPklvbml6YXRpb24gcG90ZW50aWFsIChrSi9tb2wpPC90ZXh0PgoKICA8IS0tIDEuIEZpcnN0IElvbml6YXRpb24gUG90ZW50aWFsICjYrNmH2K8g2KfZhNiq2KPZitmGINin2YTYo9mI2YQpIC0tPgogIDxwb2x5bGluZSBjbGFzcz0ibGluZS1wbG90IiBwb2ludHM9IjEwMCwzNTAgIDE0MCwzNDcgIDE4MCwzNDggIDIyMCwzNDggIDI2MCwzNDMgIDMwMCwzNDAgIDM0MCwzMzkgIDM4MCwzNDEgIDQyMCwzMzkiIC8+CiAgPGNpcmNsZSBjeD0iMTAwIiBjeT0iMzUwIiByPSIzLjUiIGNsYXNzPSJkb3QiIC8+CiAgPGNpcmNsZSBjeD0iMTQwIiBjeT0iMzQ3IiByPSIzLjUiIGNsYXNzPSJkb3QiIC8+CiAgPGNpcmNsZSBjeD0iMTgwIiBjeT0iMzQ4IiByPSIzLjUiIGNsYXNzPSJkb3QiIC8+CiAgPGNpcmNsZSBjeD0iMjIwIiBjeT0iMzQ4IiByPSIzLjUiIGNsYXNzPSJkb3QiIC8+CiAgPGNpcmNsZSBjeD0iMjYwIiBjeT0iMzQzIiByPSIzLjUiIGNsYXNzPSJkb3QiIC8+CiAgPGNpcmNsZSBjeD0iMzAwIiBjeT0iMzQwIiByPSIzLjUiIGNsYXNzPSJkb3QiIC8+CiAgPGNpcmNsZSBjeD0iMzQwIiBjeT0iMzM5IiByPSIzLjUiIGNsYXNzPSJkb3QiIC8+CiAgPGNpcmNsZSBjeD0iMzgwIiBjeT0iMzQxIiByPSIzLjUiIGNsYXNzPSJkb3QiIC8+CiAgPGNpcmNsZSBjeD0iNDIwIiBjeT0iMzM5IiByPSIzLjUiIGNsYXNzPSJkb3QiIC8+CgogIDwhLS0gMi4gU2Vjb25kIElvbml6YXRpb24gUG90ZW50aWFsICjYrNmH2K8g2KfZhNiq2KPZitmGINin2YTYq9in2YbZiikgLS0+CiAgPHBvbHlsaW5lIGNsYXNzPSJsaW5lLXBsb3QiIHBvaW50cz0iMTAwLDMwMyAgMTQwLDI5OSAgMTgwLDI5MSAgMjIwLDI3OCAgMjYwLDI4MyAgMzAwLDI4MSAgMzQwLDI3NCAgMzgwLDI2NSAgNDIwLDI1MSIgLz4KICA8Y2lyY2xlIGN4PSIxMDAiIGN5PSIzMDMiIHI9IjMuNSIgY2xhc3M9ImRvdCIgLz4KICA8Y2lyY2xlIGN4PSIxNDAiIGN5PSIyOTkiIHI9IjMuNSIgY2xhc3M9ImRvdCIgLz4KICA8Y2lyY2xlIGN4PSIxODAiIGN5PSIyOTEiIHI9IjMuNSIgY2xhc3M9ImRvdCIgLz4KICA8Y2lyY2xlIGN4PSIyMjAiIGN5PSIyNzgiIHI9IjMuNSIgY2xhc3M9ImRvdCIgLz4KICA8Y2lyY2xlIGN4PSIyNjAiIGN5PSIyODMiIHI9IjMuNSIgY2xhc3M9ImRvdCIgLz4KICA8Y2lyY2xlIGN4PSIzMDAiIGN5PSIyODEiIHI9IjMuNSIgY2xhc3M9ImRvdCIgLz4KICA8Y2lyY2xlIGN4PSIzNDAiIGN5PSIyNzQiIHI9IjMuNSIgY2xhc3M9ImRvdCIgLz4KICA8Y2lyY2xlIGN4PSIzODAiIGN5PSIyNjUiIHI9IjMuNSIgY2xhc3M9ImRvdCIgLz4KICA8Y2lyY2xlIGN4PSI0MjAiIGN5PSIyNTEiIHI9IjMuNSIgY2xhc3M9ImRvdCIgLz4KCiAgPCEtLSAzLiBUaGlyZCBJb25pemF0aW9uIFBvdGVudGlhbCAo2KzZh9ivINin2YTYqtij2YrZhiDYp9mE2KvYp9mE2KspIC0tPgogIDxwb2x5bGluZSBjbGFzcz0ibGluZS1wbG90IiBwb2ludHM9IjEwMCwyMTIgIDE0MCwxOTQgIDE4MCwxODEgIDIyMCwxNzAgIDI2MCwxNTIgIDMwMCwxNzIgIDM0MCwxNTIgIDM4MCwxNDEgIDQyMCwxMzAiIC8+CiAgPGNpcmNsZSBjeD0iMTAwIiBjeT0iMjEyIiByPSIzLjUiIGNsYXNzPSJkb3QiIC8+CiAgPGNpcmNsZSBjeD0iMTQwIiBjeT0iMTk0IiByPSIzLjUiIGNsYXNzPSJkb3QiIC8+CiAgPGNpcmNsZSBjeD0iMTgwIiBjeT0iMTgxIiByPSIzLjUiIGNsYXNzPSJkb3QiIC8+CiAgPGNpcmNsZSBjeD0iMjIwIiBjeT0iMTcwIiByPSIzLjUiIGNsYXNzPSJkb3QiIC8+CiAgPGNpcmNsZSBjeD0iMjYwIiBjeT0iMTUyIiByPSIzLjUiIGNsYXNzPSJkb3QiIC8+CiAgPGNpcmNsZSBjeD0iMzAwIiBjeT0iMTcyIiByPSIzLjUiIGNsYXNzPSJkb3QiIC8+CiAgPGNpcmNsZSBjeD0iMzQwIiBjeT0iMTUyIiByPSIzLjUiIGNsYXNzPSJkb3QiIC8+CiAgPGNpcmNsZSBjeD0iMzgwIiBjeT0iMTQxIiByPSIzLjUiIGNsYXNzPSJkb3QiIC8+CiAgPGNpcmNsZSBjeD0iNDIwIiBjeT0iMTMwIiByPSIzLjUiIGNsYXNzPSJkb3QiIC8+CgogIDwhLS0g2KrYs9mF2YrYp9iqINin2YTZhdmG2K3ZhtmK2KfYqiDYp9mE2KrZiNi22YrYrdmK2KkgKExhYmVscyBpbnNpZGUgcGxvdCkgLS0+CiAgPCEtLSBMYWJlbCAxIC0tPgogIDxyZWN0IHg9IjE4MCIgeT0iMzcwIiB3aWR0aD0iMTYwIiBoZWlnaHQ9IjIwIiBjbGFzcz0iY3VydmUtbGFiZWwtYmciIC8+CiAgPHRleHQgeD0iMjYwIiB5PSIzODAiIGNsYXNzPSJjdXJ2ZS1sYWJlbC10ZXh0Ij5GaXJzdCBpb25pemF0aW9uIHBvdGVudGlhbDwvdGV4dD4KCiAgPCEtLSBMYWJlbCAyIC0tPgogIDxyZWN0IHg9IjE3NSIgeT0iMzAwIiB3aWR0aD0iMTcwIiBoZWlnaHQ9IjIwIiBjbGFzcz0iY3VydmUtbGFiZWwtYmciIC8+CiAgPHRleHQgeD0iMjYwIiB5PSIzMTAiIGNsYXNzPSJjdXJ2ZS1sYWJlbC10ZXh0Ij5TZWNvbmQgaW9uaXphdGlvbiBwb3RlbnRpYWw8L3RleHQ+CgogIDwhLS0gTGFiZWwgMyAtLT4KICA8cmVjdCB4PSIxODAiIHk9IjIxMCIgd2lkdGg9IjE2MCIgaGVpZ2h0PSIyMCIgY2xhc3M9ImN1cnZlLWxhYmVsLWJnIiAvPgogIDx0ZXh0IHg9IjI2MCIgeT0iMjIwIiBjbGFzcz0iY3VydmUtbGFiZWwtdGV4dCI+VGhpcmQgaW9uaXphdGlvbiBwb3RlbnRpYWw8L3RleHQ+Cgo8L3N2Zz4K",
+    "correctIndex": 2,
     "variants": [
-      "What is the compound formed by manganese in its +2 oxidation state?",
-      "What is the electron configuration of Mn in the +3 oxidation state?",
-      "What compound does manganese form in its +7 oxidation state?",
-      "Manganese dioxide (MnO₂) corresponds to which oxidation state of manganese?",
-      "Complete the table: Oxidation state +4 of manganese has the electron configuration ____ and the compound ____.",
-      "Which manganese compound has the formula K₂MnO₄?"
+      "Based on the graph, which of the following statements is incorrect?",
+      "All the statements are supported by the graph except:",
+      "Identify the statement that is not correct according to the provided graph.",
+      "Which of the following conclusions drawn from the graph is false?",
+      "The graph contradicts which of these statements?"
     ]
   },
   {
     "id": 60,
-    "q": "What is the general method for determining the oxidation number of an element in a compound or ion?",
-    "answer": "The method involves two steps: 1. Write the known oxidation numbers for each element above its symbol. 2. Multiply the oxidation number of each element by the number of its atoms in the formula. 3. For ions, the sum of the oxidation numbers equals the charge of the ion (for neutral compounds, it equals zero).",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Assign oxidation numbers arbitrarily.",
-      "Write known oxidation numbers, multiply by the number of atoms, and set the sum equal to the charge of the ion or zero for neutral compounds.",
-      "Use the periodic table to guess the oxidation number.",
-      "The oxidation number is always equal to the group number."
+    "q": "In opposite graph : The ionization potential (X) represents the ............",
+    "answer": "second ionization potential.",
+    "steps": [
+      "Analyze the graph showing ionization potentials.",
+      "Compare the magnitude of ionization potential (X) to the first ionization potential.",
+      "Note that (X) is significantly higher than the first IP, but lower than the third IP typically.",
+      "Conclude that X is the second ionization potential."
     ],
-    "correctIndex": 1,
+    "stepExplanations": [
+      "The graph displays ionization potentials for elements.",
+      "The first ionization potential is represented by the lowest line.",
+      "Ionization potential (X) is higher than the first IP, corresponding to the removal of a second electron.",
+      "Thus, (X) is the second ionization potential."
+    ],
+    "choices": [
+      "fifth ionization potential.",
+      "fourth ionization potential.",
+      "third ionization potential.",
+      "second ionization potential."
+    ],
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzNTAgNDIwIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIj4KICA8ZGVmcz4KICAgIDxzdHlsZT4KICAgICAgLmJnIHsgZmlsbDogI2ZmZmZmZjsgfQogICAgICAuYXhpcyB7IHN0cm9rZTogIzJiNTlhMjsgc3Ryb2tlLXdpZHRoOiAyLjU7IHN0cm9rZS1saW5lY2FwOiByb3VuZDsgfQogICAgICAuZ3JpZC1oIHsgc3Ryb2tlOiAjODA4MDgwOyBzdHJva2Utd2lkdGg6IDAuODsgfQogICAgICAuZ3JpZC12IHsgc3Ryb2tlOiAjODA4MDgwOyBzdHJva2Utd2lkdGg6IDAuODsgc3Ryb2tlLWRhc2hhcnJheTogNCwzOyB9CiAgICAgIC5saW5lLXBsb3QgeyBmaWxsOiBub25lOyBzdHJva2U6ICNlMzFiMjM7IHN0cm9rZS13aWR0aDogMjsgc3Ryb2tlLWxpbmVjYXA6IHJvdW5kOyBzdHJva2UtbGluZWpvaW46IHJvdW5kOyB9CiAgICAgIC5kb3QgeyBmaWxsOiAjZTMxYjIzOyB9CiAgICAgIC5sYWJlbC1heGlzIHsgZm9udC1mYW1pbHk6IEFyaWFsLCBzYW5zLXNlcmlmOyBmb250LXNpemU6IDE0cHg7IGZpbGw6ICMyYjU5YTI7IGZvbnQtd2VpZ2h0OiBib2xkOyB9CiAgICAgIC5lbGVtLXRleHQgeyBmb250LWZhbWlseTogQXJpYWwsIHNhbnMtc2VyaWY7IGZvbnQtc2l6ZTogMTRweDsgZmlsbDogIzAwMDAwMDsgZm9udC13ZWlnaHQ6IGJvbGQ7IH0KICAgICAgLmN1cnZlLWxhYmVsLWJnIHsgZmlsbDogI2ZmZmZmZjsgfQogICAgICAuY3VydmUtbGFiZWwtdGV4dCB7IGZvbnQtZmFtaWx5OiBBcmlhbCwgc2Fucy1zZXJpZjsgZm9udC1zaXplOiAxM3B4OyBmaWxsOiAjMDAwMDAwOyB0ZXh0LWFuY2hvcjogbWlkZGxlOyBkb21pbmFudC1iYXNlbGluZTogY2VudHJhbDsgfQogICAgPC9zdHlsZT4KICA8L2RlZnM+CgogIDxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGNsYXNzPSJiZyIgLz4KCiAgPCEtLSDYtNio2YPYqSDYp9mE2K7Yt9mI2Lcg2KfZhNij2YHZgtmK2KkgKEhvcml6b250YWwgR3JpZCBMaW5lcykgLS0+CiAgPGxpbmUgeDE9IjgwIiB5MT0iMzEwIiB4Mj0iMzAwIiB5Mj0iMzEwIiBjbGFzcz0iZ3JpZC1oIiAvPgogIDxsaW5lIHgxPSI4MCIgeTE9IjI2MCIgeDI9IjMwMCIgeTI9IjI2MCIgY2xhc3M9ImdyaWQtaCIgLz4KICA8bGluZSB4MT0iODAiIHkxPSIyMTAiIHgyPSIzMDAiIHkyPSIyMTAiIGNsYXNzPSJncmlkLWgiIC8+CiAgPGxpbmUgeDE9IjgwIiB5MT0iMTYwIiB4Mj0iMzAwIiB5Mj0iMTYwIiBjbGFzcz0iZ3JpZC1oIiAvPgogIDxsaW5lIHgxPSI4MCIgeTE9IjExMCIgeDI9IjMwMCIgeTI9IjExMCIgY2xhc3M9ImdyaWQtaCIgLz4KICA8bGluZSB4MT0iODAiIHkxPSI2MCIgIHgyPSIzMDAiIHkyPSI2MCIgIGNsYXNzPSJncmlkLWgiIC8+CgogIDwhLS0g2LTYqNmD2Kkg2KfZhNiu2LfZiNi3INin2YTYsdij2LPZitipINin2YTZhdmG2YLYt9ipIChWZXJ0aWNhbCBHcmlkIExpbmVzKSAtLT4KICA8bGluZSB4MT0iMTIwIiB5MT0iMzAiIHgyPSIxMjAiIHkyPSIzNjAiIGNsYXNzPSJncmlkLXYiIC8+CiAgPGxpbmUgeDE9IjE5MCIgeTE9IjMwIiB4Mj0iMTkwIiB5Mj0iMzYwIiBjbGFzcz0iZ3JpZC12IiAvPgogIDxsaW5lIHgxPSIyNjAiIHkxPSIzMCIgeDI9IjI2MCIgeTI9IjM2MCIgY2xhc3M9ImdyaWQtdiIgLz4KCiAgPCEtLSDYp9mE2YXYrdin2YjYsSDYp9mE2KPYs9in2LPZitipIChBeGVzKSAtLT4KICA8bGluZSB4MT0iODAiIHkxPSIzNjAiIHgyPSIzMTAiIHkyPSIzNjAiIGNsYXNzPSJheGlzIiAvPgogIDxsaW5lIHgxPSI4MCIgeTE9IjM2MCIgeDI9IjgwIiAgeTI9IjIwIiAgY2xhc3M9ImF4aXMiIC8+CgogIDwhLS0g2KfZhNi52YTYp9mF2KfYqiDZiNin2YTYsdmF2YjYsiDYudmE2Ykg2KfZhNmF2K3ZiNixINin2YTYo9mB2YLZiiAoWC1BeGlzIFRpY2tzICYgRWxlbWVudHMpIC0tPgogIDxsaW5lIHgxPSIxMjAiIHkxPSIzNjAiIHgyPSIxMjAiIHkyPSIzNjciIGNsYXNzPSJheGlzIiAvPgogIDx0ZXh0IHg9IjEyMCIgeT0iMzg1IiBjbGFzcz0iZWxlbS10ZXh0IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5DcjwvdGV4dD4KCiAgPGxpbmUgeDE9IjE5MCIgeTE9IjM2MCIgeDI9IjE5MCIgeTI9IjM2NyIgY2xhc3M9ImF4aXMiIC8+CiAgPHRleHQgeD0iMTkwIiB5PSIzODUiIGNsYXNzPSJlbGVtLXRleHQiIHRleHQtYW5jaG9yPSJtaWRkbGUiPk1uPC90ZXh0PgoKICA8bGluZSB4MT0iMjYwIiB5MT0iMzYwIiB4Mj0iMjYwIiB5Mj0iMzY3IiBjbGFzcz0iYXhpcyIgLz4KICA8dGV4dCB4PSIyNjAiIHk9IjM4NSIgY2xhc3M9ImVsZW0tdGV4dCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+RmU8L3RleHQ+CgogIDwhLS0g2LnZhtin2YjZitmGINin2YTZhdit2KfZiNixIChBeGlzIExhYmVscykgLS0+CiAgPHRleHQgeD0iMTkwIiB5PSI0MTIiIGNsYXNzPSJsYWJlbC1heGlzIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5FbGVtZW50PC90ZXh0PgogIDx0ZXh0IHg9IjMwIiB5PSIxOTAiIGNsYXNzPSJsYWJlbC1heGlzIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiB0cmFuc2Zvcm09InJvdGF0ZSgtOTAsIDMwLCAxOTApIj5Jb25pemF0aW9uIHBvdGVudGlhbCAoa0ovbW9sKTwvdGV4dD4KCiAgPCEtLSAxLiBGaXJzdCBJb25pemF0aW9uIFBvdGVudGlhbCAo2KzZh9ivINin2YTYqtij2YrZhiDYp9mE2KPZiNmEKSAtLT4KICA8cG9seWxpbmUgY2xhc3M9ImxpbmUtcGxvdCIgcG9pbnRzPSIxMjAsMzI4IDE5MCwzMjUgMjYwLDMxMiIgLz4KICA8Y2lyY2xlIGN4PSIxMjAiIGN5PSIzMjgiIHI9IjMuNSIgY2xhc3M9ImRvdCIgLz4KICA8Y2lyY2xlIGN4PSIxOTAiIGN5PSIzMjUiIHI9IjMuNSIgY2xhc3M9ImRvdCIgLz4KICA8Y2lyY2xlIGN4PSIyNjAiIGN5PSIzMTIiIHI9IjMuNSIgY2xhc3M9ImRvdCIgLz4KCiAgPCEtLSAyLiBJb25pemF0aW9uIFBvdGVudGlhbCAoWCkgKNis2YfYryDYp9mE2KrYo9mK2YYgWCAtINin2YTYq9in2YTYqykgLS0+CiAgPHBvbHlsaW5lIGNsYXNzPSJsaW5lLXBsb3QiIHBvaW50cz0iMTIwLDExMCAxOTAsODggMjYwLDExMCIgLz4KICA8Y2lyY2xlIGN4PSIxMjAiIGN5PSIxMTAiIHI9IjMuNSIgY2xhc3M9ImRvdCIgLz4KICA8Y2lyY2xlIGN4PSIxOTAiIGN5PSI4OCIgIHI9IjMuNSIgY2xhc3M9ImRvdCIgLz4KICA8Y2lyY2xlIGN4PSIyNjAiIGN5PSIxMTAiIHI9IjMuNSIgY2xhc3M9ImRvdCIgLz4KCiAgPCEtLSDYp9mE2YbYtdmI2LUg2KfZhNiq2YjYttmK2K3ZitipINmE2YTZhdmG2K3ZhtmK2KfYqiAoQ3VydmUgTGFiZWxzKSAtLT4KICA8IS0tIExhYmVsIDE6IEZpcnN0IElvbml6YXRpb24gUG90ZW50aWFsIC0tPgogIDxyZWN0IHg9IjExNSIgeT0iMjM1IiB3aWR0aD0iMTUwIiBoZWlnaHQ9IjQwIiBjbGFzcz0iY3VydmUtbGFiZWwtYmciIC8+CiAgPHRleHQgeD0iMTkwIiB5PSIyNDUiIGNsYXNzPSJjdXJ2ZS1sYWJlbC10ZXh0Ij5GaXJzdCBpb25pemF0aW9uPC90ZXh0PgogIDx0ZXh0IHg9IjE5MCIgeT0iMjY1IiBjbGFzcz0iY3VydmUtbGFiZWwtdGV4dCI+cG90ZW50aWFsPC90ZXh0PgoKICA8IS0tIExhYmVsIDI6IElvbml6YXRpb24gUG90ZW50aWFsIChYKSAtLT4KICA8cmVjdCB4PSIxMTUiIHk9IjEyNSIgd2lkdGg9IjE1MCIgaGVpZ2h0PSI0MCIgY2xhc3M9ImN1cnZlLWxhYmVsLWJnIiAvPgogIDx0ZXh0IHg9IjE5MCIgeT0iMTM1IiBjbGFzcz0iY3VydmUtbGFiZWwtdGV4dCI+SW9uaXphdGlvbjwvdGV4dD4KICA8dGV4dCB4PSIxOTAiIHk9IjE1NSIgY2xhc3M9ImN1cnZlLWxhYmVsLXRleHQiPnBvdGVudGlhbCAoWCk8L3RleHQ+Cgo8L3N2Zz4K",
+    "correctIndex": 3,
     "variants": [
-      "What is the general method for determining the oxidation number of an element in a compound or ion?",
-      "Calculate the oxidation number of manganese in the permanganate ion (MnO₄⁻), given that oxygen has an oxidation number of -2.",
-      "Calculate the oxidation number of chromium in potassium dichromate (K₂Cr₂O₇), given that potassium is +1 and oxygen is -2.",
-      "The sum of the oxidation numbers in a neutral compound must equal what value?",
-      "If you know the oxidation numbers of oxygen and potassium in K₂Cr₂O₇, how can you determine the oxidation number of chromium?"
+      "What does the ionization potential labeled (X) in the graph represent?",
+      "Identify the ionization potential indicated by X in the graph.",
+      "Which ionization potential corresponds to the curve labeled X?",
+      "In the provided graph, the curve (X) represents the:",
+      "Determine the type of ionization potential shown by (X) in the graph."
     ]
   },
   {
     "id": 61,
-    "q": "Where is the d-block located relative to the s-block and p-block?",
-    "answer": "The d-block is located between the s-block and the p-block.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "To the left of the s-block",
-      "To the right of the p-block",
-      "Between the s-block and the p-block",
-      "At the bottom of the periodic table"
+    "q": "The graphs display the graduation in both ionization energies (X) and (Y) of some first transition series elements. Which of the following shows what (X) and (Y) stand for ?",
+    "answer": "(X) : Second ionization potential, (Y) : Third ionization potential",
+    "steps": [
+      "Observe the relative values of X and Y in the graphs.",
+      "Note that Y is significantly higher than X.",
+      "Based on the increasing nature of ionization potentials, Y must be a higher ionization potential than X.",
+      "Conclude that X is the second ionization potential and Y is the third ionization potential."
     ],
-    "correctIndex": 2,
+    "stepExplanations": [
+      "The graph plots ionization energies for elements.",
+      "The values for Y are consistently and significantly higher than those for X.",
+      "Ionization potentials increase successively (IP1 < IP2 < IP3).",
+      "Therefore, X corresponds to IP2 and Y corresponds to IP3."
+    ],
+    "choices": [
+      "(X) : First ionization potential, (Y) : Second ionization potential",
+      "(X) : Second ionization potential, (Y) : Third ionization potential",
+      "(X) : Third ionization potential, (Y) : Fourth ionization potential",
+      "(X) : Fourth ionization potential, (Y) : Fifth ionization potential"
+    ],
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzNTAgNTAwIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIj4KICA8ZGVmcz4KICAgIDxzdHlsZT4KICAgICAgLmJnIHsgZmlsbDogI2ZmZmZmZjsgfQogICAgICAuYXhpcyB7IHN0cm9rZTogIzJiNTlhMjsgc3Ryb2tlLXdpZHRoOiAyOyBzdHJva2UtbGluZWNhcDogcm91bmQ7IH0KICAgICAgLmdyaWQtaCB7IHN0cm9rZTogIzgwODA4MDsgc3Ryb2tlLXdpZHRoOiAwLjg7IH0KICAgICAgLmdyaWQtdiB7IHN0cm9rZTogIzgwODA4MDsgc3Ryb2tlLXdpZHRoOiAwLjg7IH0KICAgICAgLmxpbmUtcGxvdCB7IGZpbGw6IG5vbmU7IHN0cm9rZTogI2UzMWIyMzsgc3Ryb2tlLXdpZHRoOiAyOyBzdHJva2UtbGluZWNhcDogcm91bmQ7IHN0cm9rZS1saW5lam9pbjogcm91bmQ7IH0KICAgICAgLmRvdCB7IGZpbGw6ICNmZmZmZmY7IHN0cm9rZTogI2UzMWIyMzsgc3Ryb2tlLXdpZHRoOiAyOyB9CiAgICAgIC5sYWJlbC1heGlzIHsgZm9udC1mYW1pbHk6IEFyaWFsLCBzYW5zLXNlcmlmOyBmb250LXNpemU6IDE0cHg7IGZpbGw6ICMyYjU5YTI7IGZvbnQtd2VpZ2h0OiBib2xkOyB9CiAgICAgIC50aWNrLXRleHQgeyBmb250LWZhbWlseTogQXJpYWwsIHNhbnMtc2VyaWY7IGZvbnQtc2l6ZTogMTNweDsgZmlsbDogIzMzMzMzMzsgfQogICAgICAuZWxlbS10ZXh0IHsgZm9udC1mYW1pbHk6IEFyaWFsLCBzYW5zLXNlcmlmOyBmb250LXNpemU6IDE0cHg7IGZpbGw6ICMwMDAwMDA7IGZvbnQtd2VpZ2h0OiBib2xkOyB9CiAgICAgIC5jdXJ2ZS1sYWJlbCB7IGZvbnQtZmFtaWx5OiBBcmlhbCwgc2Fucy1zZXJpZjsgZm9udC1zaXplOiAxNHB4OyBmaWxsOiAjMDAwMDAwOyBmb250LXdlaWdodDogYm9sZDsgfQogICAgPC9zdHlsZT4KICA8L2RlZnM+CgogIDxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGNsYXNzPSJiZyIgLz4KCiAgPCEtLSDYtNio2YPYqSDYp9mE2K7Yt9mI2Lcg2KfZhNij2YHZgtmK2KkgKEhvcml6b250YWwgR3JpZCBMaW5lcykgLS0+CiAgPGxpbmUgeDE9IjgwIiB5MT0iNDEyIiB4Mj0iMjgwIiB5Mj0iNDEyIiBjbGFzcz0iZ3JpZC1oIiAvPgogIDxsaW5lIHgxPSI4MCIgeTE9IjM4NCIgeDI9IjI4MCIgeTI9IjM4NCIgY2xhc3M9ImdyaWQtaCIgLz4KICA8bGluZSB4MT0iODAiIHkxPSIzNTYiIHgyPSIyODAiIHkyPSIzNTYiIGNsYXNzPSJncmlkLWgiIC8+CiAgPGxpbmUgeDE9IjgwIiB5MT0iMzI4IiB4Mj0iMjgwIiB5Mj0iMzI4IiBjbGFzcz0iZ3JpZC1oIiAvPgogIDxsaW5lIHgxPSI4MCIgeTE9IjMwMCIgeDI9IjI4MCIgeTI9IjMwMCIgY2xhc3M9ImdyaWQtaCIgLz4KICA8bGluZSB4MT0iODAiIHkxPSIyNzIiIHgyPSIyODAiIHkyPSIyNzIiIGNsYXNzPSJncmlkLWgiIC8+CiAgCiAgPGxpbmUgeDE9IjgwIiB5MT0iMjQ0IiB4Mj0iMjgwIiB5Mj0iMjQ0IiBjbGFzcz0iZ3JpZC1oIiAvPgogIAogIDxsaW5lIHgxPSI4MCIgeTE9IjIxNiIgeDI9IjI4MCIgeTI9IjIxNiIgY2xhc3M9ImdyaWQtaCIgLz4KICA8bGluZSB4MT0iODAiIHkxPSIxODgiIHgyPSIyODAiIHkyPSIxODgiIGNsYXNzPSJncmlkLWgiIC8+CiAgPGxpbmUgeDE9IjgwIiB5MT0iMTYwIiB4Mj0iMjgwIiB5Mj0iMTYwIiBjbGFzcz0iZ3JpZC1oIiAvPgogIDxsaW5lIHgxPSI4MCIgeTE9IjEzMiIgeDI9IjI4MCIgeTI9IjEzMiIgY2xhc3M9ImdyaWQtaCIgLz4KICA8bGluZSB4MT0iODAiIHkxPSIxMDQiIHgyPSIyODAiIHkyPSIxMDQiIGNsYXNzPSJncmlkLWgiIC8+CiAgPGxpbmUgeDE9IjgwIiB5MT0iNzYiICB4Mj0iMjgwIiB5Mj0iNzYiICBjbGFzcz0iZ3JpZC1oIiAvPgogIDxsaW5lIHgxPSI4MCIgeTE9IjQ4IiAgeDI9IjI4MCIgeTI9IjQ4IiAgY2xhc3M9ImdyaWQtaCIgLz4KCiAgPCEtLSDYtNio2YPYqSDYp9mE2K7Yt9mI2Lcg2KfZhNix2KPYs9mK2KkgKFZlcnRpY2FsIEdyaWQgTGluZXMpIC0tPgogIDxsaW5lIHgxPSIxMTAiIHkxPSI0OCIgeDI9IjExMCIgeTI9IjQ0MCIgY2xhc3M9ImdyaWQtdiIgLz4KICA8bGluZSB4MT0iMTQwIiB5MT0iNDgiIHgyPSIxNDAiIHkyPSI0NDAiIGNsYXNzPSJncmlkLXYiIC8+CiAgPGxpbmUgeDE9IjE3MCIgeTE9IjQ4IiB4Mj0iMTcwIiB5Mj0iNDQwIiBjbGFzcz0iZ3JpZC12IiAvPgogIDxsaW5lIHgxPSIyMDAiIHkxPSI0OCIgeDI9IjIwMCIgeTI9IjQ0MCIgY2xhc3M9ImdyaWQtdiIgLz4KICA8bGluZSB4MT0iMjMwIiB5MT0iNDgiIHgyPSIyMzAiIHkyPSI0NDAiIGNsYXNzPSJncmlkLXYiIC8+CiAgPGxpbmUgeDE9IjI2MCIgeTE9IjQ4IiB4Mj0iMjYwIiB5Mj0iNDQwIiBjbGFzcz0iZ3JpZC12IiAvPgoKICA8IS0tINin2YTZhdit2KfZiNixINin2YTYo9iz2KfYs9mK2KkgKEF4ZXMpIC0tPgogIDxsaW5lIHgxPSI4MCIgeTE9IjQ0MCIgeDI9IjI5MCIgeTI9IjQ0MCIgY2xhc3M9ImF4aXMiIC8+CiAgPGxpbmUgeDE9IjgwIiB5MT0iNDQwIiB4Mj0iODAiICB5Mj0iMjAiICBjbGFzcz0iYXhpcyIgLz4KCiAgPCEtLSDYo9ix2YLYp9mFINmI2YLZitmFINin2YTZhdit2YjYsSDYp9mE2LHYo9iz2YogKFktQXhpcyBUaWNrcyAmIFZhbHVlcykgLS0+CiAgPHRleHQgeD0iNzIiIHk9IjQ0NCIgY2xhc3M9InRpY2stdGV4dCIgdGV4dC1hbmNob3I9ImVuZCI+MTI8L3RleHQ+CiAgPHRleHQgeD0iNzIiIHk9IjQxNiIgY2xhc3M9InRpY2stdGV4dCIgdGV4dC1hbmNob3I9ImVuZCI+MTQ8L3RleHQ+CiAgPHRleHQgeD0iNzIiIHk9IjM4OCIgY2xhc3M9InRpY2stdGV4dCIgdGV4dC1hbmNob3I9ImVuZCI+MTY8L3RleHQ+CiAgPHRleHQgeD0iNzIiIHk9IjM2MCIgY2xhc3M9InRpY2stdGV4dCIgdGV4dC1hbmNob3I9ImVuZCI+MTg8L3RleHQ+CiAgPHRleHQgeD0iNzIiIHk9IjMzMiIgY2xhc3M9InRpY2stdGV4dCIgdGV4dC1hbmNob3I9ImVuZCI+MjA8L3RleHQ+CiAgPHRleHQgeD0iNzIiIHk9IjMwNCIgY2xhc3M9InRpY2stdGV4dCIgdGV4dC1hbmNob3I9ImVuZCI+MjI8L3RleHQ+CgogIDx0ZXh0IHg9IjcyIiB5PSIyNDgiIGNsYXNzPSJ0aWNrLXRleHQiIHRleHQtYW5jaG9yPSJlbmQiPjI2PC90ZXh0PgogIDx0ZXh0IHg9IjcyIiB5PSIyMjAiIGNsYXNzPSJ0aWNrLXRleHQiIHRleHQtYW5jaG9yPSJlbmQiPjI4PC90ZXh0PgogIDx0ZXh0IHg9IjcyIiB5PSIxOTIiIGNsYXNzPSJ0aWNrLXRleHQiIHRleHQtYW5jaG9yPSJlbmQiPjMwPC90ZXh0PgogIDx0ZXh0IHg9IjcyIiB5PSIxNjQiIGNsYXNzPSJ0aWNrLXRleHQiIHRleHQtYW5jaG9yPSJlbmQiPjMyPC90ZXh0PgogIDx0ZXh0IHg9IjcyIiB5PSIxMzYiIGNsYXNzPSJ0aWNrLXRleHQiIHRleHQtYW5jaG9yPSJlbmQiPjM0PC90ZXh0PgogIDx0ZXh0IHg9IjcyIiB5PSIxMDgiIGNsYXNzPSJ0aWNrLXRleHQiIHRleHQtYW5jaG9yPSJlbmQiPjM2PC90ZXh0PgogIDx0ZXh0IHg9IjcyIiB5PSI4MCIgIGNsYXNzPSJ0aWNrLXRleHQiIHRleHQtYW5jaG9yPSJlbmQiPjM4PC90ZXh0PgoKICA8IS0tINix2YXZiNiyINin2YTZhdit2YjYsSDYp9mE2KPZgdmC2YogKFgtQXhpcyBFbGVtZW50cykgLS0+CiAgPGxpbmUgeDE9IjExMCIgeTE9IjQ0MCIgeDI9IjExMCIgeTI9IjQ0NiIgY2xhc3M9ImF4aXMiIC8+CiAgPHRleHQgeD0iMTEwIiB5PSI0NjIiIGNsYXNzPSJlbGVtLXRleHQiIHRleHQtYW5jaG9yPSJtaWRkbGUiPkNyPC90ZXh0PgoKICA8bGluZSB4MT0iMTcwIiB5MT0iNDQwIiB4Mj0iMTcwIiB5Mj0iNDQ2IiBjbGFzcz0iYXhpcyIgLz4KICA8dGV4dCB4PSIxNzAiIHk9IjQ2MiIgY2xhc3M9ImVsZW0tdGV4dCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+TW48L3RleHQ+CgogIDxsaW5lIHgxPSIyMzAiIHkxPSI0NDAiIHgyPSIyMzAiIHkyPSI0NDYiIGNsYXNzPSJheGlzIiAvPgogIDx0ZXh0IHg9IjIzMCIgeT0iNDYyIiBjbGFzcz0iZWxlbS10ZXh0IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5GZTwvdGV4dD4KCiAgPCEtLSDYudmG2KfZiNmK2YYg2KfZhNmF2K3Yp9mI2LEgKEF4aXMgTGFiZWxzKSAtLT4KICA8dGV4dCB4PSIxNzAiIHk9IjQ5MCIgY2xhc3M9ImxhYmVsLWF4aXMiIHRleHQtYW5jaG9yPSJtaWRkbGUiPkVsZW1lbnQ8L3RleHQ+CiAgPHRleHQgeD0iMzAiIHk9IjIzMCIgY2xhc3M9ImxhYmVsLWF4aXMiIHRleHQtYW5jaG9yPSJtaWRkbGUiIHRyYW5zZm9ybT0icm90YXRlKC05MCwgMzAsIDIzMCkiPklvbml6YXRpb24gZW5lcmd5IChldik8L3RleHQ+CgogIDwhLS0gMS4gTG93ZXIgUGxvdCBMaW5lIChYKSAtLT4KICA8cG9seWxpbmUgY2xhc3M9ImxpbmUtcGxvdCIgcG9pbnRzPSIxMTAsMzc3IDE3MCwzOTIgMjMwLDM3NyIgLz4KICA8Y2lyY2xlIGN4PSIxMTAiIGN5PSIzNzciIHI9IjQiIGNsYXNzPSJkb3QiIC8+CiAgPGNpcmNsZSBjeD0iMTcwIiBjeT0iMzkyIiByPSI0IiBjbGFzcz0iZG90IiAvPgogIDxjaXJjbGUgY3g9IjIzMCIgY3k9IjM3NyIgcj0iNCIgY2xhc3M9ImRvdCIgLz4KICA8dGV4dCB4PSIyODUiIHk9IjM4MCIgY2xhc3M9ImN1cnZlLWxhYmVsIj4oWCk8L3RleHQ+CgogIDwhLS0gMi4gVXBwZXIgUGxvdCBMaW5lIChZKSAtLT4KICA8cG9seWxpbmUgY2xhc3M9ImxpbmUtcGxvdCIgcG9pbnRzPSIxMTAsMTc1IDE3MCwxMzggMjMwLDE4MCIgLz4KICA8Y2lyY2xlIGN4PSIxMTAiIGN5PSIxNzUiIHI9IjQiIGNsYXNzPSJkb3QiIC8+CiAgPGNpcmNsZSBjeD0iMTcwIiBjeT0iMTM4IiByPSI0IiBjbGFzcz0iZG90IiAvPgogIDxjaXJjbGUgY3g9IjIzMCIgY3k9IjE4MCIgcj0iNCIgY2xhc3M9ImRvdCIgLz4KICA8dGV4dCB4PSIyODUiIHk9IjE3OCIgY2xhc3M9ImN1cnZlLWxhYmVsIj4oWSk8L3RleHQ+Cgo8L3N2Zz4K",
+    "correctIndex": 1,
     "variants": [
-      "Where is the d-block located relative to the s-block and p-block?",
-      "Describe the relative position of the d-block in the periodic table.",
-      "Is the d-block found on the extreme left, extreme right, or in the middle of the periodic table?"
+      "Based on the graphs of ionization energies, what do X and Y represent?",
+      "Identify the ionization potentials corresponding to curves X and Y.",
+      "In the graphs, X and Y represent which successive ionization potentials?",
+      "Which ionization potentials are depicted by the lines X and Y?",
+      "From the graduation graphs, X and Y stand for which ionization energies?"
     ]
   },
   {
     "id": 62,
-    "q": "What type of elements is the focus of study this academic year?",
-    "answer": "This academic year focuses on the study of transition elements.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "s-block elements",
-      "p-block elements",
-      "Transition elements",
-      "Noble gases"
+    "q": "The opposite chart represents the ionization potentials of ............",
+    "answer": "titanium metal.",
+    "steps": [
+      "Analyze the ionization potential chart.",
+      "Check the sequence of ionization potentials: 659, 1310, 2653, 4175, 9573, 11538, 13678.",
+      "Match these values to the ionization energies of Titanium.",
+      "Conclude that the chart represents Titanium."
     ],
-    "correctIndex": 2,
+    "stepExplanations": [
+      "The chart lists a sequence of ionization potentials: IP1, IP2, IP3, etc.",
+      "The values 659, 1310, 2653, 4175 kJ/mol correspond to the ionization energies of Titanium.",
+      "The large jump after IP4 is characteristic of Titanium (removing an electron from a filled noble gas core).",
+      "Thus, the chart represents Titanium."
+    ],
+    "choices": [
+      "titanium metal.",
+      "chromium metal.",
+      "iron metal.",
+      "vanadium metal."
+    ],
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0NTAgNDgwIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIj4KICA8ZGVmcz4KICAgIDxzdHlsZT4KICAgICAgLmJnIHsgZmlsbDogI2ZmZmZmZjsgfQogICAgICAuYXhpcyB7IHN0cm9rZTogIzJiNTlhMjsgc3Ryb2tlLXdpZHRoOiAyLjU7IHN0cm9rZS1saW5lY2FwOiByb3VuZDsgfQogICAgICAuYmFyIHsgZmlsbDogI2UzMWIyMzsgc3Ryb2tlOiAjYjIxNDFhOyBzdHJva2Utd2lkdGg6IDAuODsgfQogICAgICAubGFiZWwtYXhpcyB7IGZvbnQtZmFtaWx5OiBBcmlhbCwgc2Fucy1zZXJpZjsgZm9udC1zaXplOiAxNXB4OyBmaWxsOiAjMmI1OWEyOyBmb250LXdlaWdodDogYm9sZDsgfQogICAgICAudGljay10ZXh0IHsgZm9udC1mYW1pbHk6IEFyaWFsLCBzYW5zLXNlcmlmOyBmb250LXNpemU6IDE0cHg7IGZpbGw6ICMwMDAwMDA7IGZvbnQtd2VpZ2h0OiBib2xkOyB9CiAgICAgIC52YWwtdGV4dCB7IGZvbnQtZmFtaWx5OiBBcmlhbCwgc2Fucy1zZXJpZjsgZm9udC1zaXplOiAxMnB4OyBmaWxsOiAjMDAwMDAwOyBmb250LXdlaWdodDogYm9sZDsgfQogICAgPC9zdHlsZT4KICA8L2RlZnM+CgogIDxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGNsYXNzPSJiZyIgLz4KCiAgPCEtLSDYp9mE2YXYrdin2YjYsSDYp9mE2KPYs9in2LPZitipIChBeGVzKSAtLT4KICA8bGluZSB4MT0iNzAiIHkxPSI0MTAiIHgyPSI0MzAiIHkyPSI0MTAiIGNsYXNzPSJheGlzIiAvPgogIDxsaW5lIHgxPSI3MCIgeTE9IjQxMCIgeDI9IjcwIiAgeTI9IjIwIiAgY2xhc3M9ImF4aXMiIC8+CgogIDwhLS0g2LnZhtmI2KfZhiDYp9mE2YXYrdmI2LEg2KfZhNix2KPYs9mKIChZLUF4aXMgTGFiZWwpIC0tPgogIDx0ZXh0IHg9IjMwIiB5PSIyMTUiIGNsYXNzPSJsYWJlbC1heGlzIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiB0cmFuc2Zvcm09InJvdGF0ZSgtOTAsIDMwLCAyMTUpIj5Jb25pemF0aW9uIHBvdGVudGlhbCAoa0ovbW9sKTwvdGV4dD4KCiAgPCEtLSDYudmG2YjYp9mGINin2YTZhdit2YjYsSDYp9mE2KPZgdmC2YogKFgtQXhpcyBMYWJlbCkgLS0+CiAgPHRleHQgeD0iMjUwIiB5PSI0NjAiIGNsYXNzPSJsYWJlbC1heGlzIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5Jb25pemF0aW9uIHBvdGVudGlhbCBvcmRlcjwvdGV4dD4KCiAgPCEtLSAxLiBCYXIgMSAoVmFsOiA3NjIpIC0tPgogIDxyZWN0IHg9IjkyIiB5PSIzOTgiIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgY2xhc3M9ImJhciIgLz4KICA8dGV4dCB4PSI5OCIgeT0iMzkwIiBjbGFzcz0idmFsLXRleHQiIHRleHQtYW5jaG9yPSJtaWRkbGUiPjc2MjwvdGV4dD4KICA8dGV4dCB4PSI5OCIgeT0iNDMwIiBjbGFzcz0idGljay10ZXh0IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj4xPC90ZXh0PgoKICA8IS0tIDIuIEJhciAyIChWYWw6IDE1NjMpIC0tPgogIDxyZWN0IHg9IjEzMiIgeT0iMzg1IiB3aWR0aD0iMTIiIGhlaWdodD0iMjUiIGNsYXNzPSJiYXIiIC8+CiAgPHRleHQgeD0iMTM4IiB5PSIzNzciIGNsYXNzPSJ2YWwtdGV4dCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+MTU2MzwvdGV4dD4KICA8dGV4dCB4PSIxMzgiIHk9IjQzMCIgY2xhc3M9InRpY2stdGV4dCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+MjwvdGV4dD4KCiAgPCEtLSAzLiBCYXIgMyAoVmFsOiAyOTU3KSAtLT4KICA8cmVjdCB4PSIxNzIiIHk9IjM2MyIgd2lkdGg9IjEyIiBoZWlnaHQ9IjQ3IiBjbGFzcz0iYmFyIiAvPgogIDx0ZXh0IHg9IjE3OCIgeT0iMzU1IiBjbGFzcz0idmFsLXRleHQiIHRleHQtYW5jaG9yPSJtaWRkbGUiPjI5NTc8L3RleHQ+CiAgPHRleHQgeD0iMTc4IiB5PSI0MzAiIGNsYXNzPSJ0aWNrLXRleHQiIHRleHQtYW5jaG9yPSJtaWRkbGUiPjM8L3RleHQ+CgogIDwhLS0gNC4gQmFyIDQgKFZhbDogNTI5OCkgLS0+CiAgPHJlY3QgeD0iMjEyIiB5PSIzMjYiIHdpZHRoPSIxMiIgaGVpZ2h0PSI4NCIgY2xhc3M9ImJhciIgLz4KICA8dGV4dCB4PSIyMTgiIHk9IjMxOCIgY2xhc3M9InZhbC10ZXh0IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj41Mjk4PC90ZXh0PgogIDx0ZXh0IHg9IjIxOCIgeT0iNDMwIiBjbGFzcz0idGljay10ZXh0IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj40PC90ZXh0PgoKICA8IS0tIDUuIEJhciA1IChWYWw6IDcyMzYpIC0tPgogIDxyZWN0IHg9IjI1MiIgeT0iMjk1IiB3aWR0aD0iMTIiIGhlaWdodD0iMTE1IiBjbGFzcz0iYmFyIiAvPgogIDx0ZXh0IHg9IjI1OCIgeT0iMjg3IiBjbGFzcz0idmFsLXRleHQiIHRleHQtYW5jaG9yPSJtaWRkbGUiPjcyMzY8L3RleHQ+CiAgPHRleHQgeD0iMjU4IiB5PSI0MzAiIGNsYXNzPSJ0aWNrLXRleHQiIHRleHQtYW5jaG9yPSJtaWRkbGUiPjU8L3RleHQ+CgogIDwhLS0gNi4gQmFyIDYgKFZhbDogOTU1MSkgLS0+CiAgPHJlY3QgeD0iMjkyIiB5PSIyNTgiIHdpZHRoPSIxMiIgaGVpZ2h0PSIxNTIiIGNsYXNzPSJiYXIiIC8+CiAgPHRleHQgeD0iMjk4IiB5PSIyNTAiIGNsYXNzPSJ2YWwtdGV4dCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+OTU1MTwvdGV4dD4KICA8dGV4dCB4PSIyOTgiIHk9IjQzMCIgY2xhc3M9InRpY2stdGV4dCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+NjwvdGV4dD4KCiAgPCEtLSA3LiBCYXIgNyAoVmFsOiAxMjA2MCkgLS0+CiAgPHJlY3QgeD0iMzMyIiB5PSIyMTgiIHdpZHRoPSIxMiIgaGVpZ2h0PSIxOTIiIGNsYXNzPSJiYXIiIC8+CiAgPHRleHQgeD0iMzM4IiB5PSIyMTAiIGNsYXNzPSJ2YWwtdGV4dCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+MTIwNjA8L3RleHQ+CiAgPHRleHQgeD0iMzM4IiB5PSI0MzAiIGNsYXNzPSJ0aWNrLXRleHQiIHRleHQtYW5jaG9yPSJtaWRkbGUiPjc8L3RleHQ+CgogIDwhLS0gOC4gQmFyIDggKFZhbDogMTQ1ODApIC0tPgogIDxyZWN0IHg9IjM3MiIgeT0iMTc4IiB3aWR0aD0iMTIiIGhlaWdodD0iMjMyIiBjbGFzcz0iYmFyIiAvPgogIDx0ZXh0IHg9IjM3OCIgeT0iMTcwIiBjbGFzcz0idmFsLXRleHQiIHRleHQtYW5jaG9yPSJtaWRkbGUiPjE0NTgwPC90ZXh0PgogIDx0ZXh0IHg9IjM3OCIgeT0iNDMwIiBjbGFzcz0idGljay10ZXh0IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj44PC90ZXh0PgoKICA8IS0tIDkuIEJhciA5IChWYWw6IDIyNTQwKSAtLT4KICA8cmVjdCB4PSI0MTIiIHk9IjUwIiB3aWR0aD0iMTIiIGhlaWdodD0iMzYwIiBjbGFzcz0iYmFyIiAvPgogIDx0ZXh0IHg9IjQxOCIgeT0iNDIiIGNsYXNzPSJ2YWwtdGV4dCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+MjI1NDA8L3RleHQ+CiAgPHRleHQgeD0iNDE4IiB5PSI0MzAiIGNsYXNzPSJ0aWNrLXRleHQiIHRleHQtYW5jaG9yPSJtaWRkbGUiPjk8L3RleHQ+Cgo8L3N2Zz4K",
+    "correctIndex": 0,
     "variants": [
-      "What type of elements is the focus of study this academic year?",
-      "Which group of elements is being focused on in the current academic year's curriculum?"
+      "Which metal's ionization potentials are shown in the chart?",
+      "Identify the element whose ionization potential sequence is displayed.",
+      "The ionization potential chart belongs to which metal?",
+      "The given series of ionization potentials corresponds to:",
+      "Which transition metal is represented by the ionization potential chart?"
     ]
   },
   {
     "id": 63,
-    "q": "Where exactly are the transition elements located in the periodic table?",
-    "answer": "Transition elements occupy the middle part of the periodic table between the s-block (groups 1A and 2A) and the p-block (groups 3A to 7A and 0).",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "On the left side of the periodic table",
-      "On the right side of the periodic table",
-      "In the middle part of the periodic table, between s-block and p-block",
-      "At the bottom of the periodic table"
+    "q": "The shown chart represents the ionization potentials of the transition element whose electron configuration is ............",
+    "answer": "[Ar], 4s², 3d⁵",
+    "steps": [
+      "Examine the ionization potential data.",
+      "Identify the large jump between IP2 and IP3.",
+      "Recognize that this indicates the removal of electrons from a stable half-filled d-subshell.",
+      "Determine that the element is Manganese, with configuration [Ar]4s²3d⁵."
     ],
-    "correctIndex": 2,
+    "stepExplanations": [
+      "The data shows IP1 and IP2 are relatively low, followed by a significant jump at IP3.",
+      "This jump indicates that after removing two 4s electrons, the remaining electron is removed from a stable 3d⁵ configuration.",
+      "Manganese has the configuration [Ar]4s²3d⁵.",
+      "The chart corresponds to Manganese."
+    ],
+    "choices": [
+      "[Ar], 4s¹, 3d⁵",
+      "[Ar], 4s², 3d⁵",
+      "[Ar], 4s², 3d⁶",
+      "[Ar], 4s¹, 3d¹⁰"
+    ],
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0MjAgNDgwIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIj4KICA8ZGVmcz4KICAgIDxzdHlsZT4KICAgICAgLmJnIHsgZmlsbDogI2ZmZmZmZjsgfQogICAgICAuYXhpcyB7IHN0cm9rZTogIzJiNTlhMjsgc3Ryb2tlLXdpZHRoOiAyLjU7IHN0cm9rZS1saW5lY2FwOiByb3VuZDsgfQogICAgICAuYmFyIHsgZmlsbDogI2UzMWIyMzsgc3Ryb2tlOiAjYjIxNDFhOyBzdHJva2Utd2lkdGg6IDAuODsgfQogICAgICAubGFiZWwtYXhpcyB7IGZvbnQtZmFtaWx5OiBBcmlhbCwgc2Fucy1zZXJpZjsgZm9udC1zaXplOiAxNXB4OyBmaWxsOiAjMmI1OWEyOyBmb250LXdlaWdodDogYm9sZDsgfQogICAgICAudGljay10ZXh0IHsgZm9udC1mYW1pbHk6IEFyaWFsLCBzYW5zLXNlcmlmOyBmb250LXNpemU6IDE0cHg7IGZpbGw6ICMwMDAwMDA7IGZvbnQtd2VpZ2h0OiBib2xkOyB9CiAgICAgIC52YWwtdGV4dCB7IGZvbnQtZmFtaWx5OiBBcmlhbCwgc2Fucy1zZXJpZjsgZm9udC1zaXplOiAxMnB4OyBmaWxsOiAjMDAwMDAwOyBmb250LXdlaWdodDogYm9sZDsgfQogICAgPC9zdHlsZT4KICA8L2RlZnM+CgogIDxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGNsYXNzPSJiZyIgLz4KCiAgPCEtLSDYp9mE2YXYrdin2YjYsSDYp9mE2KPYs9in2LPZitipIChBeGVzKSAtLT4KICA8bGluZSB4MT0iNzAiIHkxPSI0MTAiIHgyPSI0MDAiIHkyPSI0MTAiIGNsYXNzPSJheGlzIiAvPgogIDxsaW5lIHgxPSI3MCIgeTE9IjQxMCIgeDI9IjcwIiAgeTI9IjIwIiAgY2xhc3M9ImF4aXMiIC8+CgogIDwhLS0g2LnZhtmI2KfZhiDYp9mE2YXYrdmI2LEg2KfZhNix2KPYs9mKIChZLUF4aXMgTGFiZWwpIC0tPgogIDx0ZXh0IHg9IjMwIiB5PSIyMTUiIGNsYXNzPSJsYWJlbC1heGlzIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiB0cmFuc2Zvcm09InJvdGF0ZSgtOTAsIDMwLCAyMTUpIj5Jb25pemF0aW9uIHBvdGVudGlhbCAoa0ovbW9sKTwvdGV4dD4KCiAgPCEtLSDYudmG2YjYp9mGINin2YTZhdit2YjYsSDYp9mE2KPZgdmC2YogKFgtQXhpcyBMYWJlbCkgLS0+CiAgPHRleHQgeD0iMjM1IiB5PSI0NjAiIGNsYXNzPSJsYWJlbC1heGlzIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5Jb25pemF0aW9uIHBvdGVudGlhbCBvcmRlcjwvdGV4dD4KCiAgPCEtLSAxLiBCYXIgMSAoVmFsOiA3MTcpIC0tPgogIDxyZWN0IHg9IjkyIiB5PSIzOTYiIHdpZHRoPSIxMiIgaGVpZ2h0PSIxNCIgY2xhc3M9ImJhciIgLz4KICA8dGV4dCB4PSI5OCIgeT0iMzg4IiBjbGFzcz0idmFsLXRleHQiIHRleHQtYW5jaG9yPSJtaWRkbGUiPjcxNzwvdGV4dD4KICA8dGV4dCB4PSI5OCIgeT0iNDMwIiBjbGFzcz0idGljay10ZXh0IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj4xPC90ZXh0PgoKICA8IS0tIDIuIEJhciAyIChWYWw6IDE1MDkpIC0tPgogIDxyZWN0IHg9IjEzMiIgeT0iMzgwIiB3aWR0aD0iMTIiIGhlaWdodD0iMzAiIGNsYXNzPSJiYXIiIC8+CiAgPHRleHQgeD0iMTM4IiB5PSIzNzIiIGNsYXNzPSJ2YWwtdGV4dCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+MTUwOTwvdGV4dD4KICA8dGV4dCB4PSIxMzgiIHk9IjQzMCIgY2xhc3M9InRpY2stdGV4dCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+MjwvdGV4dD4KCiAgPCEtLSAzLiBCYXIgMyAoVmFsOiAzMjQ4KSAtLT4KICA8cmVjdCB4PSIxNzIiIHk9IjM0NSIgd2lkdGg9IjEyIiBoZWlnaHQ9IjY1IiBjbGFzcz0iYmFyIiAvPgogIDx0ZXh0IHg9IjE3OCIgeT0iMzM3IiBjbGFzcz0idmFsLXRleHQiIHRleHQtYW5jaG9yPSJtaWRkbGUiPjMyNDg8L3RleHQ+CiAgPHRleHQgeD0iMTc4IiB5PSI0MzAiIGNsYXNzPSJ0aWNrLXRleHQiIHRleHQtYW5jaG9yPSJtaWRkbGUiPjM8L3RleHQ+CgogIDwhLS0gNC4gQmFyIDQgKFZhbDogNDk0MSkgLS0+CiAgPHJlY3QgeD0iMjEyIiB5PSIzMTEiIHdpZHRoPSIxMiIgaGVpZ2h0PSI5OSIgY2xhc3M9ImJhciIgLz4KICA8dGV4dCB4PSIyMTgiIHk9IjMwMyIgY2xhc3M9InZhbC10ZXh0IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj40OTQxPC90ZXh0PgogIDx0ZXh0IHg9IjIxOCIgeT0iNDMwIiBjbGFzcz0idGljay10ZXh0IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj40PC90ZXh0PgoKICA8IS0tIDUuIEJhciA1IChWYWw6IDY5ODcpIC0tPgogIDxyZWN0IHg9IjI1MiIgeT0iMjcwIiB3aWR0aD0iMTIiIGhlaWdodD0iMTQwIiBjbGFzcz0iYmFyIiAvPgogIDx0ZXh0IHg9IjI1OCIgeT0iMjYyIiBjbGFzcz0idmFsLXRleHQiIHRleHQtYW5jaG9yPSJtaWRkbGUiPjY5ODc8L3RleHQ+CiAgPHRleHQgeD0iMjU4IiB5PSI0MzAiIGNsYXNzPSJ0aWNrLXRleHQiIHRleHQtYW5jaG9yPSJtaWRkbGUiPjU8L3RleHQ+CgogIDwhLS0gNi4gQmFyIDYgKFZhbDogOTIyNCkgLS0+CiAgPHJlY3QgeD0iMjkyIiB5PSIyMjUiIHdpZHRoPSIxMiIgaGVpZ2h0PSIxODUiIGNsYXNzPSJiYXIiIC8+CiAgPHRleHQgeD0iMjk4IiB5PSIyMTciIGNsYXNzPSJ2YWwtdGV4dCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+OTIyNDwvdGV4dD4KICA8dGV4dCB4PSIyOTgiIHk9IjQzMCIgY2xhc3M9InRpY2stdGV4dCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+NjwvdGV4dD4KCiAgPCEtLSA3LiBCYXIgNyAoVmFsOiAxMTUwMCkgLS0+CiAgPHJlY3QgeD0iMzMyIiB5PSIxODAiIHdpZHRoPSIxMiIgaGVpZ2h0PSIyMzAiIGNsYXNzPSJiYXIiIC8+CiAgPHRleHQgeD0iMzM4IiB5PSIxNzIiIGNsYXNzPSJ2YWwtdGV4dCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+MTE1MDA8L3RleHQ+CiAgPHRleHQgeD0iMzM4IiB5PSI0MzAiIGNsYXNzPSJ0aWNrLXRleHQiIHRleHQtYW5jaG9yPSJtaWRkbGUiPjc8L3RleHQ+CgogIDwhLS0gOC4gQmFyIDggKFZhbDogMTg4NjApIC0tPgogIDxyZWN0IHg9IjM3MiIgeT0iMzMiIHdpZHRoPSIxMiIgaGVpZ2h0PSIzNzciIGNsYXNzPSJiYXIiIC8+CiAgPHRleHQgeD0iMzc4IiB5PSIyNSIgY2xhc3M9InZhbC10ZXh0IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj4xODg2MDwvdGV4dD4KICA8dGV4dCB4PSIzNzgiIHk9IjQzMCIgY2xhc3M9InRpY2stdGV4dCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+ODwvdGV4dD4KCjwvc3ZnPgo=",
+    "correctIndex": 1,
     "variants": [
-      "Where exactly are the transition elements located in the periodic table?",
-      "Between which two blocks are the transition elements located?",
-      "What are the group numbers of the s-block and p-block that flank the transition elements?"
+      "Which electron configuration corresponds to the transition element whose ionization potentials are shown in the chart?",
+      "The chart of ionization potentials corresponds to an element with which configuration?",
+      "Identify the electron configuration of the element represented by the ionization potential chart.",
+      "The transition element depicted in the chart has the electron configuration:",
+      "Which of the following configurations belongs to the element shown in the ionization chart?"
     ]
   },
   {
     "id": 64,
-    "q": "How many transition elements are there, and what fraction of known elements do they represent?",
-    "answer": "There are more than 60 transition elements, which represent more than half of the known elements.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Less than 60, representing less than half of the known elements",
-      "More than 60, representing more than half of the known elements",
-      "Exactly 60, representing exactly half of the known elements",
-      "More than 60, representing less than half of the known elements"
+    "q": "The table shows the first 4 ionization potentials of a transition metal (M): Ionization potential order: First 633.1, Second 1235, Third 2388.6, Fourth 7090.6. The oxidation state of element (M) in which an electron is removed from a completely filled energy level is ............",
+    "answer": "M³⁺",
+    "steps": [
+      "Analyze the ionization potential data.",
+      "Notice the large jump between the 3rd and 4th ionization potentials.",
+      "This jump indicates that the 4th electron is removed from a filled inner energy level.",
+      "Therefore, the ion from which this electron is removed is M³⁺."
     ],
-    "correctIndex": 1,
+    "stepExplanations": [
+      "The ionization potentials are: IP1=633.1, IP2=1235, IP3=2388.6, IP4=7090.6.",
+      "The huge jump from IP3 to IP4 means removing the 4th electron requires significantly more energy.",
+      "This implies the 4th electron is from a completely filled, stable energy level.",
+      "The ion before this removal is M³⁺."
+    ],
+    "choices": [
+      "M⁺",
+      "M²⁺",
+      "M³⁺",
+      "M⁴⁺"
+    ],
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NTAgMTQwIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIj4KICA8ZGVmcz4KICAgIDxzdHlsZT4KICAgICAgLmJnIHsgZmlsbDogI2ZmZmZmZjsgfQogICAgICAudGFibGUtYm9yZGVyIHsgZmlsbDogbm9uZTsgc3Ryb2tlOiAjN2Y3ZjdmOyBzdHJva2Utd2lkdGg6IDEuNTsgcng6IDg7IHJ5OiA4OyB9CiAgICAgIC5ncmlkLWxpbmUgeyBzdHJva2U6ICM3ZjdmN2Y7IHN0cm9rZS13aWR0aDogMS4yOyB9CiAgICAgIC5oZWFkZXItdGV4dCB7IGZvbnQtZmFtaWx5OiBBcmlhbCwgc2Fucy1zZXJpZjsgZm9udC1zaXplOiAxNXB4OyBmb250LXdlaWdodDogYm9sZDsgZmlsbDogIzJiNzBjOTsgdGV4dC1hbmNob3I6IG1pZGRsZTsgZG9taW5hbnQtYmFzZWxpbmU6IG1pZGRsZTsgfQogICAgICAuY29sLWhlYWRlci10ZXh0IHsgZm9udC1mYW1pbHk6IEFyaWFsLCBzYW5zLXNlcmlmOyBmb250LXNpemU6IDE1cHg7IGZvbnQtd2VpZ2h0OiBib2xkOyBmaWxsOiAjMzMzMzMzOyB0ZXh0LWFuY2hvcjogbWlkZGxlOyBkb21pbmFudC1iYXNlbGluZTogbWlkZGxlOyB9CiAgICAgIC5jZWxsLXRleHQgeyBmb250LWZhbWlseTogQXJpYWwsIHNhbnMtc2VyaWY7IGZvbnQtc2l6ZTogMTVweDsgZmlsbDogIzIyMjIyMjsgdGV4dC1hbmNob3I6IG1pZGRsZTsgZG9taW5hbnQtYmFzZWxpbmU6IG1pZGRsZTsgfQogICAgPC9zdHlsZT4KICA8L2RlZnM+CgogIDxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGNsYXNzPSJiZyIgLz4KCiAgPCEtLSBPdXRlciBSb3VuZGVkIFRhYmxlIEJvcmRlciAtLT4KICA8cmVjdCB4PSIxNSIgeT0iMTUiIHdpZHRoPSI2MjAiIGhlaWdodD0iMTEwIiByeD0iOCIgcnk9IjgiIGNsYXNzPSJ0YWJsZS1ib3JkZXIiIC8+CgogIDwhLS0gSG9yaXpvbnRhbCBEaXZpZGVyIExpbmUgLS0+CiAgPGxpbmUgeDE9IjE1IiB5MT0iNzAiIHgyPSI2MzUiIHkyPSI3MCIgY2xhc3M9ImdyaWQtbGluZSIgLz4KCiAgPCEtLSBWZXJ0aWNhbCBEaXZpZGVyIExpbmVzIC0tPgogIDxsaW5lIHgxPSIyMDAiIHkxPSIxNSIgeDI9IjIwMCIgeTI9IjEyNSIgY2xhc3M9ImdyaWQtbGluZSIgLz4KICA8bGluZSB4MT0iMzEwIiB5MT0iMTUiIHgyPSIzMTAiIHkyPSIxMjUiIGNsYXNzPSJncmlkLWxpbmUiIC8+CiAgPGxpbmUgeDE9IjQyMCIgeTE9IjE1IiB4Mj0iNDIwIiB5Mj0iMTI1IiBjbGFzcz0iZ3JpZC1saW5lIiAvPgogIDxsaW5lIHgxPSI1MjUiIHkxPSIxNSIgeDI9IjUyNSIgeTI9IjEyNSIgY2xhc3M9ImdyaWQtbGluZSIgLz4KCiAgPCEtLSBSb3cgMSBUZXh0cyAtLT4KICA8dGV4dCB4PSIxMDciIHk9IjQyLjUiIGNsYXNzPSJoZWFkZXItdGV4dCI+SW9uaXphdGlvbiBwb3RlbnRpYWwgb3JkZXI8L3RleHQ+CiAgPHRleHQgeD0iMjU1IiB5PSI0Mi41IiBjbGFzcz0iY29sLWhlYWRlci10ZXh0Ij5GaXJzdDwvdGV4dD4KICA8dGV4dCB4PSIzNjUiIHk9IjQyLjUiIGNsYXNzPSJjb2wtaGVhZGVyLXRleHQiPlNlY29uZDwvdGV4dD4KICA8dGV4dCB4PSI0NzIuNSIgeT0iNDIuNSIgY2xhc3M9ImNvbC1oZWFkZXItdGV4dCI+VGhpcmQ8L3RleHQ+CiAgPHRleHQgeD0iNTgwIiB5PSI0Mi41IiBjbGFzcz0iY29sLWhlYWRlci10ZXh0Ij5Gb3VydGg8L3RleHQ+CgogIDwhLS0gUm93IDIgVGV4dHMgLS0+CiAgPHRleHQgeD0iMTA3IiB5PSI4NyIgY2xhc3M9ImhlYWRlci10ZXh0Ij5WYWx1ZSBvZiB0aGUgaW9uaXphdGlvbjwvdGV4dD4KICA8dGV4dCB4PSIxMDciIHk9IjEwNyIgY2xhc3M9ImhlYWRlci10ZXh0Ij5wb3RlbnRpYWwgKGtKL21vbCk8L3RleHQ+CgogIDx0ZXh0IHg9IjI1NSIgeT0iOTcuNSIgY2xhc3M9ImNlbGwtdGV4dCI+NjMzLjE8L3RleHQ+CiAgPHRleHQgeD0iMzY1IiB5PSI5Ny41IiBjbGFzcz0iY2VsbC10ZXh0Ij4xMjM1PC90ZXh0PgogIDx0ZXh0IHg9IjQ3Mi41IiB5PSI5Ny41IiBjbGFzcz0iY2VsbC10ZXh0Ij4yMzg4LjY8L3RleHQ+CiAgPHRleHQgeD0iNTgwIiB5PSI5Ny41IiBjbGFzcz0iY2VsbC10ZXh0Ij43MDkwLjY8L3RleHQ+Cgo8L3N2Zz4K",
+    "correctIndex": 2,
     "variants": [
-      "How many transition elements are there, and what fraction of known elements do they represent?",
-      "Is it true that transition elements represent less than half of the known elements?",
-      "Approximately how many elements are classified as transition elements?"
+      "For the transition metal with the given ionization potentials, which oxidation state involves removing an electron from a full energy level?",
+      "The ion from which an electron is removed from a completely filled orbital is:",
+      "Based on the ionization potential data, the oxidation state of M that involves removing an electron from a filled subshell is:",
+      "Identify the oxidation state of M where the next ionization removes an electron from a completed energy level.",
+      "The removal of an electron from a completely filled level occurs for the ion:"
     ]
   },
   {
     "id": 65,
-    "q": "What are the two main groups into which transition elements are divided?",
-    "answer": "Transition elements are divided into two main groups: Main transition elements (d-block) and Inner transition elements (f-block).",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "s-block and p-block",
-      "d-block and f-block",
-      "Metals and nonmetals",
-      "Representative and non-representative elements"
+    "q": "The following table presents the ionization potentials of 4 transition elements estimated in (kJ/mol) : Element W: 717, 1509, 3248, 4941, 6987, 9224. Element X: 762, 1563, 2957, 5298, 7236, 9551. Element Y: 578, 1811, 2745, 11540, -, -. Element Z: 651, 1412, 2828, 4507, 6299, 12360. Which of these elements is used in superconducting magnets ?",
+    "answer": "Z",
+    "steps": [
+      "Examine the ionization potential tables for each element.",
+      "Match the data to known ionization energies of transition metals.",
+      "Identify Element Z as Titanium (Ti) based on its characteristic IPs.",
+      "Recall that Titanium is used in superconducting magnets."
     ],
-    "correctIndex": 1,
+    "stepExplanations": [
+      "The IPs of Z (651, 1412, 2828, 4507, 6299, 12360) match those of Titanium.",
+      "Titanium, often alloyed with Niobium, is used in the manufacture of superconducting magnets.",
+      "Thus, element Z is Titanium."
+    ],
+    "choices": [
+      "W",
+      "X",
+      "Y",
+      "Z"
+    ],
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA3MDAgMjMwIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIj4KICA8ZGVmcz4KICAgIDxzdHlsZT4KICAgICAgLmJnIHsgZmlsbDogI2ZmZmZmZjsgfQogICAgICAudGFibGUtYm9yZGVyIHsgZmlsbDogbm9uZTsgc3Ryb2tlOiAjN2Y3ZjdmOyBzdHJva2Utd2lkdGg6IDEuNTsgcng6IDg7IHJ5OiA4OyB9CiAgICAgIC5ncmlkLWxpbmUgeyBzdHJva2U6ICM3ZjdmN2Y7IHN0cm9rZS13aWR0aDogMS4yOyB9CiAgICAgIC5oZWFkZXItdGV4dCB7IGZvbnQtZmFtaWx5OiBBcmlhbCwgc2Fucy1zZXJpZjsgZm9udC1zaXplOiAxNXB4OyBmb250LXdlaWdodDogYm9sZDsgZmlsbDogIzJiNzBjOTsgdGV4dC1hbmNob3I6IG1pZGRsZTsgZG9taW5hbnQtYmFzZWxpbmU6IG1pZGRsZTsgfQogICAgICAuY29sLWhlYWRlci10ZXh0IHsgZm9udC1mYW1pbHk6IEFyaWFsLCBzYW5zLXNlcmlmOyBmb250LXNpemU6IDE1cHg7IGZvbnQtd2VpZ2h0OiBib2xkOyBmaWxsOiAjMzMzMzMzOyB0ZXh0LWFuY2hvcjogbWlkZGxlOyBkb21pbmFudC1iYXNlbGluZTogbWlkZGxlOyB9CiAgICAgIC5jZWxsLXRleHQgeyBmb250LWZhbWlseTogQXJpYWwsIHNhbnMtc2VyaWY7IGZvbnQtc2l6ZTogMTVweDsgZmlsbDogIzIyMjIyMjsgdGV4dC1hbmNob3I6IG1pZGRsZTsgZG9taW5hbnQtYmFzZWxpbmU6IG1pZGRsZTsgfQogICAgICAuY2VsbC10ZXh0LWJsdWUgeyBmb250LWZhbWlseTogQXJpYWwsIHNhbnMtc2VyaWY7IGZvbnQtc2l6ZTogMTVweDsgZm9udC13ZWlnaHQ6IGJvbGQ7IGZpbGw6ICMyYjcwYzk7IHRleHQtYW5jaG9yOiBtaWRkbGU7IGRvbWluYW50LWJhc2VsaW5lOiBtaWRkbGU7IH0KICAgIDwvc3R5bGU+CiAgPC9kZWZzPgoKICA8cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBjbGFzcz0iYmciIC8+CgogIDwhLS0gT3V0ZXIgVGFibGUgQm9yZGVyIC0tPgogIDxyZWN0IHg9IjE1IiB5PSIxNSIgd2lkdGg9IjY3MCIgaGVpZ2h0PSIyMDAiIHJ4PSI4IiByeT0iOCIgY2xhc3M9InRhYmxlLWJvcmRlciIgLz4KCiAgPCEtLSBEaWFnb25hbCBTcGxpdCBMaW5lIGluIFRvcC1MZWZ0IENlbGwgLS0+CiAgPGxpbmUgeDE9IjE1IiB5MT0iMTUiIHgyPSIyMzAiIHkyPSI1NSIgY2xhc3M9ImdyaWQtbGluZSIgLz4KCiAgPCEtLSBIb3Jpem9udGFsIEdyaWQgTGluZXMgLS0+CiAgPGxpbmUgeDE9IjE1IiB5MT0iNTUiIHgyPSI2ODUiIHkyPSI1NSIgY2xhc3M9ImdyaWQtbGluZSIgLz4KICA8bGluZSB4MT0iMTUiIHkxPSI5MiIgeDI9IjY4NSIgeTI9IjkyIiBjbGFzcz0iZ3JpZC1saW5lIiAvPgogIDxsaW5lIHgxPSIxNSIgeTE9IjEyOSIgeDI9IjY4NSIgeTI9IjEyOSIgY2xhc3M9ImdyaWQtbGluZSIgLz4KICA8bGluZSB4MT0iMTUiIHkxPSIxNjYiIHgyPSI2ODUiIHkyPSIxNjYiIGNsYXNzPSJncmlkLWxpbmUiIC8+CgogIDwhLS0gVmVydGljYWwgR3JpZCBMaW5lcyAtLT4KICA8bGluZSB4MT0iMjMwIiB5MT0iMTUiIHgyPSIyMzAiIHkyPSIyMTUiIGNsYXNzPSJncmlkLWxpbmUiIC8+CiAgPGxpbmUgeDE9IjMwNSIgeTE9IjE1IiB4Mj0iMzA1IiB5Mj0iMjE1IiBjbGFzcz0iZ3JpZC1saW5lIiAvPgogIDxsaW5lIHgxPSIzODAiIHkxPSIxNSIgeDI9IjM4MCIgeTI9IjIxNSIgY2xhc3M9ImdyaWQtbGluZSIgLz4KICA8bGluZSB4MT0iNDU1IiB5MT0iMTUiIHgyPSI0NTUiIHkyPSIyMTUiIGNsYXNzPSJncmlkLWxpbmUiIC8+CiAgPGxpbmUgeDE9IjUzMCIgeTE9IjE1IiB4Mj0iNTMwIiB5Mj0iMjE1IiBjbGFzcz0iZ3JpZC1saW5lIiAvPgogIDxsaW5lIHgxPSI2MDUiIHkxPSIxNSIgeDI9IjYwNSIgeTI9IjIxNSIgY2xhc3M9ImdyaWQtbGluZSIgLz4KCiAgPCEtLSBUb3AtTGVmdCBDb3JuZXIgSGVhZGVyIFRleHRzIC0tPgogIDx0ZXh0IHg9IjE2MCIgeT0iMzAiIGNsYXNzPSJoZWFkZXItdGV4dCI+SW9uaXphdGlvbiBwb3RlbnRpYWxzPC90ZXh0PgogIDx0ZXh0IHg9IjQ1IiB5PSI0MiIgY2xhc3M9ImhlYWRlci10ZXh0Ij5FbGVtZW50PC90ZXh0PgoKICA8IS0tIENvbHVtbiBIZWFkZXJzIChSb3cgMSkgLS0+CiAgPHRleHQgeD0iMjY3LjUiIHk9IjM1IiBjbGFzcz0iY29sLWhlYWRlci10ZXh0Ij5GaXJzdDwvdGV4dD4KICA8dGV4dCB4PSIzNDIuNSIgeT0iMzUiIGNsYXNzPSJjb2wtaGVhZGVyLXRleHQiPlNlY29uZDwvdGV4dD4KICA8dGV4dCB4PSI0MTcuNSIgeT0iMzUiIGNsYXNzPSJjb2wtaGVhZGVyLXRleHQiPlRoaXJkPC90ZXh0PgogIDx0ZXh0IHg9IjQ5Mi41IiB5PSIzNSIgY2xhc3M9ImNvbC1oZWFkZXItdGV4dCI+Rm91cnRoPC90ZXh0PgogIDx0ZXh0IHg9IjU2Ny41IiB5PSIzNSIgY2xhc3M9ImNvbC1oZWFkZXItdGV4dCI+RmlmdGg8L3RleHQ+CiAgPHRleHQgeD0iNjQ1IiB5PSIzNSIgY2xhc3M9ImNvbC1oZWFkZXItdGV4dCI+U2l4dGg8L3RleHQ+CgogIDwhLS0gUm93IDI6IChXKSAtLT4KICA8dGV4dCB4PSIxMjIuNSIgeT0iNzMuNSIgY2xhc3M9ImNlbGwtdGV4dC1ibHVlIj4oVyk8L3RleHQ+CiAgPHRleHQgeD0iMjY3LjUiIHk9IjczLjUiIGNsYXNzPSJjZWxsLXRleHQiPjcxNzwvdGV4dD4KICA8dGV4dCB4PSIzNDIuNSIgeT0iNzMuNSIgY2xhc3M9ImNlbGwtdGV4dCI+MTUwOTwvdGV4dD4KICA8dGV4dCB4PSI0MTcuNSIgeT0iNzMuNSIgY2xhc3M9ImNlbGwtdGV4dCI+MzI0ODwvdGV4dD4KICA8dGV4dCB4PSI0OTIuNSIgeT0iNzMuNSIgY2xhc3M9ImNlbGwtdGV4dCI+NDk0MTwvdGV4dD4KICA8dGV4dCB4PSI1NjcuNSIgeT0iNzMuNSIgY2xhc3M9ImNlbGwtdGV4dCI+Njk4NzwvdGV4dD4KICA8dGV4dCB4PSI2NDUiIHk9IjczLjUiIGNsYXNzPSJjZWxsLXRleHQiPjkyMjQ8L3RleHQ+CgogIDwhLS0gUm93IDM6IChYKSAtLT4KICA8dGV4dCB4PSIxMjIuNSIgeT0iMTEwLjUiIGNsYXNzPSJjZWxsLXRleHQtYmx1ZSI+KFgpPC90ZXh0PgogIDx0ZXh0IHg9IjI2Ny41IiB5PSIxMTAuNSIgY2xhc3M9ImNlbGwtdGV4dCI+NzYyPC90ZXh0PgogIDx0ZXh0IHg9IjM0Mi41IiB5PSIxMTAuNSIgY2xhc3M9ImNlbGwtdGV4dCI+MTU2MzwvdGV4dD4KICA8dGV4dCB4PSI0MTcuNSIgeT0iMTEwLjUiIGNsYXNzPSJjZWxsLXRleHQiPjI5NTc8L3RleHQ+CiAgPHRleHQgeD0iNDkyLjUiIHk9IjExMC41IiBjbGFzcz0iY2VsbC10ZXh0Ij41Mjk4PC90ZXh0PgogIDx0ZXh0IHg9IjU2Ny41IiB5PSIxMTAuNSIgY2xhc3M9ImNlbGwtdGV4dCI+NzIzNjwvdGV4dD4KICA8dGV4dCB4PSI2NDUiIHk9IjExMC41IiBjbGFzcz0iY2VsbC10ZXh0Ij45NTUxPC90ZXh0PgoKICA8IS0tIFJvdyA0OiAoWSkgLS0+CiAgPHRleHQgeD0iMTIyLjUiIHk9IjE0Ny41IiBjbGFzcz0iY2VsbC10ZXh0LWJsdWUiPihZKTwvdGV4dD4KICA8dGV4dCB4PSIyNjcuNSIgeT0iMTQ3LjUiIGNsYXNzPSJjZWxsLXRleHQiPjU3ODwvdGV4dD4KICA8dGV4dCB4PSIzNDIuNSIgeT0iMTQ3LjUiIGNsYXNzPSJjZWxsLXRleHQiPjE4MTE8L3RleHQ+CiAgPHRleHQgeD0iNDE3LjUiIHk9IjE0Ny41IiBjbGFzcz0iY2VsbC10ZXh0Ij4yNzQ1PC90ZXh0PgogIDx0ZXh0IHg9IjQ5Mi41IiB5PSIxNDcuNSIgY2xhc3M9ImNlbGwtdGV4dCI+MTE1NDA8L3RleHQ+CiAgPHRleHQgeD0iNTY3LjUiIHk9IjE0Ny41IiBjbGFzcz0iY2VsbC10ZXh0Ij7igJM8L3RleHQ+CiAgPHRleHQgeD0iNjQ1IiB5PSIxNDcuNSIgY2xhc3M9ImNlbGwtdGV4dCI+4oCTPC90ZXh0PgoKICA8IS0tIFJvdyA1OiAoWikgLS0+CiAgPHRleHQgeD0iMTIyLjUiIHk9IjE4NC41IiBjbGFzcz0iY2VsbC10ZXh0LWJsdWUiPihaKTwvdGV4dD4KICA8dGV4dCB4PSIyNjcuNSIgeT0iMTg0LjUiIGNsYXNzPSJjZWxsLXRleHQiPjY1MTwvdGV4dD4KICA8dGV4dCB4PSIzNDIuNSIgeT0iMTg0LjUiIGNsYXNzPSJjZWxsLXRleHQiPjE0MTI8L3RleHQ+CiAgPHRleHQgeD0iNDE3LjUiIHk9IjE4NC41IiBjbGFzcz0iY2VsbC10ZXh0Ij4yODI4PC90ZXh0PgogIDx0ZXh0IHg9IjQ5Mi41IiB5PSIxODQuNSIgY2xhc3M9ImNlbGwtdGV4dCI+NDUwNzwvdGV4dD4KICA8dGV4dCB4PSI1NjcuNSIgeT0iMTg0LjUiIGNsYXNzPSJjZWxsLXRleHQiPjYyOTk8L3RleHQ+CiAgPHRleHQgeD0iNjQ1IiB5PSIxODQuNSIgY2xhc3M9ImNlbGwtdGV4dCI+MTIzNjA8L3RleHQ+Cgo8L3N2Zz4K",
+    "correctIndex": 3,
     "variants": [
-      "What are the two main groups into which transition elements are divided?",
-      "Which two blocks make up the transition elements?",
-      "The inner transition elements belong to which block of the periodic table?"
+      "Which element from the table of ionization potentials is utilized in superconducting magnets?",
+      "Identify the element used in superconducting magnets based on the provided ionization potential data.",
+      "Based on the ionization potential table, which element Z corresponds to the one used in superconducting magnets?",
+      "Using the ionization potential table, determine which element is used in superconducting magnet technology.",
+      "The element employed in superconducting magnets is:"
     ]
   },
   {
     "id": 66,
-    "q": "Where are the main transition elements situated in the periodic table?",
-    "answer": "The main transition elements are situated in the center of the periodic table (d-block).",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "On the left side",
-      "On the right side",
-      "In the center",
-      "At the bottom"
+    "q": "The transition metal (X) has 12 isotopes : (1) Determine the group of the element (X) in the periodic table. (2) Write the chemical formula of the sulphide salt of the element (X) whose cation contains 3 unpaired electrons.",
+    "answer": "Group of element X is VIIIB. The chemical formula of the sulphide salt is CoS.",
+    "steps": [
+      "Identify element X based on the number of isotopes.",
+      "Cobalt has 1 stable isotope and several radioisotopes, totaling 12 known isotopes.",
+      "Cobalt is located in group VIIIB.",
+      "The cation of cobalt with 3 unpaired electrons is Co²⁺.",
+      "Write the formula of cobalt sulfide as CoS."
     ],
-    "correctIndex": 2,
+    "stepExplanations": [
+      "The question states the element has 12 isotopes, which is a characteristic of Cobalt.",
+      "Cobalt has 12 isotopes, including one stable isotope Co-59.",
+      "Cobalt lies in the 9th group of the periodic table, which is VIIIB.",
+      "Co²⁺ has the electronic configuration [Ar]3d⁷, which contains 3 unpaired electrons.",
+      "Sulfide ion is S²⁻, so it combines with Co²⁺ to form CoS."
+    ],
+    "choices": [],
+    "image": null,
+    "correctIndex": -1,
     "variants": [
-      "Where are the main transition elements situated in the periodic table?",
-      "Which block contains the main transition elements?",
-      "Which specific block is located in the very center of the periodic table?"
+      "An element X, known to have 12 isotopes, forms a sulfide salt with a cation containing 3 unpaired electrons. Determine its group and the formula of its sulfide salt.",
+      "A transition metal X with 12 isotopes forms a cation with 3 unpaired electrons. What is its group in the periodic table and the formula of its sulfide salt?",
+      "Determine the group number and the chemical formula of the sulfide salt for the transition element X, which has 12 isotopes and forms a cation with 3 unpaired electrons.",
+      "Identify the periodic table group and the sulfide formula of a transition metal X that possesses 12 isotopes and a cation with 3 unpaired electrons.",
+      "Find the group and the sulfide salt formula of the transition element X, characterized by having 12 isotopes and a cation that contains 3 unpaired electrons."
     ]
   },
   {
     "id": 67,
-    "q": "How many vertical groups does the d-block consist of, and what is the reason for this number?",
-    "answer": "The d-block consists of 10 vertical groups, as each is followed by the filling of the 3d sublevel, which consists of 5 orbitals accommodating 10 electrons.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "8 groups; because of 8 valence electrons",
-      "10 groups; because of 10 electrons accommodated in 5 d-orbitals",
-      "6 groups; because of 6 d-electrons",
-      "12 groups; because of the 12 electrons in the d-block"
+    "q": "Metal (Y) is located in the fifth period, group 3B in the periodic table : (1) What is the electron configuration of the element (X) which precedes it in the same group ? (2) What are the properties of the alloy of element (X) with aluminum ?",
+    "answer": "Element (Y) is Yttrium (Y) in group 3B, period 5. The element that precedes it in the same group is Scandium (Sc) in period 4, group 3B. Electron configuration of Sc: [Ar] 4s² 3d¹. The alloy of Scandium with aluminum is characterized by lightness and high hardness.",
+    "steps": [
+      "Identify element (Y) as Yttrium.",
+      "Identify the preceding element (X) in the same group as Scandium.",
+      "Write the electron configuration of Scandium.",
+      "Describe the properties of the alloy of Scandium and Aluminum."
     ],
-    "correctIndex": 1,
+    "stepExplanations": [
+      "Element Y is in period 5, group 3B, which is Yttrium.",
+      "The element above Yttrium in group 3B is Scandium, which is in the 4th period.",
+      "Scandium has electron configuration [Ar] 4s² 3d¹.",
+      "The alloy of Scandium and Aluminum is known for being light and strong."
+    ],
+    "choices": [],
+    "image": null,
+    "correctIndex": -1,
     "variants": [
-      "How many vertical groups does the d-block consist of, and what is the reason for this number?",
-      "Why does the d-block consist of exactly 10 vertical groups?",
-      "What is the maximum number of electrons that can be accommodated in the five 3d orbitals?",
-      "How many orbitals are there in the 3d sublevel?"
+      "Given that metal Y is in the 5th period, group 3B, what is the electron configuration of element X, which precedes it in the same group, and what are the properties of its alloy with aluminum?",
+      "Metal Y is located in period 5, group 3B. Element X precedes it in the same group. Determine the electron configuration of X and the properties of its alloy with aluminum.",
+      "What is the electron configuration of the element preceding metal Y (period 5, group 3B) in the periodic table, and what are the characteristics of its alloy with aluminum?",
+      "Identify element X, which is located above metal Y (period 5, group 3B) in the same group. What is X's electron configuration and what are the properties of the alloy formed between X and aluminum?",
+      "For metal Y in the 5th period, group 3B, find the electron configuration of the element X directly above it in the same group and describe the properties of the alloy of X with aluminum."
     ]
   },
   {
     "id": 68,
-    "q": "How are the groups of the d-block designated, and what are their numbers in the IUPAC system?",
-    "answer": "Groups of the d-block are designated by letter B (with the exception of group VIII, which consists of 3 vertical columns) and are numbered (3) to (12) in the IUPAC system.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Designated by letter A; numbered 1-8 in IUPAC",
-      "Designated by letter B; numbered 3-12 in IUPAC",
-      "Designated by letter B; numbered 1-10 in IUPAC",
-      "Designated by letter A; numbered 3-12 in IUPAC"
+    "q": "One of manganese compounds is Mn₃(PO₄)₂ : (1) Write the electron configuration of manganese ion in this compound. (2) Is oxidizing manganese ion in this compound Mn²⁺ easy or difficult ? Explain.",
+    "answer": "Manganese ion in Mn₃(PO₄)₂ is Mn²⁺. Its electron configuration is [Ar] 3d⁵. It is difficult to oxidize Mn²⁺ because it has a half-filled 3d subshell which is stable.",
+    "steps": [
+      "Determine the oxidation state of Mn in Mn₃(PO₄)₂.",
+      "Write the electron configuration of Mn²⁺.",
+      "Assess the stability of Mn²⁺."
     ],
-    "correctIndex": 1,
+    "stepExplanations": [
+      "In Mn₃(PO₄)₂, the phosphate ion is PO₄³⁻, so Mn must be +2.",
+      "Mn²⁺ has the configuration [Ar] 3d⁵.",
+      "The 3d⁵ configuration is half-filled and exceptionally stable, making it difficult to remove another electron."
+    ],
+    "choices": [],
+    "image": null,
+    "correctIndex": -1,
     "variants": [
-      "How are the groups of the d-block designated, and what are their numbers in the IUPAC system?",
-      "Which group in the d-block is an exception to being a single vertical column?",
-      "How many vertical columns are included in group VIII of the periodic table?",
-      "What are the IUPAC group numbers for the d-block elements?"
+      "For the compound Mn₃(PO₄)₂, provide the electron configuration of the manganese ion and explain whether oxidizing it is easy or difficult.",
+      "Analyze the manganese ion in Mn₃(PO₄)₂: write its electron configuration and justify the ease or difficulty of its oxidation.",
+      "What is the electron configuration of the manganese ion in Mn₃(PO₄)₂, and is it easy or difficult to oxidize this ion? Explain your reasoning.",
+      "Determine the electron configuration of the manganese ion in Mn₃(PO₄)₂. Discuss if it is easy or difficult to oxidize this ion and explain why.",
+      "Write the electron configuration of the Mn ion in Mn₃(PO₄)₂. State whether its oxidation is easy or hard and provide a chemical explanation."
     ]
   },
   {
     "id": 69,
-    "q": "Why does group VIII of the periodic table consist of three vertical columns?",
-    "answer": "Group VIII consists of three vertical columns (8, 9, 10) because elements in these columns have more similarities to each other than to other elements.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Because they have the same number of electrons.",
-      "Because elements in these columns have more similarities to each other than to other elements.",
-      "Because they all have the same atomic mass.",
-      "Because they all have the same valence electron configuration."
+    "q": "Transition metal (M) combines with chlorine forming MCl₂, the number of its electrons in this compound is 24 electrons : (1) What is the name of metal (M) ? (2) Write the electron configuration of the ion of its metal in its most stable oxidation state.",
+    "answer": "Metal M is Iron. Fe³⁺: [Ar] 3d⁵.",
+    "steps": [
+      "Calculate atomic number of M from MCl₂.",
+      "Determine the element M is Iron.",
+      "Identify the most stable oxidation state of Iron and its electron configuration."
     ],
-    "correctIndex": 1,
+    "stepExplanations": [
+      "MCl₂ means M²⁺. M²⁺ has 24 electrons, so M has 26 electrons (Iron).",
+      "Iron is element number 26 in the periodic table.",
+      "The most stable oxidation state of Iron is +3, with a half-filled d-subshell.",
+      "Iron in the +3 state has the configuration [Ar]3d⁵."
+    ],
+    "choices": [],
+    "image": null,
+    "correctIndex": -1,
     "variants": [
-      "Why does group VIII of the periodic table consist of three vertical columns?",
-      "What are the numbers of the three vertical columns that make up group VIII?",
-      "What is the reason for grouping columns 8, 9, and 10 together as group VIII?"
+      "A transition metal M forms the compound MCl₂, containing 24 electrons. What is the name of M and what is the electron configuration of its ion in the most stable oxidation state?",
+      "In the compound MCl₂, the metal ion has 24 electrons. Identify the metal M and write the electron configuration of its most stable ion.",
+      "A transition metal M combines with chlorine to form MCl₂. The compound contains 24 electrons. Determine the name of M and the electron configuration of its stable ion.",
+      "Identify the transition metal M in MCl₂, where the compound has 24 electrons, and provide the electron configuration of the ion of M in its most stable oxidation state.",
+      "Given the compound MCl₂ contains 24 electrons, what is the metal M and what is the electronic configuration of its most stable cation?"
     ]
   },
   {
     "id": 70,
-    "q": "How many horizontal series are the main transition elements divided into, and how many elements does each contain?",
-    "answer": "The main transition elements are divided into four horizontal series (periods), each containing exactly 10 elements.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Three series; each containing 10 elements",
-      "Four series; each containing 10 elements",
-      "Four series; each containing 8 elements",
-      "Five series; each containing 10 elements"
+    "q": "In the light of your knowledge about the electron configuration of the highest two energy sublevels in each of chromium, copper and zinc elements, determine : (1) A similarity between copper and zinc. (2) A difference between copper and chromium.",
+    "answer": "Similarity between Cu and Zn: Both have completely filled 3d sublevels (3d¹⁰) in their ground states. Difference between Cu and Cr: Cu has one electron in the 4s sublevel (4s¹), while Cr also has one electron in the 4s sublevel (4s¹), but they differ in the 3d sublevel filling: Cu has 3d¹⁰ (completely filled) and Cr has 3d⁵ (half-filled).",
+    "steps": [
+      "Identify the electron configurations of Cr, Cu, Zn.",
+      "Compare Cu and Zn to find a similarity.",
+      "Compare Cu and Cr to find a difference."
     ],
-    "correctIndex": 1,
+    "stepExplanations": [
+      "Cr: [Ar]4s¹3d⁵, Cu: [Ar]4s¹3d¹⁰, Zn: [Ar]4s²3d¹⁰.",
+      "Both Cu and Zn have a completely filled 3d sublevel (3d¹⁰).",
+      "Both Cu and Cr have one electron in the 4s sublevel (4s¹), but they differ in the 3d sublevel filling (3d¹⁰ vs 3d⁵)."
+    ],
+    "choices": [],
+    "image": null,
+    "correctIndex": -1,
     "variants": [
-      "How many horizontal series are the main transition elements divided into?",
-      "How many elements does each horizontal series of main transition elements contain?",
-      "What is the total number of elements found in any one horizontal series of the main transition elements?"
+      "Using your knowledge of the highest energy sublevels of Cr, Cu, and Zn, identify one similarity between Cu and Zn and one difference between Cu and Cr.",
+      "Based on the electron configurations of the highest energy sublevels of Cr, Cu, and Zn, state a similarity between Cu and Zn and a difference between Cu and Cr.",
+      "Compare the electron configurations of the top two sublevels of Cr, Cu, and Zn. What is a similarity between Cu and Zn, and what is a difference between Cu and Cr?",
+      "Referring to the electron configurations of the highest two energy sublevels, what is a common feature of Cu and Zn and a distinguishing feature between Cu and Cr?",
+      "From the electron configuration of the highest energy sublevels, determine a similarity between Copper and Zinc, and a difference between Copper and Chromium."
     ]
   },
   {
     "id": 71,
-    "q": "Which elements mark the start and end of the first transition series, and in which period is it located?",
-    "answer": "The first transition series (3d) starts with Scandium (₂₁Sc) and ends with Zinc (₃₀Zn). It falls in the 4th period.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Scandium (Sc) to Zinc (Zn); 4th period",
-      "Yttrium (Y) to Cadmium (Cd); 5th period",
-      "Lanthanum (La) to Mercury (Hg); 6th period",
-      "Actinium (Ac) to Copernicium (Cn); 7th period"
+    "q": "The compound MSO₄ is used as an insecticide and a fungicide : (1) Write the electron configuration of the ion of metal (M) in this compound. (2) Why is the second ionization potential of this metal significantly higher than its first ionization potential ?",
+    "answer": "M is Copper (Cu). CuSO₄ is used as a fungicide. The ion of Cu in CuSO₄ is Cu²⁺. Electron configuration of Cu²⁺ is [Ar]3d⁹. The second ionization potential is higher because removing a second electron (to form Cu²⁺) requires removing an electron from a more stable, completely filled 3d¹⁰ sublevel of Cu⁺, which requires more energy.",
+    "steps": [
+      "Identify M as Copper.",
+      "Write the electron configuration of Cu²⁺.",
+      "Explain why the second ionization potential is higher."
     ],
-    "correctIndex": 0,
+    "stepExplanations": [
+      "CuSO₄ is commonly used as a fungicide, so M is Copper.",
+      "Cu atom: [Ar]4s¹3d¹⁰. Cu⁺: [Ar]3d¹⁰. Cu²⁺: [Ar]3d⁹.",
+      "The first ionization removes the 4s¹ electron, the second ionization removes an electron from the stable 3d¹⁰ subshell, requiring much more energy."
+    ],
+    "choices": [],
+    "image": null,
+    "correctIndex": -1,
     "variants": [
-      "Which elements mark the start and end of the first transition series, and in which period is it located?",
-      "What is the period number for the first transition series?",
-      "What is the range of electron configurations for the end of the first transition series (from Sc to Zn)?",
-      "The first transition series begins with which element: Scandium (Sc) or Titanium (Ti)?"
+      "The compound MSO₄ is utilized as an insecticide and fungicide. Write the electron configuration of the metal ion and explain why its second ionization potential is significantly higher than its first.",
+      "For the compound MSO₄, used as a fungicide, what is the electron configuration of the metal ion, and why is its second ionization potential much larger than the first?",
+      "Identify the metal ion in the fungicidal compound MSO₄, write its electron configuration, and explain the high value of its second ionization potential.",
+      "Given that MSO₄ is an insecticide and fungicide, determine the electron configuration of the cation and justify the large difference between its first and second ionization potentials.",
+      "Explain why the second ionization potential of the metal in MSO₄ is much higher than its first, and provide the electron configuration of the metal ion."
     ]
   },
   {
     "id": 72,
-    "q": "Which elements mark the start and end of the second transition series, and in which period is it located?",
-    "answer": "The second transition series (4d) starts with Yttrium (₃₉Y) and ends with Cadmium (₄₈Cd). It falls in the 5th period.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Scandium (Sc) to Zinc (Zn); 4th period",
-      "Yttrium (Y) to Cadmium (Cd); 5th period",
-      "Lanthanum (La) to Mercury (Hg); 6th period",
-      "Actinium (Ac) to Copernicium (Cn); 7th period"
+    "q": "The shown graph displays data about the ionization potentials of metal (M) that is located in the first transition series. (1) How many energy sublevels are completely filled with electrons in the stable ion of (M) ? (2) Write the formula of (M) oxide, and state its importance.",
+    "answer": "Based on the graph, the element is Zinc (Zn). First IP: 906, Second IP: 1733, Third IP: 3833. The stable ion of Zn is Zn²⁺. Zn²⁺ has completely filled 3d sublevel (3d¹⁰) and 4s sublevel (empty), so the completely filled sublevels are 1s², 2s², 2p⁶, 3s², 3p⁶, 3d¹⁰. That's 6 filled sublevels. Formula of ZnO is ZnO. Importance: It is used in the rubber industry (vulcanization) and in sunscreen (UV absorption).",
+    "steps": [
+      "Identify M from the ionization potential graph.",
+      "Determine the stable ion of M.",
+      "Count the completely filled sublevels in the ion.",
+      "Write the formula of the oxide.",
+      "State its importance."
     ],
-    "correctIndex": 1,
+    "stepExplanations": [
+      "The graph shows IPs matching Zinc: 906, 1733, 3833.",
+      "Zinc loses its two 4s electrons to form Zn²⁺, which is its stable ion.",
+      "Zn²⁺ has configuration [Ar]3d¹⁰, so its completely filled sublevels are 1s, 2s, 2p, 3s, 3p, 3d.",
+      "Zinc oxide is ZnO.",
+      "ZnO is used in the rubber industry and in sunscreens."
+    ],
+    "choices": [],
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMjAgNDgwIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIj4KICA8ZGVmcz4KICAgIDxzdHlsZT4KICAgICAgLmJnIHsgZmlsbDogI2ZmZmZmZjsgfQogICAgICAuYXhpcyB7IHN0cm9rZTogIzJiNTlhMjsgc3Ryb2tlLXdpZHRoOiAyLjU7IHN0cm9rZS1saW5lY2FwOiByb3VuZDsgfQogICAgICAuYmFyIHsgZmlsbDogI2UzMWIyMzsgc3Ryb2tlOiAjYjIxNDFhOyBzdHJva2Utd2lkdGg6IDAuODsgfQogICAgICAubGFiZWwtYXhpcyB7IGZvbnQtZmFtaWx5OiBBcmlhbCwgc2Fucy1zZXJpZjsgZm9udC1zaXplOiAxNXB4OyBmaWxsOiAjMmI1OWEyOyBmb250LXdlaWdodDogYm9sZDsgfQogICAgICAudGljay10ZXh0IHsgZm9udC1mYW1pbHk6IEFyaWFsLCBzYW5zLXNlcmlmOyBmb250LXNpemU6IDE0cHg7IGZpbGw6ICMwMDAwMDA7IGZvbnQtd2VpZ2h0OiBib2xkOyB9CiAgICAgIC52YWwtdGV4dCB7IGZvbnQtZmFtaWx5OiBBcmlhbCwgc2Fucy1zZXJpZjsgZm9udC1zaXplOiAxM3B4OyBmaWxsOiAjMDAwMDAwOyBmb250LXdlaWdodDogYm9sZDsgfQogICAgPC9zdHlsZT4KICA8L2RlZnM+CgogIDxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGNsYXNzPSJiZyIgLz4KCiAgPCEtLSDYp9mE2YXYrdin2YjYsSDYp9mE2KPYs9in2LPZitipIChBeGVzKSAtLT4KICA8bGluZSB4MT0iNjUiIHkxPSI0MTAiIHgyPSIzMDAiIHkyPSI0MTAiIGNsYXNzPSJheGlzIiAvPgogIDxsaW5lIHgxPSI2NSIgeTE9IjQxMCIgeDI9IjY1IiAgeTI9IjIwIiAgY2xhc3M9ImF4aXMiIC8+CgogIDwhLS0g2LnZhtmI2KfZhiDYp9mE2YXYrdmI2LEg2KfZhNix2KPYs9mKIChZLUF4aXMgTGFiZWwpIC0tPgogIDx0ZXh0IHg9IjI1IiB5PSIyMTUiIGNsYXNzPSJsYWJlbC1heGlzIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiB0cmFuc2Zvcm09InJvdGF0ZSgtOTAsIDI1LCAyMTUpIj5Jb25pemF0aW9uIHBvdGVudGlhbCAoa0ovbW9sKTwvdGV4dD4KCiAgPCEtLSDYudmG2YjYp9mGINin2YTZhdit2YjYsSDYp9mE2KPZgdmC2YogKFgtQXhpcyBMYWJlbCkgLS0+CiAgPHRleHQgeD0iMTgwIiB5PSI0NjAiIGNsYXNzPSJsYWJlbC1heGlzIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5Jb25pemF0aW9uIHBvdGVudGlhbCBvcmRlcjwvdGV4dD4KCiAgPCEtLSAxLiBCYXIgMSAoVmFsOiA2NTkpIC0tPgogIDxyZWN0IHg9Ijg1IiB5PSIzODUiIHdpZHRoPSIxNCIgaGVpZ2h0PSIyNSIgY2xhc3M9ImJhciIgLz4KICA8dGV4dCB4PSI5MiIgeT0iMzc3IiBjbGFzcz0idmFsLXRleHQiIHRleHQtYW5jaG9yPSJtaWRkbGUiPjY1OTwvdGV4dD4KICA8dGV4dCB4PSI5MiIgeT0iNDMwIiBjbGFzcz0idGljay10ZXh0IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj4xPC90ZXh0PgoKICA8IS0tIDIuIEJhciAyIChWYWw6IDEzMTApIC0tPgogIDxyZWN0IHg9IjEyNSIgeT0iMzYwIiB3aWR0aD0iMTQiIGhlaWdodD0iNTAiIGNsYXNzPSJiYXIiIC8+CiAgPHRleHQgeD0iMTMyIiB5PSIzNTIiIGNsYXNzPSJ2YWwtdGV4dCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+MTMxMDwvdGV4dD4KICA8dGV4dCB4PSIxMzIiIHk9IjQzMCIgY2xhc3M9InRpY2stdGV4dCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+MjwvdGV4dD4KCiAgPCEtLSAzLiBCYXIgMyAoVmFsOiAyNjUzKSAtLT4KICA8cmVjdCB4PSIxNjUiIHk9IjMwOCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjEwMiIgY2xhc3M9ImJhciIgLz4KICA8dGV4dCB4PSIxNzIiIHk9IjMwMCIgY2xhc3M9InZhbC10ZXh0IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj4yNjUzPC90ZXh0PgogIDx0ZXh0IHg9IjE3MiIgeT0iNDMwIiBjbGFzcz0idGljay10ZXh0IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj4zPC90ZXh0PgoKICA8IS0tIDQuIEJhciA0IChWYWw6IDQxNzUpIC0tPgogIDxyZWN0IHg9IjIwNSIgeT0iMjUwIiB3aWR0aD0iMTQiIGhlaWdodD0iMTYwIiBjbGFzcz0iYmFyIiAvPgogIDx0ZXh0IHg9IjIxMiIgeT0iMjQyIiBjbGFzcz0idmFsLXRleHQiIHRleHQtYW5jaG9yPSJtaWRkbGUiPjQxNzU8L3RleHQ+CiAgPHRleHQgeD0iMjEyIiB5PSI0MzAiIGNsYXNzPSJ0aWNrLXRleHQiIHRleHQtYW5jaG9yPSJtaWRkbGUiPjQ8L3RleHQ+CgogIDwhLS0gNS4gQmFyIDUgKFZhbDogOTU4MC45KSAtLT4KICA8cmVjdCB4PSIyNDUiIHk9IjQyIiB3aWR0aD0iMTQiIGhlaWdodD0iMzY4IiBjbGFzcz0iYmFyIiAvPgogIDx0ZXh0IHg9IjI1MiIgeT0iMzQiIGNsYXNzPSJ2YWwtdGV4dCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+OTU4MC45PC90ZXh0PgogIDx0ZXh0IHg9IjI1MiIgeT0iNDMwIiBjbGFzcz0idGljay10ZXh0IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj41PC90ZXh0PgoKPC9zdmc+Cg==",
+    "correctIndex": -1,
     "variants": [
-      "Which elements mark the start and end of the second transition series, and in which period is it located?",
-      "What is the period number for the second transition series?",
-      "The second transition series ends with which element? Cadmium (Cd) or Mercury (Hg)?",
-      "Which element starts the 4d transition series?"
+      "Using the provided ionization potential graph for a first series transition metal M, determine the number of completely filled energy sublevels in its stable ion, write its oxide formula, and state its importance.",
+      "A first-series transition metal M has the ionization potentials shown in the graph. How many energy sublevels are completely filled in its stable ion, and what is the formula and importance of its oxide?",
+      "For the transition metal M described by the ionization potential graph, identify the number of completely filled sublevels in its stable ion and provide the formula and use of its oxide.",
+      "From the ionization potential graph of metal M, determine the number of fully filled sublevels in its stable cation, the formula of its oxide, and its commercial application.",
+      "Analyze the ionization graph of metal M to find the number of filled sublevels in its stable ion, its oxide formula, and the industrial importance of this oxide."
     ]
   },
   {
     "id": 73,
-    "q": "Which elements mark the start and end of the third transition series, and in which period is it located?",
-    "answer": "The third transition series (5d) starts with Lanthanum (₅₇La) and ends with Mercury (₈₀Hg). It falls in the 6th period.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Scandium (Sc) to Zinc (Zn); 4th period",
-      "Yttrium (Y) to Cadmium (Cd); 5th period",
-      "Lanthanum (La) to Mercury (Hg); 6th period",
-      "Actinium (Ac) to Copernicium (Cn); 7th period"
+    "q": "The cations X³⁺ and Y²⁺ have the same electron configuration [Ar], 3d⁴ : (1) What are the two metals (X) and (Y) ? (2) Write the chemical formula of the oxidizing agent which includes : (i) Metal (X). (ii) Metal (Y).",
+    "answer": "X³⁺ = [Ar]3d⁴ -> X atom = [Ar]4s²3d⁷ (Cobalt, Co). Y²⁺ = [Ar]3d⁴ -> Y atom = [Ar]4s²3d⁶ (Iron, Fe). So X is Cobalt, Y is Iron. (i) Oxidizing agent including Co: Co³⁺ (e.g., CoCl₃). (ii) Oxidizing agent including Fe: Fe³⁺ (e.g., FeCl₃).",
+    "steps": [
+      "Determine atomic numbers from configurations.",
+      "Identify elements X and Y.",
+      "Write formulas for oxidizing agents."
     ],
-    "correctIndex": 2,
+    "stepExplanations": [
+      "X³⁺ has [Ar]3d⁴. X must have 4+3=7 electrons in 3d/4s combined, so X is Cobalt.",
+      "Y²⁺ has [Ar]3d⁴. Y must have 4+2=6 electrons, so Y is Iron.",
+      "Oxidizing agents for these metals are their +3 oxidation state compounds."
+    ],
+    "choices": [],
+    "image": null,
+    "correctIndex": -1,
     "variants": [
-      "Which elements mark the start and end of the third transition series, and in which period is it located?",
-      "What is the period number for the third transition series?",
-      "The third transition series starts with which element: Lanthanum (La) or Actinium (Ac)?",
-      "Which element ends the 5d transition series?"
+      "If cations X³⁺ and Y²⁺ share the configuration [Ar]3d⁴, what are the metals X and Y, and what are the formulas of their oxidizing agents?",
+      "Two ions, X³⁺ and Y²⁺, have the same electron configuration [Ar]3d⁴. Identify the metals X and Y and write chemical formulas for compounds containing these metals as oxidizing agents.",
+      "Given that X³⁺ and Y²⁺ are isoelectronic with [Ar]3d⁴, determine the names of X and Y, and propose a formula for an oxidizing agent containing each metal.",
+      "Cations X³⁺ and Y²⁺ have the configuration [Ar]3d⁴. What are the elements X and Y, and what are the chemical formulas of their oxidizing agents?",
+      "Identify elements X and Y if their ions X³⁺ and Y²⁺ have the electron configuration [Ar]3d⁴, and write a chemical formula for an oxidizing agent of each."
     ]
   },
   {
     "id": 74,
-    "q": "Which elements mark the start and end of the fourth transition series, and in which period is it located?",
-    "answer": "The fourth transition series (6d) starts with Actinium (₈₉Ac) and ends with Copernicium (₁₁₂Cn). It falls in the 7th period.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Scandium (Sc) to Zinc (Zn); 4th period",
-      "Yttrium (Y) to Cadmium (Cd); 5th period",
-      "Lanthanum (La) to Mercury (Hg); 6th period",
-      "Actinium (Ac) to Copernicium (Cn); 7th period"
-    ],
-    "correctIndex": 3,
-    "variants": [
-      "Which elements mark the start and end of the fourth transition series, and in which period is it located?",
-      "What is the period number for the fourth transition series?",
-      "The fourth transition series starts with which element? Actinium (Ac) or Lanthanum (La)?",
-      "Which element ends the 6d transition series?"
-    ]
-  },
-  {
-    "id": 75,
-    "q": "List the 10 elements that make up the first transition series.",
-    "answer": "The first transition series includes exactly 10 elements: Scandium (Sc), Titanium (Ti), Vanadium (V), Chromium (Cr), Manganese (Mn), Iron (Fe), Cobalt (Co), Nickel (Ni), Copper (Cu), and Zinc (Zn).",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Sc, Ti, V, Cr, Mn, Fe, Co, Ni, Cu, Zn",
-      "Sc, Ti, V, Cr, Mn, Fe, Co, Ni, Cu, Ga",
-      "Sc, Ti, V, Cr, Mn, Fe, Co, Ni, Zn, Ga",
-      "Y, Zr, Nb, Mo, Tc, Ru, Rh, Pd, Ag, Cd"
-    ],
-    "correctIndex": 0,
-    "variants": [
-      "List the 10 elements that make up the first transition series.",
-      "Which of the following elements is NOT part of the first transition series: Scandium, Titanium, Iron, or Gold?",
-      "How many elements are there in the first transition series?",
-      "Identify the element that completes the sequence: Sc, Ti, V, Cr, Mn, Fe, Co, Ni, Cu, ____."
-    ]
-  },
-  {
-    "id": 76,
-    "q": "In which section of the periodic table (d-block) are the elements Sc to Zn located?",
-    "answer": "The elements Sc to Zn are located in the d-block of the periodic table.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "s-block",
-      "p-block",
-      "d-block",
-      "f-block"
-    ],
-    "correctIndex": 2,
-    "variants": [
-      "In which section of the periodic table (d-block) are the elements Sc to Zn located?",
-      "A diagram illustrates the position of which group of elements in the d-block?",
-      "Which transition series is visually represented in the d-block of the periodic table in a diagram?"
-    ]
-  },
-  {
-    "id": 77,
-    "q": "What is the variation in the abundance of the first transition series elements in the earth's crust?",
-    "answer": "The abundance of the first transition series elements in the earth's crust varies, as shown in a table.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "It is constant for all elements.",
-      "It varies.",
-      "It is the same for all elements.",
-      "There is no data on abundance."
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "What is the variation in the abundance of the first transition series elements in the earth's crust?",
-      "Does the abundance of the first transition series elements remain constant in the earth's crust?",
-      "What does a table show about the elements of the first transition series in the earth's crust?"
-    ]
-  },
-  {
-    "id": 78,
-    "q": "What is the percentage abundance of Scandium (Sc) in the earth's crust?",
-    "answer": "The abundance of Scandium (Sc) in the earth's crust is 0.0026%.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "0.0026%",
-      "0.66%",
-      "0.02%",
-      "5.1%"
-    ],
-    "correctIndex": 0,
-    "variants": [
-      "What is the percentage abundance of Scandium (Sc) in the earth's crust?",
-      "If Scandium makes up 0.0026% of the earth's crust, what is its relative abundance compared to other transition metals?"
-    ]
-  },
-  {
-    "id": 79,
-    "q": "What is the percentage abundance of Titanium (Ti) in the earth's crust?",
-    "answer": "The abundance of Titanium (Ti) in the earth's crust is 0.66%.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "0.0026%",
-      "0.66%",
-      "0.02%",
-      "5.1%"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "What is the percentage abundance of Titanium (Ti) in the earth's crust?",
-      "Which element has an abundance of 0.66% in the earth's crust?"
-    ]
-  },
-  {
-    "id": 80,
-    "q": "What is the percentage abundance of Vanadium (V) in the earth's crust?",
-    "answer": "The abundance of Vanadium (V) in the earth's crust is 0.02%.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "0.0026%",
-      "0.66%",
-      "0.02%",
-      "5.1%"
-    ],
-    "correctIndex": 2,
-    "variants": [
-      "What is the percentage abundance of Vanadium (V) in the earth's crust?",
-      "Vanadium constitutes what percentage of the earth's crust?"
-    ]
-  },
-  {
-    "id": 81,
-    "q": "What is the percentage abundance of Chromium (Cr) in the earth's crust?",
-    "answer": "The abundance of Chromium (Cr) in the earth's crust is 0.014%.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "0.0026%",
-      "0.014%",
-      "0.02%",
-      "5.1%"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "What is the percentage abundance of Chromium (Cr) in the earth's crust?",
-      "What is the crustal abundance of Chromium expressed as a percentage?"
-    ]
-  },
-  {
-    "id": 82,
-    "q": "What is the percentage abundance of Manganese (Mn) in the earth's crust?",
-    "answer": "The abundance of Manganese (Mn) in the earth's crust is 0.11%.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "0.0026%",
-      "0.11%",
-      "0.02%",
-      "5.1%"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "What is the percentage abundance of Manganese (Mn) in the earth's crust?",
-      "How much Manganese is present in the earth's crust as a percentage?"
-    ]
-  },
-  {
-    "id": 83,
-    "q": "What is the percentage abundance of Iron (Fe) in the earth's crust?",
-    "answer": "The abundance of Iron (Fe) in the earth's crust is 5.1%.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "0.0026%",
-      "0.66%",
-      "0.02%",
-      "5.1%"
-    ],
-    "correctIndex": 3,
-    "variants": [
-      "What is the percentage abundance of Iron (Fe) in the earth's crust?",
-      "Identify the element that has an earth crust abundance of 5.1%."
-    ]
-  },
-  {
-    "id": 84,
-    "q": "What is the percentage abundance of Cobalt (Co) in the earth's crust?",
-    "answer": "The abundance of Cobalt (Co) in the earth's crust is 0.003%.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "0.0026%",
-      "0.003%",
-      "0.02%",
-      "0.0089%"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "What is the percentage abundance of Cobalt (Co) in the earth's crust?",
-      "What is the percentage of Cobalt found in the earth's crust?"
-    ]
-  },
-  {
-    "id": 85,
-    "q": "What is the percentage abundance of Nickel (Ni) in the earth's crust?",
-    "answer": "The abundance of Nickel (Ni) in the earth's crust is 0.0089%.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "0.0026%",
-      "0.003%",
-      "0.0089%",
-      "5.1%"
-    ],
-    "correctIndex": 2,
-    "variants": [
-      "What is the percentage abundance of Nickel (Ni) in the earth's crust?",
-      "What is the abundance of Nickel in the earth's crust?"
-    ]
-  },
-  {
-    "id": 86,
-    "q": "What is the percentage abundance of Copper (Cu) in the earth's crust?",
-    "answer": "The abundance of Copper (Cu) in the earth's crust is 0.0068%.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "0.0026%",
-      "0.0068%",
-      "0.0089%",
-      "0.0078%"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "What is the percentage abundance of Copper (Cu) in the earth's crust?",
-      "What percentage of the earth's crust is made up of Copper?"
-    ]
-  },
-  {
-    "id": 87,
-    "q": "What is the percentage abundance of Zinc (Zn) in the earth's crust?",
-    "answer": "The abundance of Zinc (Zn) in the earth's crust is 0.0078%.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "0.0026%",
-      "0.0068%",
-      "0.0078%",
-      "0.0089%"
-    ],
-    "correctIndex": 2,
-    "variants": [
-      "What is the percentage abundance of Zinc (Zn) in the earth's crust?",
-      "What is the percentage of Zinc found in the earth's crust?"
-    ]
-  },
-  {
-    "id": 88,
-    "q": "What percentage of the earth's crust is formed by the first transition series elements collectively?",
-    "answer": "The first transition series elements collectively form about 7% of the earth's crust.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "About 5%",
-      "About 7%",
-      "About 10%",
-      "About 15%"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "What percentage of the earth's crust is formed by the first transition series elements collectively?",
-      "Despite their relatively low abundance (about 7%), what is the economic status of the first transition series elements?",
-      "Do the first transition series elements have high economic importance even though they form only about 7% of the earth's crust?"
-    ]
-  },
-  {
-    "id": 89,
-    "q": "What is the origin of the economic importance of the first transition series elements?",
-    "answer": "The economic importance stems from their manufacturing and uses.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Their high abundance in the earth's crust",
-      "Their low cost",
-      "Their manufacturing and uses",
-      "Their rarity"
-    ],
-    "correctIndex": 2,
-    "variants": [
-      "What is the origin of the economic importance of the first transition series elements?",
-      "Are the first transition series elements economically important because of their abundance or their manufacturing and uses?"
-    ]
-  },
-  {
-    "id": 90,
-    "q": "Name two examples of elements from the first transition series.",
-    "answer": "Scandium and Titanium are examples of the first transition series elements.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Scandium and Titanium",
-      "Scandium and Gallium",
-      "Titanium and Germanium",
-      "Vanadium and Chromium"
-    ],
-    "correctIndex": 0,
-    "variants": [
-      "Name two examples of elements from the first transition series.",
-      "Are Scandium and Titanium considered to be part of the first transition series?",
-      "Identify two elements that belong to the first transition series."
-    ]
-  },
-  {
-    "id": 91,
-    "q": "How is Scandium (Sc) distributed in the earth's crust?",
-    "answer": "Scandium (Sc) is found in very small quantities distributed in the earth's crust.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "In large, concentrated deposits",
-      "In very small quantities distributed throughout",
-      "Only in specific regions",
-      "As a pure metal"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "How is Scandium (Sc) distributed in the earth's crust?",
-      "Describe the abundance and distribution of Scandium in the earth's crust."
-    ]
-  },
-  {
-    "id": 92,
-    "q": "To what type of lamp is Scandium commonly added?",
-    "answer": "Scandium is added to mercury vapor lamps.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Fluorescent lamps",
-      "Mercury vapor lamps",
-      "LED lamps",
-      "Neon lamps"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "To what type of lamp is Scandium commonly added?",
-      "What element is added to mercury vapor lamps to alter their properties?"
-    ]
-  },
-  {
-    "id": 93,
-    "q": "What is a specific use of Scandium in the field of photography and television?",
-    "answer": "Scandium is used in the manufacture of flashlight lamps used in color photography and television, as it emits a light similar to sunlight.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "It is used to produce color film.",
-      "It is used in the manufacture of flashlight lamps for color photography and television.",
-      "It is used to make television screens.",
-      "It is used as a photographic developer."
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "What is a specific use of Scandium in the field of photography and television?",
-      "Why is Scandium used in color photography and television flashlight lamps?",
-      "What type of light does a Scandium-containing lamp emit?"
-    ]
-  },
-  {
-    "id": 94,
-    "q": "What effect does adding Scandium to aluminum have on the alloy's properties?",
-    "answer": "Adding Scandium to aluminum increases the strength of aluminum and produces alloys characterized by high toughness and corrosion resistance.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "It decreases the strength of aluminum.",
-      "It increases strength, toughness, and corrosion resistance.",
-      "It makes the alloy brittle.",
-      "It has no effect on aluminum's properties."
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "What effect does adding Scandium to aluminum have on the alloy's properties?",
-      "Why is Scandium used in the manufacture of aluminum alloys?",
-      "What alloy is manufactured using Scandium, and what are its key characteristics?"
-    ]
-  },
-  {
-    "id": 95,
-    "q": "How does the strength and density of Titanium compare to steel?",
-    "answer": "Titanium (Ti) is strong as steel but has lower density.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Stronger than steel but higher density",
-      "Strong as steel but lower density",
-      "Weaker than steel but lower density",
-      "Stronger than steel and higher density"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "How does the strength and density of Titanium compare to steel?",
-      "What is a key physical property of Titanium that makes it comparable to steel, yet lighter?",
-      "Is Titanium stronger or weaker than steel, and is its density higher or lower?"
-    ]
-  },
-  {
-    "id": 96,
-    "q": "What happens to Titanium's strength at high temperatures?",
-    "answer": "Titanium maintains its strength at high temperatures.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Its strength decreases at high temperatures.",
-      "Its strength increases at high temperatures.",
-      "It maintains its strength at high temperatures.",
-      "It loses all strength at high temperatures."
-    ],
-    "correctIndex": 2,
-    "variants": [
-      "What happens to Titanium's strength at high temperatures?",
-      "Is Titanium's strength affected by high temperatures?",
-      "Explain the property of Titanium regarding its strength at elevated temperatures."
-    ]
-  },
-  {
-    "id": 97,
-    "q": "Why is Titanium used in bone and joint implants?",
-    "answer": "Titanium is used in bone and joint implants because it is strong, lightweight, and the body does not reject it.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "It is inexpensive.",
-      "It is strong, lightweight, and biocompatible.",
-      "It is magnetic.",
-      "It conducts electricity well."
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "Why is Titanium used in bone and joint implants?",
-      "What properties make Titanium suitable for surgical implants?",
-      "In what medical applications is Titanium commonly used due to its biocompatibility and strength?"
-    ]
-  },
-  {
-    "id": 98,
-    "q": "In which industry is Titanium alloyed with aluminum and why?",
-    "answer": "Titanium is used in alloys with aluminum in aerospace applications and spacecraft.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Automotive industry, for making car bodies.",
-      "Aerospace industry, for spacecraft and aircraft.",
-      "Construction industry, for building frameworks.",
-      "Marine industry, for ship hulls."
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "In which industry is Titanium alloyed with aluminum and why?",
-      "What is a common application of Titanium-Aluminum alloys?",
-      "Where are Titanium alloys frequently utilized in engineering?"
-    ]
-  },
-  {
-    "id": 99,
-    "q": "What is the most important compound of Titanium?",
-    "answer": "The most important compound of titanium is titanium dioxide (TiO₂).",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "TiCl₄",
-      "TiO₂",
-      "Ti₂O₃",
-      "TiO"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "What is the most important compound of Titanium?",
-      "Which compound is considered the most significant for Titanium? TiO₂ or V₂O₅?",
-      "Write the formula for the most important compound of Titanium."
-    ]
-  },
-  {
-    "id": 100,
-    "q": "What is Titanium dioxide (TiO₂) used to manufacture?",
-    "answer": "Titanium dioxide (TiO₂) is used in manufacturing sunscreens.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Paints",
-      "Sunscreens",
-      "Fertilizers",
-      "Batteries"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "What is Titanium dioxide (TiO₂) used to manufacture?",
-      "Which compound is used in the manufacturing of sunscreens: TiO₂ or MnO₂?",
-      "Give a common use for Titanium dioxide (TiO₂)."
-    ]
-  },
-  {
-    "id": 101,
-    "q": "From what harmful effect does Titanium dioxide protect the skin?",
-    "answer": "Titanium dioxide protects the skin from the harmful effects of ultraviolet (UV) rays.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Infrared rays",
-      "Ultraviolet (UV) rays",
-      "X-rays",
-      "Gamma rays"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "From what harmful effect does Titanium dioxide protect the skin?",
-      "Why is Titanium dioxide an effective ingredient in sunscreen?",
-      "What type of radiation does Titanium dioxide block or protect against?"
-    ]
-  },
-  {
-    "id": 102,
-    "q": "What applications of Titanium are shown in the provided images?",
-    "answer": "The images show titanium being used for knee joint implants, and in a tube of sunscreen.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Aerospace and automotive parts",
-      "Knee joint implants and sunscreen",
-      "Paints and cosmetics",
-      "Surgical instruments and wires"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "What applications of Titanium are shown in the provided images?",
-      "What is the common use of Titanium depicted in a picture featuring a knee joint?",
-      "In which product (shown in an image) is Titanium dioxide commonly found?"
-    ]
-  },
-  {
-    "id": 103,
-    "q": "In what industry is Vanadium used for manufacturing parts?",
-    "answer": "Vanadium is used in the manufacture of automobile parts.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Aerospace",
-      "Automobile",
-      "Construction",
-      "Electronics"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "In what industry is Vanadium used for manufacturing parts?",
-      "What is one of the uses of Vanadium in industrial manufacturing?",
-      "Is Vanadium used in the production of automobiles? If so, for what?"
-    ]
-  },
-  {
-    "id": 104,
-    "q": "What happens to steel when a small percentage of vanadium is added to it?",
-    "answer": "When a small percentage of vanadium is added to steel, a strong alloy is formed.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "It becomes weaker.",
-      "It becomes a strong alloy.",
-      "It becomes brittle.",
-      "It becomes magnetic."
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "What happens to steel when a small percentage of vanadium is added to it?",
-      "Vanadium is added to steel to produce what type of product?",
-      "What effect does adding vanadium have on steel's properties?"
-    ]
-  },
-  {
-    "id": 105,
-    "q": "What are the characteristic properties of Vanadium alloys?",
-    "answer": "Vanadium alloys are characterized by high toughness and high resistance to corrosion.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "High toughness and high corrosion resistance",
-      "High brittleness and low corrosion resistance",
-      "High strength and low density",
-      "High conductivity and low reactivity"
-    ],
-    "correctIndex": 0,
-    "variants": [
-      "What are the characteristic properties of Vanadium alloys?",
-      "Why are vanadium alloys valuable in industrial applications?",
-      "Describe the physical properties of alloys made with vanadium."
-    ]
-  },
-  {
-    "id": 106,
-    "q": "What is the most important compound of Vanadium?",
-    "answer": "The most important compound of vanadium is vanadium pentoxide (V₂O₅).",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "VO₂",
-      "V₂O₅",
-      "V₂O₃",
-      "VCl₄"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "What is the most important compound of Vanadium?",
-      "Which compound is considered the most important for Vanadium?",
-      "What is the chemical formula of vanadium pentoxide?"
-    ]
-  },
-  {
-    "id": 107,
-    "q": "In which industrial process is vanadium pentoxide (V₂O₅) used as a catalyst?",
-    "answer": "Vanadium pentoxide (V₂O₅) is used as a catalyst in the Contact process (manufacture of sulfuric acid).",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Haber process",
-      "Contact process",
-      "Bergius process",
-      "Ostwald process"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "In which industrial process is vanadium pentoxide (V₂O₅) used as a catalyst?",
-      "What is the role of V₂O₅ in the Contact process?",
-      "Which compound acts as a catalyst in the manufacture of sulfuric acid?"
-    ]
-  },
-  {
-    "id": 108,
-    "q": "What is one of the uses of vanadium pentoxide (V₂O₅) in material science?",
-    "answer": "Vanadium pentoxide (V₂O₅) is used in the manufacture of ferromagnetic materials.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Production of semiconductors",
-      "Production of ferromagnetic materials",
-      "Production of superconductors",
-      "Production of insulators"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "What is one of the uses of vanadium pentoxide (V₂O₅) in material science?",
-      "Vanadium pentoxide is involved in the production of which type of materials?"
-    ]
-  },
-  {
-    "id": 109,
-    "q": "In which synthesis process is V₂O₅ used as a catalyst?",
-    "answer": "Vanadium pentoxide (V₂O₅) is used as a catalyst in the synthesis of ammonia.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Synthesis of ammonia",
-      "Synthesis of nitric acid",
-      "Synthesis of sulfuric acid",
-      "Synthesis of benzene"
-    ],
-    "correctIndex": 0,
-    "variants": [
-      "In which synthesis process is V₂O₅ used as a catalyst?",
-      "Vanadium pentoxide acts as a catalyst in the synthesis of what compound?"
-    ]
-  },
-  {
-    "id": 110,
-    "q": "What is the role of V₂O₅ in the production of benzene?",
-    "answer": "Vanadium pentoxide (V₂O₅) is used as a catalyst in the synthesis of benzene.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "It is a reactant.",
-      "It is a catalyst.",
-      "It is a product.",
-      "It is an inhibitor."
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "What is the role of V₂O₅ in the production of benzene?",
-      "Vanadium pentoxide is used as a catalyst in the synthesis of what organic compound?"
-    ]
-  },
-  {
-    "id": 111,
-    "q": "What is a characteristic property of Chromium regarding corrosion?",
-    "answer": "Chromium acts as a corrosion-resistant metal (oxidizing agents).",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Highly susceptible to corrosion",
-      "Corrosion-resistant",
-      "Corrodes only in acidic conditions",
-      "Corrodes only in basic conditions"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "What is a characteristic property of Chromium regarding corrosion?",
-      "Is Chromium considered a corrosion-resistant metal?",
-      "What property makes Chromium useful for plating?"
-    ]
-  },
-  {
-    "id": 112,
-    "q": "What protective feature forms on the surface of chromium despite its reactivity?",
-    "answer": "Despite being a reactive metal, chromium forms a thin layer of oxide on its surface.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "A layer of chloride",
-      "A layer of sulfide",
-      "A thin layer of oxide",
-      "A layer of carbon"
-    ],
-    "correctIndex": 2,
-    "variants": [
-      "What protective feature forms on the surface of chromium despite its reactivity?",
-      "What is the role of the thin oxide layer on the surface of chromium?",
-      "Why does chromium not immediately corrode despite being a reactive metal?"
-    ]
-  },
-  {
-    "id": 113,
-    "q": "What is the function of the oxide layer on chromium?",
-    "answer": "The oxide layer prevents further reaction with atmospheric oxygen, which increases its durability.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "It makes the metal shiny.",
-      "It prevents further reaction with oxygen, increasing durability.",
-      "It makes the metal conductive.",
-      "It increases the metal's reactivity."
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "What is the function of the oxide layer on chromium?",
-      "How does the oxide layer increase the durability of chromium?",
-      "What prevents atmospheric oxygen from reacting with the underlying chromium metal?"
-    ]
-  },
-  {
-    "id": 114,
-    "q": "How does the volume of the oxide layer on chromium compare to the volume of the chromium atom itself?",
-    "answer": "The volume of the oxide is larger than the volume of the chromium atom itself.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "The volume of the oxide is smaller.",
-      "The volume of the oxide is larger.",
-      "The volumes are equal.",
-      "The volume varies depending on the conditions."
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "How does the volume of the oxide layer on chromium compare to the volume of the chromium atom itself?",
-      "What physical property is characteristic of the oxide formed on the surface of chromium?"
-    ]
-  },
-  {
-    "id": 115,
-    "q": "What is a common use of Chromium in metalworking?",
-    "answer": "Chromium is used in plating metals and utensils.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "To make wires",
-      "To plate metals and utensils",
-      "To make magnets",
-      "To make batteries"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "What is a common use of Chromium in metalworking?",
-      "Why is Chromium often used to plate other metals?",
-      "In what application is Chromium used to coat household objects?"
-    ]
-  },
-  {
-    "id": 116,
-    "q": "What is a use of Chromium (III) oxide (Cr₂O₃) in industry?",
-    "answer": "Chromium (III) oxide (Cr₂O₃) is used in the paint industry.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "As a catalyst",
-      "In the paint industry",
-      "In the manufacture of magnets",
-      "In the production of fertilizers"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "What is a use of Chromium (III) oxide (Cr₂O₃) in industry?",
-      "Which chromium compound is used in the paint industry?",
-      "What is the chemical formula of chromium (III) oxide?"
-    ]
-  },
-  {
-    "id": 117,
-    "q": "What is the role of potassium dichromate (K₂Cr₂O₇) in chemical reactions?",
-    "answer": "Potassium dichromate (K₂Cr₂O₇) is used as an oxidizing agent.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "As a reducing agent",
-      "As an oxidizing agent",
-      "As a catalyst",
-      "As a desiccant"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "What is the role of potassium dichromate (K₂Cr₂O₇) in chemical reactions?",
-      "What is potassium dichromate commonly used as in the laboratory?",
-      "Write the chemical formula for potassium dichromate."
-    ]
-  },
-  {
-    "id": 118,
-    "q": "A reaction involving a chromium compound changes color from green to orange. What does this demonstrate?",
-    "answer": "A reaction changing from green to orange illustrates the conversion between chromium compounds.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "It demonstrates a physical change.",
-      "It illustrates the conversion between chromium compounds.",
-      "It shows the formation of a precipitate.",
-      "It indicates a change in temperature."
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "A reaction involving a chromium compound changes color from green to orange. What does this demonstrate?",
-      "What color changes are shown in the image illustrating chromium compound conversion?",
-      "What indicates the conversion of chromium ions in an image of a chemical reaction?"
-    ]
-  },
-  {
-    "id": 119,
-    "q": "What are the physical characteristics of Manganese metal?",
-    "answer": "Manganese is a hard, brittle metal.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Soft and malleable",
-      "Hard and brittle",
-      "Ductile and shiny",
-      "Soft and ductile"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "What are the physical characteristics of Manganese metal?",
-      "In what forms is Manganese naturally found?",
-      "Is Manganese typically found in its pure metallic form in nature?"
-    ]
-  },
-  {
-    "id": 120,
-    "q": "What is the use of manganese alloys with iron, and why?",
-    "answer": "Manganese alloys with iron are used in the manufacture of railway tracks because they are hard and wear-resistant.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "To make coins; because they are cheap.",
-      "In railway tracks; because they are hard and wear-resistant.",
-      "In electrical wiring; because they are conductive.",
-      "In kitchen utensils; because they are non-reactive."
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "What is the use of manganese alloys with iron, and why?",
-      "Why are Manganese-iron alloys used for railway tracks?",
-      "What properties make manganese alloys suitable for railway infrastructure?"
-    ]
-  },
-  {
-    "id": 121,
-    "q": "What is the use of manganese alloys with aluminum, and why?",
-    "answer": "Manganese alloys with aluminum are used in the manufacture of soft drink cans because they resist corrosion.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "In aircraft construction; because they are light.",
-      "In soft drink cans; because they resist corrosion.",
-      "In surgical instruments; because they are strong.",
-      "In electrical wires; because they are conductive."
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "What is the use of manganese alloys with aluminum, and why?",
-      "Why are manganese-aluminum alloys used for soft drink cans?",
-      "What property makes manganese-aluminum alloys ideal for making beverage cans?"
-    ]
-  },
-  {
-    "id": 122,
-    "q": "What is the role of manganese dioxide (MnO₂) in the manufacture of dry cells?",
-    "answer": "Manganese dioxide (MnO₂) is used as an oxidizing agent in the manufacture of dry cells (batteries).",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "As a reducing agent",
-      "As an oxidizing agent",
-      "As a catalyst",
-      "As an electrolyte"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "What is the role of manganese dioxide (MnO₂) in the manufacture of dry cells?",
-      "In what type of battery is manganese dioxide used as an oxidizing agent?",
-      "What compound is used as an oxidizing agent in the manufacture of dry cells?"
-    ]
-  },
-  {
-    "id": 123,
-    "q": "What is the role of manganese dioxide (MnO₂) in the decomposition of hydrogen peroxide?",
-    "answer": "Manganese dioxide (MnO₂) is used as a catalyst in the decomposition of hydrogen peroxide (H₂O₂).",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "As a reactant",
-      "As a catalyst",
-      "As a product",
-      "As an inhibitor"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "What is the role of manganese dioxide (MnO₂) in the decomposition of hydrogen peroxide?",
-      "Which compound acts as a catalyst in the decomposition of H₂O₂?",
-      "What role does MnO₂ play in reactions involving hydrogen peroxide?"
-    ]
-  },
-  {
-    "id": 124,
-    "q": "What are two chemical applications of manganese dioxide (MnO₂)?",
-    "answer": "Manganese dioxide (MnO₂) is used as an oxidizing and bleaching agent.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Oxidizing agent and catalyst",
-      "Oxidizing agent and bleaching agent",
-      "Reducing agent and catalyst",
-      "Bleaching agent and reducing agent"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "What are two chemical applications of manganese dioxide (MnO₂)?",
-      "Is manganese dioxide used as an oxidizing agent, a bleaching agent, or both?",
-      "Name a compound that acts as both an oxidizing agent and a bleaching agent."
-    ]
-  },
-  {
-    "id": 125,
-    "q": "What is the primary chemical use of potassium permanganate (KMnO₄)?",
-    "answer": "Potassium permanganate (KMnO₄) is used as an oxidizing agent.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "As a reducing agent",
-      "As an oxidizing agent",
-      "As a catalyst",
-      "As a drying agent"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "What is the primary chemical use of potassium permanganate (KMnO₄)?",
-      "What is KMnO₄ commonly used as in chemical reactions?",
-      "Write the chemical formula for potassium permanganate."
-    ]
-  },
-  {
-    "id": 126,
-    "q": "What is the use of Manganese (II) sulfate (MnSO₄) in agriculture?",
-    "answer": "Manganese (II) sulfate (MnSO₄) is used as a fertilizer.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "As a pesticide",
-      "As a fertilizer",
-      "As a herbicide",
-      "As a fungicide"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "What is the use of Manganese (II) sulfate (MnSO₄) in agriculture?",
-      "How is MnSO₄ used in the agricultural industry?",
-      "Which manganese compound is utilized as a fertilizer?"
-    ]
-  },
-  {
-    "id": 127,
-    "q": "What does the purple solution in the image represent, and what is its common use?",
-    "answer": "The purple solution represents potassium permanganate, which is commonly used as an oxidizing agent.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Potassium dichromate; used as an oxidizing agent",
-      "Potassium permanganate; used as an oxidizing agent",
-      "Copper sulfate; used as a fungicide",
-      "Manganese dioxide; used as a catalyst"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "What does the purple solution in the image represent, and what is its common use?",
-      "What application of manganese steel is depicted in the images?",
-      "What visual clue indicates the presence of potassium permanganate in an image?"
-    ]
-  },
-  {
-    "id": 128,
-    "q": "List several uses of Iron (Fe) in industry and daily life.",
-    "answer": "Iron (Fe) is used in the manufacture of electrical towers, railway cars, surgical instruments, wires, nails, cutlery, and magnets.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Electrical towers, railway cars, surgical instruments, wires, nails, cutlery, and magnets",
-      "Only for making magnets",
-      "Only for making cutlery",
-      "Only for making surgical instruments"
-    ],
-    "correctIndex": 0,
-    "variants": [
-      "List several uses of Iron (Fe) in industry and daily life.",
-      "Which metal is used to make electrical towers, railway cars, and surgical instruments?",
-      "What are some applications of Iron in manufacturing?"
-    ]
-  },
-  {
-    "id": 129,
-    "q": "What is the role of Iron in the Haber process?",
-    "answer": "Iron is used as a catalyst in the Haber process (ammonia manufacturing).",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "As a reactant",
-      "As a catalyst",
-      "As a product",
-      "As an inhibitor"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "What is the role of Iron in the Haber process?",
-      "In which manufacturing process is Iron used as a catalyst?",
-      "What element acts as a catalyst in the production of ammonia through the Haber process?"
-    ]
-  },
-  {
-    "id": 130,
-    "q": "What is the role of Iron in the Bergius process?",
-    "answer": "Iron is used in the Bergius process to convert coal into liquid fuel.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "As a catalyst",
-      "As a reactant",
-      "As a product",
-      "As a heat source"
-    ],
-    "correctIndex": 0,
-    "variants": [
-      "What is the role of Iron in the Bergius process?",
-      "In which industrial process is Iron used to convert coal into liquid fuel?",
-      "What metal is used as a catalyst in the conversion of coal to liquid fuel?"
-    ]
-  },
-  {
-    "id": 131,
-    "q": "What device is used to extract iron from its ores, and what is used as a reducing agent?",
-    "answer": "The blast furnace is used to extract iron from its ores, using coke as a reducing agent.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Open-hearth furnace; carbon monoxide",
-      "Blast furnace; coke",
-      "Electric arc furnace; oxygen",
-      "Basic oxygen furnace; hydrogen"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "What device is used to extract iron from its ores, and what is used as a reducing agent?",
-      "What is the role of coke in the extraction of iron in a blast furnace?",
-      "In the extraction of iron, what acts as the reducing agent inside the blast furnace?"
-    ]
-  },
-  {
-    "id": 132,
-    "q": "Which element is similar to iron in terms of magnetic properties?",
-    "answer": "Cobalt (Co) is similar to iron in its magnetic properties, as both are magnetic.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Nickel",
-      "Cobalt",
-      "Manganese",
-      "Chromium"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "Which element is similar to iron in terms of magnetic properties?",
-      "Is Cobalt considered a magnetic material, like Iron?"
-    ]
-  },
-  {
-    "id": 133,
-    "q": "What is one of the manufacturing uses of Cobalt?",
-    "answer": "Cobalt is used in the manufacture of magnets.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "In the manufacture of batteries",
-      "In the manufacture of magnets",
-      "In the manufacture of paints",
-      "In the manufacture of plastics"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "What is one of the manufacturing uses of Cobalt?",
-      "Why is Cobalt used in the production of magnets?"
-    ]
-  },
-  {
-    "id": 134,
-    "q": "What is a common use of Cobalt in the automotive industry?",
-    "answer": "Cobalt is used in the manufacture of dry batteries in cars.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "In car engines",
-      "In car batteries",
-      "In car tires",
-      "In car bodywork"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "What is a common use of Cobalt in the automotive industry?",
-      "Cobalt is used in the manufacture of what automotive component?"
-    ]
-  },
-  {
-    "id": 135,
-    "q": "How many isotopes does Cobalt possess?",
-    "answer": "Cobalt has 12 isotopes.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "10",
-      "11",
-      "12",
-      "13"
-    ],
-    "correctIndex": 2,
-    "variants": [
-      "How many isotopes does Cobalt possess?",
-      "Which isotope of Cobalt is considered the most important?",
-      "What is the symbol for the most important isotope of Cobalt?"
-    ]
-  },
-  {
-    "id": 136,
-    "q": "What is the medical application of the Cobalt-60 (60Co) isotope?",
-    "answer": "Cobalt-60 (60Co) is a radioactive isotope used to emit high-energy gamma rays that are used in the treatment of cancer.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "It is used as a tracer in diagnostics.",
-      "It is used to treat cancer with gamma rays.",
-      "It is used in sterilization.",
-      "It is used in nuclear reactors."
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "What is the medical application of the Cobalt-60 (60Co) isotope?",
-      "What type of radiation does Cobalt-60 emit, and how is it used?",
-      "How is Cobalt-60 utilized in cancer treatment?"
-    ]
-  },
-  {
-    "id": 137,
-    "q": "What is a visual characteristic of Nickel?",
-    "answer": "Nickel (Ni) has a shiny appearance.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "It is dull.",
-      "It is shiny.",
-      "It is colored.",
-      "It is transparent."
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "What is a visual characteristic of Nickel?",
-      "How would you describe the appearance of Nickel metal?"
-    ]
-  },
-  {
-    "id": 138,
-    "q": "What are the characteristics of Nickel-steel alloys?",
-    "answer": "Nickel alloys with steel are characterized by hardness and resistance to rust and acids.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Softness and resistance to rust",
-      "Hardness and resistance to rust and acids",
-      "Brittleness and resistance to alkalis",
-      "Ductility and resistance to bases"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "What are the characteristics of Nickel-steel alloys?",
-      "What properties does Nickel impart to steel when alloyed?"
-    ]
-  },
-  {
-    "id": 139,
-    "q": "What is a common use of Nickel in battery technology?",
-    "answer": "Nickel is used in the manufacture of nickel-cadmium (Ni-Cd) rechargeable batteries.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Lithium-ion batteries",
-      "Nickel-cadmium (Ni-Cd) rechargeable batteries",
-      "Lead-acid batteries",
-      "Alkaline batteries"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "What is a common use of Nickel in battery technology?",
-      "Which type of rechargeable battery is manufactured using Nickel?",
-      "What are Ni-Cd batteries?"
-    ]
-  },
-  {
-    "id": 140,
-    "q": "Why is Nickel used in metal plating?",
-    "answer": "Nickel is used in the plating of metals to protect them from oxidation and to give them a better appearance.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "To increase their strength",
-      "To protect them from oxidation and improve appearance",
-      "To make them conductive",
-      "To make them magnetic"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "Why is Nickel used in metal plating?",
-      "What are the benefits of plating metals with Nickel?",
-      "What metal is commonly used to plate other metals to prevent oxidation?"
-    ]
-  },
-  {
-    "id": 141,
-    "q": "What is the role of Nickel in the food processing industry?",
-    "answer": "Nickel is used as a catalyst in the hydrogenation of oils (vegetable oil hardening).",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "As a preservative",
-      "As a catalyst in hydrogenation",
-      "As a flavor enhancer",
-      "As a coloring agent"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "What is the role of Nickel in the food processing industry?",
-      "Which metal acts as a catalyst in the hydrogenation of oils?",
-      "Why is Nickel used in the hardening of vegetable oils?"
-    ]
-  },
-  {
-    "id": 142,
-    "q": "What is a use of Nickel-chromium alloys, and what property makes them suitable?",
-    "answer": "Nickel-chromium alloys are used in the manufacture of heating elements and electrical furnaces, as they resist heat up to a red-hot temperature.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "They are used in jewelry making due to their appearance.",
-      "They are used in heating elements and electrical furnaces due to their heat resistance.",
-      "They are used in aerospace due to their light weight.",
-      "They are used in batteries due to their conductivity."
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "What is a use of Nickel-chromium alloys, and what property makes them suitable?",
-      "What are Nickel-chromium alloys used to manufacture?",
-      "Why are Nickel-chromium alloys used in heating elements and furnaces?"
-    ]
-  },
-  {
-    "id": 143,
-    "q": "What application of Nickel-chromium alloys is shown in an image involving cooking pans?",
-    "answer": "The image shows cooking pans being heated on an electric stove, made from such alloys.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Cooking pans being heated on an electric stove",
-      "Aerospace components",
-      "Battery manufacturing",
-      "Jewelry making"
-    ],
-    "correctIndex": 0,
-    "variants": [
-      "What application of Nickel-chromium alloys is shown in an image involving cooking pans?",
-      "What type of alloys are typically used in the manufacture of heating elements for electric stoves?"
-    ]
-  },
-  {
-    "id": 144,
-    "q": "Which metal is historically known to be the first discovered and used by humans?",
-    "answer": "Copper (Cu) was historically the first metal known to humans.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Iron",
-      "Gold",
-      "Copper",
-      "Silver"
-    ],
-    "correctIndex": 2,
-    "variants": [
-      "Which metal is historically known to be the first discovered and used by humans?",
-      "Was Copper the first metal known to humans?"
-    ]
-  },
-  {
-    "id": 145,
-    "q": "What is the alloy formed when Copper is mixed with Tin called?",
-    "answer": "Copper alloys with tin are known as bronze.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Brass",
-      "Bronze",
-      "Steel",
-      "Pewter"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "What is the alloy formed when Copper is mixed with Tin called?",
-      "What are the components of the alloy known as bronze?",
-      "Which two metals are alloyed to create bronze?"
-    ]
-  },
-  {
-    "id": 146,
-    "q": "Why is Copper used in the manufacture of electrical cables?",
-    "answer": "Copper is used in the manufacture of electrical cables because it is an excellent conductor of electricity.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "It is cheap.",
-      "It is an excellent conductor of electricity.",
-      "It is a good insulator.",
-      "It is easy to bend."
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "Why is Copper used in the manufacture of electrical cables?",
-      "What property makes Copper suitable for use in electrical wiring?",
-      "Which metal is widely used in electrical cables due to its excellent conductivity?"
-    ]
-  },
-  {
-    "id": 147,
-    "q": "What is a non-electrical use of Copper in manufacturing?",
-    "answer": "Copper is used in the manufacture of coins.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "In the manufacture of coins",
-      "In the manufacture of jewelry",
-      "In the manufacture of cookware",
-      "In the manufacture of weapons"
-    ],
-    "correctIndex": 0,
-    "variants": [
-      "What is a non-electrical use of Copper in manufacturing?",
-      "Why is Copper used in making coins?",
-      "Name a common application of Copper in currency."
-    ]
-  },
-  {
-    "id": 148,
-    "q": "What is the use of Copper (II) sulfate (CuSO₄) in agriculture?",
-    "answer": "Copper (II) sulfate (CuSO₄) is used as a fungicide.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "As a fertilizer",
-      "As a fungicide",
-      "As a pesticide",
-      "As a herbicide"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "What is the use of Copper (II) sulfate (CuSO₄) in agriculture?",
-      "Which compound is used as a fungicide: CuSO₄ or MnSO₄?",
-      "What is the chemical formula for copper (II) sulfate?"
-    ]
-  },
-  {
-    "id": 149,
-    "q": "What is a use of Copper (II) sulfate in water treatment?",
-    "answer": "Copper (II) sulfate (CuSO₄) is used in purifying water.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "To soften water",
-      "To purify water",
-      "To desalinate water",
-      "To disinfect water"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "What is a use of Copper (II) sulfate in water treatment?",
-      "How is CuSO₄ utilized in the water purification process?"
-    ]
-  },
-  {
-    "id": 150,
-    "q": "What is the medical diagnostic use of a diluted copper sulfate solution?",
-    "answer": "Diluted copper sulfate solution is used to detect glucose (sugar) in urine.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "To detect protein in urine",
-      "To detect glucose in urine",
-      "To detect blood in urine",
-      "To detect ketones in urine"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "What is the medical diagnostic use of a diluted copper sulfate solution?",
-      "How is copper sulfate solution used in clinical diagnosis?",
-      "Which chemical solution is used to test for the presence of glucose in urine?"
-    ]
-  },
-  {
-    "id": 151,
-    "q": "What does a blue precipitate in a test tube usually indicate in reactions involving copper salts?",
-    "answer": "A blue precipitate in a test tube usually indicates a reaction involving copper salts.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Formation of a copper complex",
-      "Reaction involving copper salts",
-      "Presence of iron ions",
-      "Formation of a silver precipitate"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "What does a blue precipitate in a test tube usually indicate in reactions involving copper salts?",
-      "What object is shown in an image representing a copper-tin alloy?",
-      "How is the reaction with copper sulfate typically visually identified in a test tube?"
-    ]
-  },
-  {
-    "id": 152,
-    "q": "What is the primary use of Zinc (Zn) in metallurgy?",
-    "answer": "Zinc (Zn) is used primarily in coating iron surfaces (galvanization).",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "To make brass",
-      "To coat iron surfaces (galvanization)",
-      "To make batteries",
-      "To make alloys with copper"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "What is the primary use of Zinc (Zn) in metallurgy?",
-      "What is the process of coating iron with Zinc called?",
-      "Why is Zinc used to coat iron surfaces?"
-    ]
-  },
-  {
-    "id": 153,
-    "q": "What is the benefit of coating iron with Zinc?",
-    "answer": "Zinc coating protects iron from rusting.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "It makes iron more conductive.",
-      "It protects iron from rusting.",
-      "It makes iron more magnetic.",
-      "It makes iron stronger."
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "What is the benefit of coating iron with Zinc?",
-      "How does a Zinc coating protect iron from rust?",
-      "What effect does galvanization (zinc coating) have on iron's resistance to rust?"
-    ]
-  },
-  {
-    "id": 154,
-    "q": "In which industries is Zinc oxide (ZnO) used?",
-    "answer": "Zinc oxide (ZnO) is used in the manufacture of paints and cosmetics.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Paints and cosmetics",
-      "Pharmaceuticals and plastics",
-      "Electronics and textiles",
-      "Automotive and aerospace"
-    ],
-    "correctIndex": 0,
-    "variants": [
-      "In which industries is Zinc oxide (ZnO) used?",
-      "What are two common applications of Zinc oxide?",
-      "What is the chemical formula of zinc oxide?"
-    ]
-  },
-  {
-    "id": 155,
-    "q": "What are two uses of Zinc oxide in skincare products?",
-    "answer": "Zinc oxide (ZnO) is used as a moisturizer and a sunscreen.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "As a cleanser and exfoliant",
-      "As a moisturizer and sunscreen",
-      "As an anti-aging cream and toner",
-      "As a makeup primer and foundation"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "What are two uses of Zinc oxide in skincare products?",
-      "What roles does Zinc oxide play in cosmetic and dermatological products?"
-    ]
-  },
-  {
-    "id": 156,
-    "q": "What is the use of Zinc sulfide (ZnS) in the paint industry?",
-    "answer": "Zinc sulfide (ZnS) is used in the manufacture of luminous paints.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "As a pigment",
-      "In luminous paints",
-      "As a binder",
-      "As a solvent"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "What is the use of Zinc sulfide (ZnS) in the paint industry?",
-      "Which zinc compound is used in luminous paints?"
-    ]
-  },
-  {
-    "id": 157,
-    "q": "What are the uses of Zinc sulfide (ZnS) in electronic and medical imaging devices?",
-    "answer": "Zinc sulfide (ZnS) is used in the manufacture of X-ray screens and light emitting diodes (LEDs).",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "X-ray screens and LEDs",
-      "Computer chips and solar panels",
-      "Television screens and monitors",
-      "Optical fibers and lasers"
-    ],
-    "correctIndex": 0,
-    "variants": [
-      "What are the uses of Zinc sulfide (ZnS) in electronic and medical imaging devices?",
-      "In what electronic components is ZnS used?",
-      "Which compound is used to manufacture X-ray screens and LEDs?"
-    ]
-  },
-  {
-    "id": 158,
-    "q": "What object in the image serves as an example of a galvanized product?",
-    "answer": "The image shows a galvanized watering can.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "A galvanized watering can",
-      "A galvanized bucket",
-      "A galvanized pipe",
-      "A galvanized roof"
-    ],
-    "correctIndex": 0,
-    "variants": [
-      "What object in the image serves as an example of a galvanized product?",
-      "What is shown to illustrate the application of zinc coating (galvanization)?"
-    ]
-  },
-  {
-    "id": 159,
-    "q": "In which period of the periodic table are the elements of the first transition series located?",
-    "answer": "The elements of the first transition series are located in the fourth period of the periodic table, after calcium (₂₀Ca).",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Third period",
-      "Fourth period",
-      "Fifth period",
-      "Sixth period"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "In which period of the periodic table are the elements of the first transition series located?",
-      "Which element immediately precedes the first transition series in the fourth period?",
-      "The first transition series begins after which element in the periodic table?"
-    ]
-  },
-  {
-    "id": 160,
-    "q": "What is the characterizing electronic feature of the first transition series elements?",
-    "answer": "They are characterized by the filling of the five 3d sublevel orbitals with electrons.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Filling of the 4s sublevel",
-      "Filling of the 3d sublevel",
-      "Filling of the 4p sublevel",
-      "Filling of the 5s sublevel"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "What is the characterizing electronic feature of the first transition series elements?",
-      "Which sublevel is being filled in the elements of the first transition series?",
-      "How many orbitals does the 3d sublevel have that are being filled in the first transition series?"
-    ]
-  },
-  {
-    "id": 161,
-    "q": "How do electrons begin filling the 3d orbitals in the first transition series, and until which element does this pattern continue?",
-    "answer": "The filling starts with single electrons in the 3d orbitals until reaching manganese (3d⁵).",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Electrons pair up immediately; until Scandium (3d¹)",
-      "Electrons fill singly; until Manganese (3d⁵)",
-      "Electrons fill singly; until Zinc (3d¹⁰)",
-      "Electrons pair up after Titanium (3d²)"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "How do electrons begin filling the 3d orbitals in the first transition series, and until which element does this pattern continue?",
-      "Up to which element do the 3d orbitals receive electrons singly before pairing begins?",
-      "At which element is the configuration 3d⁵ reached in the first transition series?"
-    ]
-  },
-  {
-    "id": 162,
-    "q": "What happens to the filling of the 3d orbitals after manganese, and what is the final configuration at zinc?",
-    "answer": "After manganese, the electrons pair up in each orbital following Hund's rule until reaching zinc (3d¹⁰).",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Electrons stop filling; final configuration is 3d⁵",
-      "Electrons pair up; final configuration is 3d¹⁰",
-      "Electrons are removed; final configuration is 3d⁰",
-      "Electrons fill randomly; final configuration is 3d⁹"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "What happens to the filling of the 3d orbitals after manganese, and what is the final configuration at zinc?",
-      "From which element do electrons start pairing up in the 3d sublevel?",
-      "What rule governs the pairing of electrons in the 3d orbitals after manganese?"
-    ]
-  },
-  {
-    "id": 163,
-    "q": "What is the electron configuration of Calcium (₂₀Ca)?",
-    "answer": "The electron configuration of Calcium (Ca) is: ₂₀Ca: [Ar] 4s².",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "[Ar] 4s¹",
-      "[Ar] 4s²",
-      "[Ar] 4s² 3d¹",
-      "[Ar] 4s¹ 3d⁵"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "What is the electron configuration of Calcium (₂₀Ca)?",
-      "Write the shorthand electron configuration for the element with atomic number 20.",
-      "What is the noble gas core used in the electron configuration of Calcium?"
-    ]
-  },
-  {
-    "id": 164,
-    "q": "What is the electron configuration of Scandium (₂₁Sc)?",
-    "answer": "The electron configuration of Scandium (₂₁Sc) is [Ar] 4s² 3d¹.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "[Ar] 4s² 3d¹",
-      "[Ar] 4s² 3d²",
-      "[Ar] 4s¹ 3d⁵",
-      "[Ar] 4s² 3d⁵"
-    ],
-    "correctIndex": 0,
-    "variants": [
-      "What is the electron configuration of Scandium (₂₁Sc)?",
-      "What is the electron configuration of Vanadium (₂₃V)?",
-      "What is the electron configuration of Manganese (₂₅Mn)?",
-      "What is the electron configuration of Iron (₂₆Fe)?",
-      "What is the electron configuration of Cobalt (₂₇Co)?",
-      "What is the electron configuration of Nickel (₂₈Ni)?",
-      "What is the electron configuration of Zinc (₃₀Zn)?",
-      "Which element in the first transition series has the configuration [Ar] 4s² 3d³?",
-      "Which element in the first transition series has the configuration [Ar] 4s² 3d⁶?",
-      "Which element in the first transition series has the configuration [Ar] 4s² 3d⁸?"
-    ]
-  },
-  {
-    "id": 165,
-    "q": "From which element does the pairing of electrons in the 3d sublevel start in the first transition series?",
-    "answer": "Pairing in the 3d sublevel starts from Iron (Fe).",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Scandium (Sc)",
-      "Manganese (Mn)",
-      "Iron (Fe)",
-      "Zinc (Zn)"
-    ],
-    "correctIndex": 2,
-    "variants": [
-      "From which element does the pairing of electrons in the 3d sublevel start in the first transition series?",
-      "After which element does electron pairing begin in the 3d sublevel?",
-      "What happens to the electron configuration at Iron (Fe) in the first transition series?"
-    ]
-  },
-  {
-    "id": 166,
-    "q": "Which two elements in the first transition series have exceptions to the regular electron configuration pattern?",
-    "answer": "There are two exceptions: Chromium (Cr) and Copper (Cu).",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Scandium and Titanium",
-      "Chromium and Copper",
-      "Manganese and Iron",
-      "Cobalt and Nickel"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "Which two elements in the first transition series have exceptions to the regular electron configuration pattern?",
-      "How many exceptions are there in the electron configurations of the first transition series elements?",
-      "Which elements represent the exceptions in the filling of the 3d sublevel in the first transition series?"
-    ]
-  },
-  {
-    "id": 167,
-    "q": "In what state is an atom or ion with a 3d sublevel considered more stable?",
-    "answer": "An atom or ion is more stable when the 3d sublevel is half-filled (e.g., d⁵) or completely filled (e.g., d¹⁰).",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Half-filled or completely filled",
-      "Half-filled only",
-      "Completely filled only",
-      "Empty"
-    ],
-    "correctIndex": 0,
-    "variants": [
-      "In what state is an atom or ion with a 3d sublevel considered more stable?",
-      "Why are configurations with a half-filled 3d sublevel (e.g., d⁵) considered more stable?",
-      "What type of electronic configuration in the d sublevel provides extra stability to an atom or ion?"
-    ]
-  },
-  {
-    "id": 168,
-    "q": "In what state is an atom or ion with a 3d sublevel considered more stable?",
-    "answer": "An atom or ion is more stable when the 3d sublevel is half-filled (e.g., d⁵) or completely filled (e.g., d¹⁰).",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Half-filled or completely filled",
-      "Half-filled only",
-      "Completely filled only",
-      "Empty"
-    ],
-    "correctIndex": 0,
-    "variants": [
-      "In what state is an atom or ion with a 3d sublevel considered more stable?",
-      "Why are configurations with a completely filled 3d sublevel (e.g., d¹⁰) considered more stable?",
-      "What type of electronic configuration in the d sublevel provides extra stability to an atom or ion?"
-    ]
-  },
-  {
-    "id": 169,
-    "q": "What is the electron configuration of Chromium, and why is it different from the expected configuration?",
-    "answer": "Chromium (Cr) has the configuration 3d⁵ 4s¹, which gives a half-filled 3d sublevel, making it more stable than the expected 3d⁴ 4s².",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "3d⁴ 4s²; because it is the expected configuration",
-      "3d⁵ 4s¹; because it has a half-filled 3d sublevel, making it more stable",
-      "3d⁶ 4s⁰; because it is fully filled",
-      "3d⁴ 4s¹; because it has a half-filled 4s sublevel"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "What is the electron configuration of Chromium, and why is it different from the expected configuration?",
-      "Why does Chromium have an anomalous electron configuration of 3d⁵ 4s¹ instead of 3d⁴ 4s²?",
-      "Explain the reason behind Chromium's exception in the electron configuration series."
-    ]
-  },
-  {
-    "id": 170,
-    "q": "What is the electron configuration of Copper, and why is it different from the expected configuration?",
-    "answer": "Copper (Cu) has the configuration 3d¹⁰ 4s¹, which gives a completely filled 3d sublevel, making it more stable than the expected 3d⁹ 4s².",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "3d⁹ 4s²; because it is the expected configuration",
-      "3d¹⁰ 4s¹; because it has a completely filled 3d sublevel, making it more stable",
-      "3d¹⁰ 4s²; because it is fully filled",
-      "3d⁹ 4s¹; because it has a completely filled 4s sublevel"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "What is the electron configuration of Copper, and why is it different from the expected configuration?",
-      "Why does Copper have an anomalous electron configuration of 3d¹⁰ 4s¹ instead of 3d⁹ 4s²?",
-      "Explain the reason behind Copper's exception in the electron configuration series."
-    ]
-  },
-  {
-    "id": 171,
-    "q": "From which shell are electrons removed first when forming an ion?",
-    "answer": "When forming an ion, electrons are removed from the outermost shell (highest principal quantum number) first.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Innermost shell",
-      "Outermost shell",
-      "Middle shell",
-      "Any shell randomly"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "From which shell are electrons removed first when forming an ion?",
-      "When an atom forms an ion, which electron shell is preferentially ionized first?",
-      "What is the general rule for removing electrons during ion formation?"
-    ]
-  },
-  {
-    "id": 172,
-    "q": "Which sublevel's electrons are removed first when forming an ion from a transition element?",
-    "answer": "When forming an ion from a transition element, electrons are typically removed from the 4s sublevel before the 3d sublevel.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "3d sublevel",
-      "4s sublevel",
-      "4p sublevel",
-      "5s sublevel"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "Which sublevel's electrons are removed first when forming an ion from a transition element?",
-      "In transition elements, are electrons removed from the 4s or 3d sublevel first during ionization?",
-      "What is the order of electron removal from the 4s and 3d sublevels when a transition element forms an ion?"
-    ]
-  },
-  {
-    "id": 173,
-    "q": "What is the electron configuration of the Fe²⁺ ion formed from Iron (Fe)?",
-    "answer": "The electron configuration of Fe²⁺ is [Ar] 4s⁰ 3d⁶.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "[Ar] 4s⁰ 3d⁶",
-      "[Ar] 4s⁰ 3d⁵",
-      "[Ar] 4s² 3d⁶",
-      "[Ar] 4s¹ 3d⁵"
-    ],
-    "correctIndex": 0,
-    "variants": [
-      "What is the electron configuration of the Fe²⁺ ion formed from Iron (Fe)?",
-      "What is the electron configuration of the Fe³⁺ ion formed from Iron (Fe)?",
-      "What is the electron configuration of the Mn²⁺ ion formed from Manganese (Mn)?",
-      "What is the electron configuration of the Mn³⁺ ion formed from Manganese (Mn)?",
-      "Write the process for the oxidation of Iron (Fe) to Fe²⁺.",
-      "Write the process for the oxidation of Manganese (Mn) to Mn²⁺."
-    ]
-  },
-  {
-    "id": 174,
-    "q": "Why is the Fe³⁺ ion more stable than the Fe²⁺ ion?",
-    "answer": "The Fe³⁺ ion (d⁵) is more stable than Fe²⁺ (d⁶) because it has a half-filled sublevel (d⁵), which is more stable.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Because Fe³⁺ has fewer electrons.",
-      "Because Fe³⁺ has a half-filled d sublevel (d⁵).",
-      "Because Fe²⁺ has a completely filled d sublevel.",
-      "Because Fe³⁺ has a higher charge."
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "Why is the Fe³⁺ ion more stable than the Fe²⁺ ion?",
-      "Which ion of Iron (Fe³⁺ or Fe²⁺) is more stable and why?",
-      "What is the electron configuration difference between Fe²⁺ and Fe³⁺ that contributes to the greater stability of Fe³⁺?"
-    ]
-  },
-  {
-    "id": 175,
-    "q": "Why is the Mn²⁺ ion more stable than the Mn³⁺ ion?",
-    "answer": "The Mn²⁺ ion (d⁵) is more stable than Mn³⁺ (d⁴) because it has a half-filled sublevel (d⁵), which is more stable.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Because Mn²⁺ has fewer electrons.",
-      "Because Mn²⁺ has a half-filled d sublevel (d⁵).",
-      "Because Mn³⁺ has a completely filled d sublevel.",
-      "Because Mn²⁺ has a higher charge."
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "Why is the Mn²⁺ ion more stable than the Mn³⁺ ion?",
-      "Which ion of Manganese (Mn²⁺ or Mn³⁺) is more stable and why?",
-      "What is the electron configuration difference between Mn²⁺ and Mn³⁺ that contributes to the greater stability of Mn²⁺?"
-    ]
-  },
-  {
-    "id": 176,
-    "q": "What is the general tendency regarding the formation of ions from transition elements?",
-    "answer": "The oxidation tendency is toward forming the more stable ion (one with a half-filled or completely filled d sublevel).",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Toward forming ions with a partially filled d sublevel",
-      "Toward forming the more stable ion (half-filled or completely filled d sublevel)",
-      "Toward forming ions with an empty d sublevel",
-      "Toward forming ions with a completely filled s sublevel"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "What is the general tendency regarding the formation of ions from transition elements?",
-      "Which type of ion formation is favored by oxidation in transition elements?",
-      "What determines the favored oxidation state of a transition element based on electronic configuration?"
-    ]
-  },
-  {
-    "id": 177,
-    "q": "Why is Sc³⁺ considered stable based on its electron configuration?",
-    "answer": "Sc³⁺ has an empty d sublevel, which is a stable configuration.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Because it has a completely filled d sublevel.",
-      "Because it has an empty d sublevel.",
-      "Because it has a half-filled d sublevel.",
-      "Because it has a completely filled s sublevel."
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "Why is Sc³⁺ considered stable based on its electron configuration?",
-      "Why is Fe³⁺ considered stable based on its electron configuration?",
-      "Why is Zn²⁺ considered stable based on its electron configuration?",
-      "Classify the following ions as stable based on whether their d sublevel is empty, half-filled, or completely filled: Sc³⁺, Cr³⁺, Cu⁺.",
-      "Which type of d sublevel configuration provides stability to an ion: empty, half-filled, or completely filled?"
-    ]
-  },
-  {
-    "id": 178,
-    "q": "Is the half-filled or completely filled state of the 3d sublevel the only factor that determines the electron configuration of a transition element in compounds?",
-    "answer": "No, it is not the sole factor.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Yes, it is the only factor.",
-      "No, it is not the only factor.",
-      "It depends on the element.",
-      "It depends on the temperature."
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "Is the half-filled or completely filled state of the 3d sublevel the only factor that determines the electron configuration of a transition element in compounds?",
-      "What else might influence the electron configuration of a transition element in a compound besides having a half-filled or completely filled d sublevel?"
-    ]
-  },
-  {
-    "id": 179,
-    "q": "Which ion of Copper is more common: Cu²⁺ or Cu⁺?",
-    "answer": "The Cu²⁺ ion is more common than the Cu⁺ ion.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Cu⁺",
-      "Cu²⁺",
-      "Both are equally common.",
-      "Neither is common."
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "Which ion of Copper is more common: Cu²⁺ or Cu⁺?",
-      "Why is the Cu²⁺ ion more common even though the Cu⁺ ion has a completely filled d sublevel?",
-      "Compare the abundance of the Cu²⁺ (d⁹) and Cu⁺ (d¹⁰) ions."
-    ]
-  },
-  {
-    "id": 180,
-    "q": "Why is Cu²⁺ more common than Cu⁺ despite Cu⁺ having a more stable d¹⁰ configuration?",
-    "answer": "The reason Cu²⁺ (d⁹) is more common is that it has a high hydration energy.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Because Cu⁺ has a high hydration energy.",
-      "Because Cu²⁺ has a high hydration energy.",
-      "Because Cu²⁺ is more stable in the gas phase.",
-      "Because Cu⁺ is more stable in the gas phase."
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "Why is Cu²⁺ more common than Cu⁺ despite Cu⁺ having a more stable d¹⁰ configuration?",
-      "What physical property explains the higher abundance of the Cu²⁺ ion compared to Cu⁺?",
-      "What is the reason for the prevalence of the Cu²⁺ ion?"
-    ]
-  },
-  {
-    "id": 181,
-    "q": "How does the hydration energy of Cu²⁺ overcome the stability advantage of the d¹⁰ configuration in Cu⁺?",
-    "answer": "The hydration energy of Cu²⁺ is large enough to compensate for the loss of stability of the fully filled d¹⁰ configuration.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Hydration energy is irrelevant.",
-      "The hydration energy of Cu²⁺ is large enough to compensate for the loss of stability.",
-      "Cu⁺ has a higher hydration energy.",
-      "The d¹⁰ configuration is always more stable regardless of hydration."
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "How does the hydration energy of Cu²⁺ overcome the stability advantage of the d¹⁰ configuration in Cu⁺?",
-      "Why does the high hydration energy of Cu²⁺ make it more common than Cu⁺?",
-      "What role does hydration energy play in the stability of the Cu²⁺ ion?"
-    ]
-  },
-  {
-    "id": 182,
-    "q": "An ion M³⁺ has the electron configuration [Ar] 3d³. What is the atomic number of element M?",
-    "answer": "The atomic number of element M is 23.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "22",
-      "23",
-      "24",
-      "25"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "An ion M³⁺ has the electron configuration [Ar] 3d³. What is the atomic number of element M?",
-      "What is the atomic number of an element M if its M³⁺ ion has the configuration [Ar] 3d³?",
-      "Calculate the atomic number of element M from the configuration of its M³⁺ ion, which is [Ar] 3d³."
-    ]
-  },
-  {
-    "id": 183,
-    "type": "compound",
-    "q": "The modern periodic table consists of 7 horizontal periods and 18 vertical groups. What is the total number of blocks that these periods and groups are divided into, and what are the names of these blocks?",
-    "answer": "The modern periodic table is divided into four main blocks: s-block, p-block, d-block, and f-block.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "3 blocks: s-block, p-block, and d-block",
-      "4 blocks: s-block, p-block, d-block, and f-block",
-      "5 blocks: s-block, p-block, d-block, f-block, and g-block",
-      "2 blocks: s-block and p-block"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "The modern periodic table is organized into 7 horizontal rows and 18 vertical columns. How many main blocks is this table structurally divided into, and what are they called?",
-      "A student claims the periodic table is divided into 3 blocks based on its 7 periods and 18 groups. Is this correct? If not, state the correct number of blocks and their names.",
-      "Given that the modern periodic table has 7 horizontal periods and 18 vertical groups, into how many distinct blocks are these elements classified, and what are the designations for these blocks?"
-    ]
-  },
-  {
-    "id": 184,
-    "type": "compound",
-    "q": "The s-block is located on the left side of the periodic table in groups 1A and 2A, while the p-block is on the right side in groups 3A to 0. What is the name of the block that sits between them, and what is its location?",
-    "answer": "The block that sits between the s-block and the p-block is the d-block, which is located in the middle of the periodic table.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "d-block; located in the middle of the periodic table",
-      "f-block; located at the bottom of the periodic table",
-      "p-block; located on the right side of the periodic table",
-      "s-block; located on the left side of the periodic table"
-    ],
-    "correctIndex": 0,
-    "variants": [
-      "If the s-block is on the far left of the periodic table and the p-block is on the far right, which block is positioned in the central part of the table?",
-      "Identify the block that sits between the s-block (groups 1A and 2A) and the p-block (groups 3A to 0). Where is this block physically located on the periodic table?",
-      "A student says the block between the s-block and p-block is the f-block. Is this correct? What is the correct block and its position?"
-    ]
-  },
-  {
-    "id": 185,
-    "type": "compound",
-    "q": "Elements in the periodic table are arranged according to atomic number, and each period corresponds to a main energy level. If an element is in the third period, how many main energy levels does its atom have, and how does this relate to its electron configuration?",
-    "answer": "An element in the third period has 3 main energy levels. The electron configuration of a third-period element reflects the filling of the third main energy level.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "3 main energy levels; the electron configuration reflects the filling of the third main energy level.",
-      "3 main energy levels; the electron configuration reflects the filling of the second main energy level.",
-      "2 main energy levels; the electron configuration reflects the filling of the second main energy level.",
-      "4 main energy levels; the electron configuration reflects the filling of the fourth main energy level."
-    ],
-    "correctIndex": 0,
-    "variants": [
-      "Based on the arrangement of elements by atomic number and the relationship between periods and energy levels, how many main energy levels does an atom in the 4th period have?",
-      "An element is located in the 5th period. What does this tell you about the arrangement of its electrons relative to its main energy levels?",
-      "If the atomic number determines an element's position, and the period number determines the number of main energy levels, how many energy levels does a 2nd-period element possess?"
-    ]
-  },
-  {
-    "id": 186,
-    "type": "compound",
-    "q": "The d-block consists of 10 vertical groups because it is followed by the filling of the 3d sublevel. Why does this sublevel require exactly 10 groups, and how many orbitals does it contain?",
-    "answer": "The d sublevel contains 5 orbitals, each accommodating 2 electrons, for a total of 10 electrons, which corresponds to the 10 vertical groups in the d-block.",
+    "q": "Passing sulphur dioxide gas in potassium permanganate solution removes its purple colour, this reaction is represented by the ionic equation : 5SO₂ + 2MnO₄⁻ + 2H₂O → 5SO₄²⁻ + 2Mn²⁺ + 4H⁺. From this reaction, suggest a property to show that manganese is a transition metal, with mentioning the role of MnO₄⁻ in the reaction.",
+    "answer": "Property: Manganese exhibits variable oxidation states (from +7 in MnO₄⁻ to +2 in Mn²⁺). This is a characteristic property of transition elements. Role of MnO₄⁻: It acts as an oxidizing agent (it is reduced from Mn⁷⁺ to Mn²⁺) and gets decolorized.",
     "steps": [
-      "Step 1 — Identify the number of orbitals in a d sublevel.",
-      "Step 2 — Determine the maximum electron capacity of the d sublevel.",
-      "Step 3 — Relate the electron capacity to the number of vertical groups in the d-block."
+      "Identify the change in oxidation state of Manganese.",
+      "Relate this to a property of transition metals.",
+      "Describe the role of MnO₄⁻."
     ],
     "stepExplanations": [
-      "The d sublevel has l=2, which corresponds to 5 distinct orbitals (mₗ = -2, -1, 0, +1, +2).",
-      "Each orbital can hold a maximum of 2 electrons (opposite spins), so the d sublevel accommodates 5 × 2 = 10 electrons.",
-      "The d-block elements are characterized by the progressive filling of these 5 d orbitals. The 10 vertical groups correspond to the 10 possible electron occupancy states as the d sublevel is filled from 0 to 10 electrons."
-    ],
-    "choices": [
-      "5 groups; because the d sublevel has 5 orbitals, each holding 2 electrons, giving 10 electrons, which corresponds to 5 groups.",
-      "10 groups; because the d sublevel has 5 orbitals, each holding 2 electrons, giving 10 electrons.",
-      "10 groups; because the d sublevel has 10 orbitals, each holding 1 electron.",
-      "5 groups; because the d sublevel has 5 orbitals, each holding 1 electron."
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "The d-block has 10 vertical groups because it accommodates the filling of the 3d sublevel. How many orbitals does this sublevel contain, and how is the number of groups related to the electrons in these orbitals?",
-      "If a d sublevel can hold a maximum of 10 electrons, how many orbitals does it consist of, and how does this number determine the number of vertical groups in the d-block?",
-      "A student argues that the d-block has 5 groups because it has 5 orbitals. Is this correct? Explain the relationship between the number of orbitals, electrons, and vertical groups."
-    ]
-  },
-  {
-    "id": 187,
-    "type": "compound",
-    "q": "Group VIII of the periodic table is an exception because it consists of three vertical columns (8, 9, 10) designated by letter B. Why are these three columns grouped together, and what is the scientific reason behind this exception?",
-    "answer": "Columns 8, 9, and 10 are grouped together as Group VIII because the elements in these columns have more similarities to each other than to other elements.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Because they have the same number of valence electrons.",
-      "Because elements in these columns have more similarities to each other than to other elements.",
-      "Because they have the same atomic mass.",
-      "Because they have the same electron configuration."
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "In the d-block, most groups are single columns, but Group VIII is an exception consisting of three columns. Why are columns 8, 9, and 10 grouped together under one Roman numeral?",
-      "Group VIII in the periodic table contains columns 8, 9, and 10. What is the scientific justification for treating these three vertical columns as a single group?",
-      "Identify the exception in the d-block group numbering. Why do columns 8, 9, and 10 share the same group designation (VIII) instead of being separate groups?"
-    ]
-  },
-  {
-    "id": 188,
-    "type": "compound",
-    "q": "The principal quantum number (n) determines the number of main energy levels, and the secondary quantum number (l) determines the number of sublevels. How do these two numbers together help define the electron configuration in a ground-state atom?",
-    "answer": "The principal quantum number (n) defines the main energy level, and the secondary quantum number (l) defines the sublevels within that level. Together, they determine the available orbitals and the electron configuration.",
-    "steps": [
-      "Step 1 — Identify the role of the principal quantum number (n).",
-      "Step 2 — Identify the role of the secondary quantum number (l).",
-      "Step 3 — Explain how n and l together determine the electron configuration."
-    ],
-    "stepExplanations": [
-      "The principal quantum number (n) defines the main energy level and its relative distance from the nucleus. For a given n, there can be n sublevels.",
-      "The secondary quantum number (l) defines the shape and type of sublevel (s, p, d, f) within that main energy level. The number of sublevels for a given n is equal to n.",
-      "To construct an electron configuration, we first identify the main energy levels (n) in order of increasing energy and then the sublevels (l) within them. Electrons are assigned to these levels and sublevels according to the rules of quantum mechanics, giving the unique electron configuration for each atom."
-    ],
-    "choices": [
-      "n defines sublevels and l defines main energy levels, mapping the electron arrangement.",
-      "n defines the main energy level, and l defines the sublevels. Together, they determine the orbitals and electron arrangement.",
-      "n defines the number of electrons and l defines the spin, giving the configuration.",
-      "n defines the shape of the orbital and l defines its size, giving the configuration."
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "To describe the electron configuration of an atom, we use the principal quantum number (n) to identify the main energy level and the secondary quantum number (l) to identify the type of sublevel. How does knowing n and l together allow you to map out the electron distribution?",
-      "Explain how the principal quantum number (n) and the secondary quantum number (l) work together to define the possible locations of electrons in an atom's ground state.",
-      "If n = 3, what does this tell you about the main energy level, and how does l help you determine the sublevels within it to construct the electron configuration?"
-    ]
-  },
-  {
-    "id": 189,
-    "type": "compound",
-    "q": "The magnetic quantum number (mₗ) determines the number of orbitals in a sublevel, and the spin quantum number (mₛ) determines electron spin direction. How many electrons can be accommodated in a completely filled orbital, and what does the spin quantum number dictate about these two electrons?",
-    "answer": "A completely filled orbital can hold a maximum of 2 electrons, and the spin quantum number (mₛ) dictates that they must have opposite spins (+½ and -½).",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "2 electrons with parallel spins",
-      "2 electrons with opposite spins",
-      "1 electron with either spin",
-      "3 electrons with opposite spins"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "An orbital is completely filled. How many electrons does it hold, and what does the spin quantum number (mₛ) require about their spins?",
-      "A p sublevel has 3 orbitals as determined by mₗ. If one of these orbitals is completely filled, what is the maximum number of electrons it can contain, and what must be true about their mₛ values?",
-      "If two electrons occupy the same orbital, what does the spin quantum number (mₛ) dictate about their spins, and how many electrons in total can that orbital hold?"
-    ]
-  },
-  {
-    "id": 190,
-    "type": "compound",
-    "q": "According to the Aufbau Principle, electrons fill the lowest energy sublevels first, and the order is determined by the (n+l) rule. Based on this rule, which sublevel gets filled first between 4s and 3d, and why?",
-    "answer": "According to the (n+l) rule, the 4s sublevel is filled before the 3d sublevel because it has a lower (n+l) value (4+0 = 4) compared to 3d (3+2 = 5), indicating lower energy.",
-    "steps": [
-      "Step 1 — Identify the (n+l) values for the 4s and 3d sublevels.",
-      "Step 2 — Compare the (n+l) values.",
-      "Step 3 — Apply the Aufbau Principle to determine the filling order."
-    ],
-    "stepExplanations": [
-      "For 4s: n=4 and l=0, so (n+l) = 4. For 3d: n=3 and l=2, so (n+l) = 5.",
-      "Since 4s has a lower (n+l) value (4) than 3d (5), the 4s sublevel has lower energy.",
-      "The Aufbau Principle states that electrons fill the lowest energy sublevels first. Therefore, the 4s sublevel is filled before the 3d sublevel."
-    ],
-    "choices": [
-      "3d fills first because it is lower in energy (n+l = 5 for 3d vs 4 for 4s).",
-      "4s fills first because it has a lower (n+l) value (4 for 4s vs 5 for 3d).",
-      "They fill simultaneously because they have similar energies.",
-      "3d fills first because it is closer to the nucleus."
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "Using the (n+l) rule, determine whether the 4s sublevel or the 3d sublevel has lower energy, and therefore which one is filled first according to the Aufbau Principle.",
-      "According to the sequence defined by the (n+l) rule, 4s comes before 3d. What does the Aufbau Principle state about this order?",
-      "A student claims 3d is filled before 4s because 3d is lower in energy. Based on the (n+l) rule, is this correct? Which fills first and why?"
-    ]
-  },
-  {
-    "id": 191,
-    "type": "compound",
-    "q": "Noble gases are characterized by completely filled energy sublevels. If the electron configuration of Neon is 1s² 2s² 2p⁶, what is its abbreviated core notation, and which sublevel is the last to be filled in its outermost shell?",
-    "answer": "The abbreviated core notation for Neon is [He] 2s² 2p⁶. The last sublevel filled in its outermost shell is the 2p sublevel.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "[He] 2s² 2p⁶; 2p sublevel",
-      "[Ne] 1s² 2s² 2p⁶; 2s sublevel",
-      "[Ar] 2s² 2p⁶; 2p sublevel",
-      "[He] 2s² 2p⁶; 2s sublevel"
-    ],
-    "correctIndex": 0,
-    "variants": [
-      "Neon (10Ne) has a completely filled energy sublevel with the configuration 1s² 2s² 2p⁶. What is its abbreviated core notation, and which specific sublevel is the final one filled in its outermost shell?",
-      "Given that noble gases have completely filled sublevels and Neon has the configuration 1s² 2s² 2p⁶, what is its symbol in abbreviated form, and what is the last sublevel filled in its shell?",
-      "For Neon (10Ne), its electron distribution ends with 2p⁶. How is this written in its abbreviated core notation, and which sublevel is the last to be filled in the outermost shell?"
-    ]
-  },
-  {
-    "id": 192,
-    "type": "compound",
-    "q": "Scandium (Sc) starts the first transition series with the configuration [Ar] 4s² 3d¹, and Zinc (Zn) ends it with [Ar] 4s² 3d¹⁰. How many elements are in this series, and in which period of the periodic table is it located?",
-    "answer": "The first transition series contains exactly 10 elements and is located in the 4th period of the periodic table.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "10 elements; 4th period",
-      "10 elements; 5th period",
-      "8 elements; 4th period",
-      "10 elements; 3rd period"
-    ],
-    "correctIndex": 0,
-    "variants": [
-      "The first transition series starts with Scandium (Sc) and ends with Zinc (Zn). How many elements does this series contain, and in what period is it located?",
-      "If the first transition series begins with Scandium (₂₁Sc) and ends with Zinc (₃₀Zn), how many total elements are in this horizontal series, and what is its period number?",
-      "A student identifies the first transition series as being in the 5th period and containing 12 elements. Based on the known starting element Scandium and ending element Zinc, is this correct? State the correct period and number of elements."
-    ]
-  },
-  {
-    "id": 193,
-    "type": "compound",
-    "q": "Chromium (Cr) has the electron configuration [Ar] 4s¹ 3d⁵ instead of the expected [Ar] 4s² 3d⁴. Why is this configuration more stable, and what is the general stability rule that explains this exception?",
-    "answer": "The configuration [Ar] 4s¹ 3d⁵ is more stable because it gives a half-filled 3d sublevel (d⁵), which has extra stability. This follows the rule that half-filled and completely filled d sublevels are more stable.",
-    "steps": [
-      "Step 1 — Identify the expected electron configuration for Chromium.",
-      "Step 2 — Identify the actual electron configuration for Chromium.",
-      "Step 3 — Explain why the actual configuration is more stable."
-    ],
-    "stepExplanations": [
-      "The expected configuration for Chromium (Z=24) based on the Aufbau principle is [Ar] 4s² 3d⁴.",
-      "The actual configuration is [Ar] 4s¹ 3d⁵, which involves promoting one 4s electron to the 3d sublevel.",
-      "This configuration is more stable because the 3d sublevel becomes half-filled (d⁵), which provides extra stability due to electron exchange energy. The general rule is that half-filled (d⁵) and completely filled (d¹⁰) sublevels are particularly stable."
-    ],
-    "choices": [
-      "It is more stable because it has a completely filled 4s sublevel.",
-      "It is more stable because it has a half-filled 3d sublevel (d⁵).",
-      "It is more stable because it has a completely filled 3d sublevel.",
-      "It is less stable than the expected configuration."
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "Chromium (Cr) has an anomalous electron configuration: [Ar] 4s¹ 3d⁵ instead of the expected [Ar] 4s² 3d⁴. Why is the anomalous configuration more stable?",
-      "Explain why Chromium (Cr) does not follow the expected [Ar] 4s² 3d⁴ configuration but instead adopts [Ar] 4s¹ 3d⁵, referencing the general stability rule for d sublevels.",
-      "The expected configuration for Chromium is [Ar] 4s² 3d⁴, but the actual configuration is [Ar] 4s¹ 3d⁵. What stability rule explains this deviation?"
-    ]
-  },
-  {
-    "id": 194,
-    "type": "compound",
-    "q": "Copper (Cu) has the electron configuration [Ar] 4s¹ 3d¹⁰ instead of the expected [Ar] 4s² 3d⁹. How does this configuration make the atom more stable, and which other element shares a similar exception in the first transition series?",
-    "answer": "The configuration [Ar] 4s¹ 3d¹⁰ is more stable because it gives a completely filled 3d sublevel (d¹⁰). Chromium (Cr) shares a similar exception with the half-filled d⁵ configuration.",
-    "steps": [
-      "Step 1 — Identify the expected and actual configurations for Copper.",
-      "Step 2 — Explain why the actual configuration is more stable.",
-      "Step 3 — Identify the other element in the first transition series with a similar exception."
-    ],
-    "stepExplanations": [
-      "The expected configuration for Copper (Z=29) is [Ar] 4s² 3d⁹, but the actual configuration is [Ar] 4s¹ 3d¹⁰.",
-      "This configuration is more stable because the 3d sublevel becomes completely filled (d¹⁰), which provides extra stability, similar to the stability of half-filled sublevels.",
-      "Chromium (Cr) is the other element in the first transition series with an exception. It has the configuration [Ar] 4s¹ 3d⁵, which gives a half-filled 3d sublevel (d⁵)."
-    ],
-    "choices": [
-      "It is more stable because it has a completely filled 3d sublevel (d¹⁰); Chromium (Cr) has a similar exception.",
-      "It is more stable because it has a half-filled 3d sublevel; Chromium (Cr) has a similar exception.",
-      "It is more stable because it has a completely filled 4s sublevel; Manganese (Mn) has a similar exception.",
-      "It is less stable than the expected configuration; Iron (Fe) has a similar exception."
-    ],
-    "correctIndex": 0,
-    "variants": [
-      "Copper (Cu) has an anomalous configuration [Ar] 4s¹ 3d¹⁰ rather than the expected [Ar] 4s² 3d⁹. Why is the anomalous configuration more stable, and which other element in the first transition series also exhibits a similar exception?",
-      "Identify the two exceptions in the electron configurations of the first transition series. For Copper (Cu), explain why its configuration [Ar] 4s¹ 3d¹⁰ is more stable than the expected [Ar] 4s² 3d⁹.",
-      "Copper (Cu) adopts a [Ar] 4s¹ 3d¹⁰ configuration, deviating from the expected [Ar] 4s² 3d⁹. What stability rule explains this, and what is the other element in the same series that follows a similar exception?"
-    ]
-  },
-  {
-    "id": 195,
-    "type": "compound",
-    "q": "Ionization energy is the energy required to remove an electron from a gaseous atom, and the first ionization energy leads to the formation of an ion with a +1 charge. If a small amount of energy is removed, what does that tell you about the electron's binding to the nucleus, and what ion is formed?",
-    "answer": "If a small amount of energy is removed, the electron is loosely bound to the nucleus. The ion formed is a cation with a +1 charge.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "The electron is tightly bound to the nucleus; a cation with a +1 charge is formed.",
-      "The electron is loosely bound to the nucleus; a cation with a +1 charge is formed.",
-      "The electron is tightly bound to the nucleus; an anion with a -1 charge is formed.",
-      "The electron is loosely bound to the nucleus; an anion with a -1 charge is formed."
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "A gaseous atom requires only a small amount of energy to remove an electron. What does this tell you about the electron's binding to the nucleus, and what ion is formed as a result of this first ionization?",
-      "In the context of ionization energy, if an electron is removed easily with a small amount of energy, how tightly is it bound to the nucleus? What is the charge of the ion produced by this initial removal?",
-      "What does a low ionization energy indicate about the binding of an electron to the nucleus, and what is the charge of the resulting cation after the first ionization energy is applied?"
-    ]
-  },
-  {
-    "id": 196,
-    "type": "compound",
-    "q": "Successive ionization energies increase (I₁ < I₂ < I₃). If there is a sudden increase between the second and third ionization energies, what does this indicate about the electron shell the third electron is being removed from?",
-    "answer": "A sudden increase between the second and third ionization energies indicates that the third electron is being removed from an inner shell (closer to the nucleus).",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "The third electron is being removed from the same shell as the previous electrons.",
-      "The third electron is being removed from an inner shell (closer to the nucleus).",
-      "The third electron is being removed from an outer shell (farther from the nucleus).",
-      "The third electron is being removed from the nucleus itself."
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "Ionization energies increase successively (I₁ < I₂ < I₃). If there is a large sudden increase between I₂ and I₃, what does this suggest about the electron being removed in the third ionization?",
-      "For an element, I₁, I₂, and I₃ increase. A massive jump occurs between the second and third ionization energies. What does this indicate about the electron shell from which the third electron is removed?",
-      "If successive ionization energies show a gradual increase for the first two and then a sudden, sharp increase for the third, what can you infer about the electron removed in the third step?"
-    ]
-  },
-  {
-    "id": 197,
-    "type": "compound",
-    "q": "A positive oxidation number indicates that the element has lost electrons, while a negative oxidation number indicates it has gained electrons. Why are transition elements known to exhibit variable oxidation states based on this concept?",
-    "answer": "Transition elements exhibit variable oxidation states because they can lose a variable number of electrons from their (n-1)d and ns orbitals, resulting in different positive oxidation states.",
-    "steps": [
-      "Step 1 — Identify the electron configurations of transition elements.",
-      "Step 2 — Explain how electrons can be lost from different orbitals.",
-      "Step 3 — Relate this to the variable oxidation states."
-    ],
-    "stepExplanations": [
-      "Transition elements have partially filled d orbitals and can lose electrons from both the 4s and 3d orbitals.",
-      "The ability to lose a variable number of electrons (from both the 4s and 3d orbitals) allows transition elements to form ions with different positive charges.",
-      "This variable electron loss results in different positive oxidation numbers, which gives transition elements their characteristic variable oxidation states."
-    ],
-    "choices": [
-      "Because they have completely filled d orbitals.",
-      "Because they can lose a variable number of electrons from their (n-1)d and ns orbitals.",
-      "Because they only form anions.",
-      "Because they have a fixed number of valence electrons."
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "Given that a positive oxidation number means an element has lost electrons and a negative oxidation number means it has gained electrons, why do transition elements commonly show a wide range of oxidation states?",
-      "An element with a positive oxidation number has lost electrons, whereas a negative number indicates a gain of electrons. How does this concept explain why transition metals are known for having variable oxidation states?",
-      "If a positive oxidation state indicates loss of electrons and a negative state indicates gain, why do transition metals readily form compounds with multiple different oxidation states?"
-    ]
-  },
-  {
-    "id": 198,
-    "type": "compound",
-    "q": "Copper commonly forms the Cu²⁺ ion (3d⁹) rather than the Cu⁺ ion (3d¹⁰), even though Cu⁺ has a completely filled sublevel. What is the reason for this anomaly, and what chemical property is responsible for making Cu²⁺ more common?",
-    "answer": "Cu²⁺ (3d⁹) is more common than Cu⁺ (3d¹⁰) because Cu²⁺ has a high hydration energy that compensates for the loss of stability of the completely filled d¹⁰ configuration.",
-    "steps": [
-      "Step 1 — Identify the electron configurations of Cu⁺ and Cu²⁺.",
-      "Step 2 — Explain why Cu⁺ would appear to be more stable based on electron configuration.",
-      "Step 3 — Introduce the concept of hydration energy.",
-      "Step 4 — Explain why Cu²⁺ is actually more common."
-    ],
-    "stepExplanations": [
-      "Cu⁺ has the configuration [Ar] 3d¹⁰ (completely filled), while Cu²⁺ has [Ar] 3d⁹ (incompletely filled).",
-      "Based solely on electron configuration, Cu⁺ (d¹⁰) would appear to be more stable due to the completely filled sublevel.",
-      "However, Cu²⁺ has a much higher hydration energy than Cu⁺. Hydration energy is the energy released when ions are hydrated (surrounded by water molecules) in aqueous solution.",
-      "The high hydration energy of Cu²⁺ compensates for the loss of stability from the d¹⁰ configuration, making Cu²⁺ more common in aqueous systems and compounds."
-    ],
-    "choices": [
-      "Cu²⁺ is more common because it has a completely filled d sublevel.",
-      "Cu²⁺ is more common because it has a high hydration energy that compensates for the loss of stability from the d¹⁰ configuration.",
-      "Cu⁺ is more common because it has a completely filled d sublevel.",
-      "Cu²⁺ is more common because it has a higher charge, but no other reason."
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "Why is the Cu²⁺ ion more common in aqueous solutions than the Cu⁺ ion, even though Cu⁺ has a completely filled 3d¹⁰ sublevel?",
-      "Copper often forms the Cu²⁺ (3d⁹) ion rather than Cu⁺ (3d¹⁰). What chemical property of Cu²⁺ overcomes the stability advantage of the d¹⁰ sublevel in Cu⁺?",
-      "Explain why Cu²⁺ (d⁹) is more prevalent in compounds than Cu⁺ (d¹⁰), despite the stability usually associated with a completely filled d subshell."
-    ]
-  },
-  {
-    "id": 199,
-    "type": "compound",
-    "q": "Transition elements are divided into main transition elements (d-block) and inner transition elements (f-block). Where are the main transition elements situated in the periodic table, and how many vertical groups do they occupy?",
-    "answer": "The main transition elements (d-block) are situated in the middle of the periodic table and occupy 10 vertical groups (groups 3-12 in the IUPAC system).",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Located on the left side of the periodic table; 8 groups",
-      "Located in the middle of the periodic table; 10 groups",
-      "Located on the right side of the periodic table; 10 groups",
-      "Located at the bottom of the periodic table; 14 groups"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "Transition elements are classified into main and inner groups. Where are the main transition elements located on the periodic table, and how many vertical groups do they span?",
-      "Identify the location and the number of vertical groups occupied by the main transition elements (d-block) in the periodic table.",
-      "The transition elements are split into the d-block and f-block. Where is the d-block (main transition elements) physically positioned, and how many vertical groups does it include?"
-    ]
-  },
-  {
-    "id": 200,
-    "type": "compound",
-    "q": "The second transition series (4d) starts with Yttrium (₃₉Y) and ends with Cadmium (₄₈Cd). It falls in the 5th period and contains exactly 10 elements. What is the range of electron configurations for the end of this series, and what are the symbols for the starting and ending elements?",
-    "answer": "The second transition series (4d) starts with Yttrium (Y) and ends with Cadmium (Cd). The electron configuration ends with 4d¹ to 4d¹⁰.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Starts with Y (Yttrium) and ends with Cd (Cadmium); configuration ends with 3d¹ to 3d¹⁰.",
-      "Starts with Y (Yttrium) and ends with Cd (Cadmium); configuration ends with 4d¹ to 4d¹⁰.",
-      "Starts with Sc (Scandium) and ends with Zn (Zinc); configuration ends with 4d¹ to 4d¹⁰.",
-      "Starts with La (Lanthanum) and ends with Hg (Mercury); configuration ends with 4d¹ to 4d¹⁰."
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "The second transition series (4d) is located in the 5th period. If it starts with Yttrium and ends with Cadmium, what is the electron configuration range for this series, and what are the element symbols for the first and last elements?",
-      "Identify the starting and ending element symbols for the second transition series (4d), which consists of 10 elements in the 5th period, and state the sublevel being filled.",
-      "Yttrium (₃₉Y) begins the 4d transition series in the 5th period, and Cadmium (₄₈Cd) ends it. What is the electron configuration range for the end of this series, and what are the element symbols?"
-    ]
-  },
-  {
-    "id": 201,
-    "type": "compound",
-    "q": "The abundance of first transition series elements varies; Titanium (Ti) has an abundance of 0.66%, while Iron (Fe) has an abundance of 5.1%. Despite making up only about 7% of the earth's crust collectively, why do these elements hold significant economic importance?",
-    "answer": "Despite their relatively low abundance (about 7% collectively), the first transition series elements are economically important because of their extensive manufacturing uses and applications in various industries.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "They are economically important because of their high abundance in the earth's crust.",
-      "They are economically important because of their extensive manufacturing uses and applications.",
-      "They are economically important because they are rare and expensive.",
-      "They are economically important because they are all precious metals."
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "Iron (Fe) is present at 5.1% and Titanium (Ti) at 0.66% in the earth's crust. Collectively, the first transition series makes up about 7% of the crust. Despite this low overall abundance, why are these elements economically vital?",
-      "Although the first transition series elements collectively account for only about 7% of the earth's crust (with Iron being 5.1% and Titanium 0.66%), they hold significant economic value. What is the source of this value?",
-      "Titanium (0.66%) and Iron (5.1%) are part of the first transition series, which is roughly 7% of the earth's crust. Since they are not the most abundant elements, what is the primary reason for their economic importance?"
-    ]
-  },
-  {
-    "id": 202,
-    "type": "compound",
-    "q": "Titanium (Ti) is as strong as steel but has lower density and maintains its strength at high temperatures. Based on these properties, why is it used in both surgical implants and aerospace applications?",
-    "answer": "Titanium is used in surgical implants because it is strong, lightweight, and biocompatible (the body does not reject it). It is used in aerospace applications because it is as strong as steel but lighter and maintains its strength at high temperatures.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "It is used in implants because it is strong and lightweight; in aerospace because it maintains strength at high temperatures.",
-      "It is used in both applications because it is cheap and easily available.",
-      "It is used in implants because it is lightweight; in aerospace because it is strong as steel.",
-      "It is used in both applications because it is a good conductor of electricity."
-    ],
-    "correctIndex": 0,
-    "variants": [
-      "Titanium is strong like steel but lighter and maintains its strength at high temperatures. How do these unique properties justify its use in both surgical implants and aerospace engineering?",
-      "Why is Titanium, which is as strong as steel but less dense and heat-resistant, favored for both bone and joint implants and aerospace applications?",
-      "Given that Titanium is as strong as steel, has a lower density, and retains strength at high temperatures, explain its two major applications in the medical and aerospace fields."
-    ]
-  },
-  {
-    "id": 203,
-    "type": "compound",
-    "q": "Vanadium (V) is used to make strong steel alloys characterized by high toughness and corrosion resistance. When a small amount of vanadium is added to steel, what happens to the alloy, and in what specific industry is this alloy used to manufacture parts?",
-    "answer": "Adding a small amount of vanadium to steel produces a strong alloy with high toughness and corrosion resistance. This vanadium-steel alloy is used in the automobile industry to manufacture parts.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "A weak alloy is formed; used in the aerospace industry.",
-      "A strong alloy with high toughness and corrosion resistance is formed; used in the automobile industry.",
-      "A brittle alloy is formed; used in the construction industry.",
-      "No significant change occurs; used in the electronics industry."
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "Vanadium is added to steel to create an alloy. What are the characteristics of this vanadium-steel alloy, and in which industry is it predominantly utilized for manufacturing parts?",
-      "When a small percentage of vanadium is added to steel, it forms a strong alloy. What specific properties does this alloy possess, and what is its primary industrial application?",
-      "Describe the changes in properties when a small amount of Vanadium is added to steel. What industry benefits from these properties for manufacturing parts?"
-    ]
-  },
-  {
-    "id": 204,
-    "type": "compound",
-    "q": "Vanadium pentoxide (V₂O₅) is the most important compound of Vanadium and is used as a catalyst in both the Contact process and the synthesis of ammonia. What industrial products are produced in these two processes that rely on V₂O₅ as a catalyst?",
-    "answer": "Vanadium pentoxide (V₂O₅) is used as a catalyst in the Contact process to manufacture sulfuric acid (H₂SO₄) and in the synthesis of ammonia (NH₃).",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Sulfuric acid and ammonia",
-      "Nitric acid and urea",
-      "Hydrochloric acid and ammonium nitrate",
-      "Sulfuric acid and nitric acid"
-    ],
-    "correctIndex": 0,
-    "variants": [
-      "Vanadium pentoxide (V₂O₅) is a crucial catalyst in two industrial processes. What are the end products of the Contact process and the ammonia synthesis process for which V₂O₅ acts as a catalyst?",
-      "The most important vanadium compound is V₂O₅. In which two industrial processes is this compound used as a catalyst, and what are the chemical products of those processes?",
-      "Identify the two major chemical products manufactured using vanadium pentoxide (V₂O₅) as a catalyst in the Contact process and ammonia synthesis."
-    ]
-  },
-  {
-    "id": 205,
-    "type": "compound",
-    "q": "Chromium acts as a corrosion-resistant metal by forming a thin layer of oxide on its surface, which prevents further reaction with atmospheric oxygen. How does the volume of this oxide layer compare to the volume of the atom itself, and how does this physical property increase its durability?",
-    "answer": "The oxide layer formed on chromium has a larger volume than the chromium atom itself. This larger volume creates a tight, adherent protective layer that prevents further oxygen from reaching the metal surface, increasing its durability.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "The oxide layer has a smaller volume, which makes it less protective.",
-      "The oxide layer has a larger volume, creating a tight protective barrier that increases durability.",
-      "The oxide layer has the same volume, which doesn't affect durability.",
-      "The oxide layer has a larger volume, but this decreases durability by making the metal brittle."
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "Chromium forms a thin oxide layer on its surface that is larger in volume than the chromium atom itself. How does this physical property contribute to its corrosion resistance and durability?",
-      "Chromium is a reactive metal, yet it resists corrosion due to a thin oxide layer. How does the volume ratio between the oxide layer and the chromium atom explain its ability to prevent further atmospheric reaction?",
-      "Explain why Chromium is durable despite being a reactive metal, specifically addressing the volume of the surface oxide layer relative to the atom."
-    ]
-  },
-  {
-    "id": 206,
-    "type": "compound",
-    "q": "Chromium (III) oxide (Cr₂O₃) is used in the paint industry, while potassium dichromate (K₂Cr₂O₇) is used as an oxidizing agent. What are the chemical formulas for these two important chromium compounds, and what role does the dichromate play in chemical reactions?",
-    "answer": "The chemical formulas are: Chromium (III) oxide = Cr₂O₃, Potassium dichromate = K₂Cr₂O₇. Potassium dichromate acts as an oxidizing agent in chemical reactions.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Cr₂O₃ and K₂Cr₂O₇; K₂Cr₂O₇ acts as an oxidizing agent.",
-      "CrO₃ and K₂Cr₂O₇; K₂Cr₂O₇ acts as a reducing agent.",
-      "Cr₂O₃ and KCr₂O₇; KCr₂O₇ acts as a catalyst.",
-      "Cr₂O₃ and K₂Cr₂O₇; K₂Cr₂O₇ acts as a drying agent."
-    ],
-    "correctIndex": 0,
-    "variants": [
-      "Name two industrially important chromium compounds: one used in the paint industry and one used as an oxidizing agent. Provide their chemical formulas.",
-      "Identify the chemical formula for chromium (III) oxide and potassium dichromate. What is the chemical function of potassium dichromate in reactions?",
-      "Provide the chemical formulas for chromium (III) oxide and potassium dichromate, and describe the role of the latter compound in chemical processes."
-    ]
-  },
-  {
-    "id": 207,
-    "type": "compound",
-    "q": "Manganese is a hard, brittle metal found in ores and compounds. Its alloy with iron is used in railway tracks because it is hard and wear-resistant, while its alloy with aluminum is used in soft drink cans because it resists corrosion. What properties make manganese alloys suitable for these two very different applications?",
-    "answer": "The manganese-iron alloy is hard and wear-resistant, making it suitable for railway tracks. The manganese-aluminum alloy resists corrosion, making it suitable for soft drink cans.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Manganese-iron alloy is hard and wear-resistant; manganese-aluminum alloy resists corrosion.",
-      "Manganese-iron alloy resists corrosion; manganese-aluminum alloy is hard and wear-resistant.",
-      "Both alloys are hard and wear-resistant.",
-      "Both alloys resist corrosion."
-    ],
-    "correctIndex": 0,
-    "variants": [
-      "Manganese is a hard, brittle metal typically found in ores. When alloyed with iron, it is used for railway tracks, and when alloyed with aluminum, it is used for soft drink cans. What specific properties make it suitable for these two distinct uses?",
-      "Manganese is a hard, brittle metal found in ores. Its alloys with iron and aluminum are used in different industries. What specific physical property does the iron-manganese alloy possess, and what property does the aluminum-manganese alloy possess?",
-      "Explain why manganese alloys with iron are used for railway tracks, whereas manganese alloys with aluminum are used for beverage cans, based on the properties of each alloy."
-    ]
-  },
-  {
-    "id": 208,
-    "type": "compound",
-    "q": "Manganese dioxide (MnO₂) is used as an oxidizing agent in dry cell batteries and as a catalyst in the decomposition of hydrogen peroxide (H₂O₂). What are the two different chemical roles that MnO₂ plays in these processes?",
-    "answer": "MnO₂ acts as an oxidizing agent in dry cell batteries and as a catalyst in the decomposition of hydrogen peroxide.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Oxidizing agent and reducing agent",
-      "Oxidizing agent and catalyst",
-      "Catalyst and reducing agent",
-      "Catalyst and bleaching agent"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "Manganese dioxide (MnO₂) serves two different functions in two separate chemical applications. What are these functions when used in dry cells and in the decomposition of hydrogen peroxide?",
-      "Identify the two distinct chemical roles that manganese dioxide (MnO₂) performs: one in the manufacture of batteries and the other in a decomposition reaction with hydrogen peroxide.",
-      "In the manufacture of dry cells, MnO₂ acts as an oxidizing agent. What is its role in the breakdown of hydrogen peroxide?"
-    ]
-  },
-  {
-    "id": 209,
-    "type": "compound",
-    "q": "Potassium permanganate (KMnO₄) is used as an oxidizing agent, and Manganese (II) sulfate (MnSO₄) is used as a fertilizer. Write the chemical formulas for these two compounds, and identify one industrial use for each.",
-    "answer": "Potassium permanganate: KMnO₄, used as an oxidizing agent. Manganese (II) sulfate: MnSO₄, used as a fertilizer.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "KMnO₄ (oxidizing agent) and MnSO₄ (fertilizer)",
-      "KMnO₄ (fertilizer) and MnSO₄ (oxidizing agent)",
-      "K₂MnO₄ (oxidizing agent) and MnSO₄ (fertilizer)",
-      "KMnO₄ (oxidizing agent) and Mn₂(SO₄)₃ (fertilizer)"
-    ],
-    "correctIndex": 0,
-    "variants": [
-      "What are the chemical formulas for potassium permanganate and manganese (II) sulfate? Identify one practical use for each compound.",
-      "Give the chemical formula for potassium permanganate and state its industrial function. Then give the formula for manganese (II) sulfate and state its industrial function.",
-      "Write the formulas for potassium permanganate and manganese (II) sulfate. How is each of these compounds applied in industry?"
-    ]
-  },
-  {
-    "id": 210,
-    "type": "compound",
-    "q": "Iron (Fe) is used in the manufacture of railway cars and surgical instruments, and it is also used as a catalyst in the Haber process. What product is manufactured in the Haber process, and what catalytic role does Iron play in that reaction?",
-    "answer": "The Haber process manufactures ammonia (NH₃), and iron acts as a catalyst to speed up the reaction between nitrogen and hydrogen gases.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Ammonia (NH₃); iron acts as a catalyst.",
-      "Nitric acid (HNO₃); iron acts as a catalyst.",
-      "Ammonia (NH₃); iron acts as a reactant.",
-      "Sulfuric acid (H₂SO₄); iron acts as a catalyst."
-    ],
-    "correctIndex": 0,
-    "variants": [
-      "Iron is widely used in manufacturing (e.g., railway cars and surgical instruments) and also serves as a catalyst in the Haber process. What is the product of the Haber process, and what catalytic role does Iron play in this reaction?",
-      "In addition to its use in making railway cars and surgical instruments, Iron functions as a catalyst in an important industrial reaction. What is the name of the process and the product it yields?",
-      "Identify the industrial process for which Iron serves as a catalyst. What specific chemical product is synthesized in this process?"
-    ]
-  },
-  {
-    "id": 211,
-    "type": "compound",
-    "q": "Cobalt (Co) is similar to Iron in its magnetic properties, and both are magnetic. Because of this, Cobalt is used in the manufacture of magnets and dry batteries in cars. Which of the two metals (Cobalt or Iron) shares a magnetic similarity with the other?",
-    "answer": "Cobalt shares magnetic properties with Iron. Both are magnetic.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Iron shares magnetic similarity with Cobalt; both are magnetic.",
-      "Cobalt shares magnetic similarity with Iron; both are magnetic.",
-      "Neither is magnetic.",
-      "Only Cobalt is magnetic."
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "Both Cobalt and Iron are magnetic. Based on this shared property, what are two distinct uses of Cobalt in industry?",
-      "Cobalt shares a magnetic property with Iron. What magnetic property do both metals share, and what industrial uses stem from Cobalt's magnetic nature?",
-      "Cobalt has similar magnetic properties to Iron. Because both are magnetic, Cobalt is used in which two specific applications?"
-    ]
-  },
-  {
-    "id": 212,
-    "type": "compound",
-    "q": "Cobalt has 12 isotopes, the most important of which is Cobalt-60 (₆₀Co). This isotope emits high-energy gamma rays. For what specific medical application are these high-energy gamma rays used in the treatment of cancer?",
-    "answer": "Cobalt-60 emits high-energy gamma rays, which are used in radiation therapy to treat cancer.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "They are used in radiation therapy to treat cancer.",
-      "They are used in MRI scans.",
-      "They are used in X-ray imaging.",
-      "They are used to sterilize medical equipment."
-    ],
-    "correctIndex": 0,
-    "variants": [
-      "Cobalt has 12 isotopes, with Cobalt-60 being the most important. For what specific medical purpose are the high-energy gamma rays from Cobalt-60 utilized?",
-      "Cobalt-60 (₆₀Co) is the most important isotope of Cobalt. How are the high-energy gamma rays emitted by this isotope applied in the medical field?",
-      "Why is Cobalt-60 considered the most important isotope of Cobalt, and what is its specific application in healthcare?"
-    ]
-  },
-  {
-    "id": 213,
-    "type": "compound",
-    "q": "Nickel alloys with steel are characterized by hardness and resistance to rust and acids, and they are also used in the manufacture of nickel-cadmium (Ni-Cd) rechargeable batteries. What are the properties of Ni-Cd batteries, and what role does nickel play in the alloy?",
-    "answer": "Nickel-cadmium (Ni-Cd) batteries are rechargeable batteries. In the steel alloy, nickel imparts hardness and resistance to rust and acids.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Ni-Cd batteries are rechargeable; nickel makes the steel alloy hard and resistant to rust and acids.",
-      "Ni-Cd batteries are non-rechargeable; nickel makes the steel alloy magnetic.",
-      "Ni-Cd batteries are rechargeable; nickel makes the steel alloy lightweight.",
-      "Ni-Cd batteries are used in cars; nickel makes the steel alloy conductive."
-    ],
-    "correctIndex": 0,
-    "variants": [
-      "Nickel-steel alloys are known for being hard and resistant to rust and acids. In a different application, nickel is used in Ni-Cd batteries. What are Ni-Cd batteries, and what properties does nickel give to steel when alloyed?",
-      "What properties characterize nickel-steel alloys? In what type of battery is nickel also a key component, and what type of battery is that?",
-      "Nickel is used both as an alloying element with steel and as a component in rechargeable batteries. What properties does it add to steel, and what is the name of the rechargeable battery containing nickel?"
-    ]
-  },
-  {
-    "id": 214,
-    "type": "compound",
-    "q": "Nickel is used as a catalyst in the hydrogenation of oils (vegetable oil hardening) and is used in metal plating to protect metals from oxidation. Why does the plating process use Nickel, and what is the chemical outcome of using it as a catalyst in hydrogenation?",
-    "answer": "Nickel is used in metal plating to protect metals from oxidation and improve appearance. In the hydrogenation of oils, nickel acts as a catalyst to add hydrogen to vegetable oils, converting them from liquid to solid (hardening).",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Plating protects from oxidation; hydrogenation hardens vegetable oils by adding hydrogen.",
-      "Plating improves appearance; hydrogenation adds oxygen to vegetable oils.",
-      "Plating prevents rust; hydrogenation removes hydrogen from vegetable oils.",
-      "Plating increases conductivity; hydrogenation adds carbon to vegetable oils."
-    ],
-    "correctIndex": 0,
-    "variants": [
-      "Nickel is utilized both for metal plating to prevent oxidation and as a catalyst for the hydrogenation of oils. What is the purpose of using nickel in metal plating, and what occurs to oils during hydrogenation with a nickel catalyst?",
-      "Why is Nickel used in metal plating processes, and what chemical change does it catalyze in the hydrogenation of vegetable oils?",
-      "What are the two distinct industrial uses of Nickel? One involves protecting a metal surface, and the other involves altering the physical state of oils. Describe both."
-    ]
-  },
-  {
-    "id": 215,
-    "type": "compound",
-    "q": "Copper (Cu) was historically the first metal known to humans, and its alloys with tin are known as bronze. What is the historical significance of copper, and what specific alloy does it form with tin?",
-    "answer": "Copper was the first metal known to humans. It forms the alloy bronze when combined with tin.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "It was the first metal known to humans; it forms bronze with tin.",
-      "It was the first metal known to humans; it forms brass with tin.",
-      "It was discovered in the Bronze Age; it forms bronze with zinc.",
-      "It is the most abundant metal; it forms bronze with copper."
-    ],
-    "correctIndex": 0,
-    "variants": [
-      "Historically, Copper was the first metal known to humans. What alloy does copper form when combined with tin?",
-      "What is the historical significance of Copper in human civilization? What is the name of the alloy formed by combining copper with tin?",
-      "Copper holds the historical record as the first metal used by humans. What is the specific name given to the alloy of copper and tin?"
-    ]
-  },
-  {
-    "id": 216,
-    "type": "compound",
-    "q": "Copper is used in the manufacture of electrical cables because it is an excellent conductor of electricity, and it is also used in the manufacture of coins. What property makes copper suitable for electrical cables, and what is another practical application it is known for?",
-    "answer": "Copper is an excellent conductor of electricity, making it suitable for electrical cables. Another application is its use in the manufacture of coins.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "It has excellent conductivity; it is also used to make coins.",
-      "It is a good insulator; it is also used to make jewelry.",
-      "It is a good conductor; it is also used to make cookware.",
-      "It is a good conductor; it is also used to make magnets."
-    ],
-    "correctIndex": 0,
-    "variants": [
-      "Copper is an excellent electrical conductor, making it ideal for electrical cables. What is another common practical use of copper that takes advantage of its other properties?",
-      "Why is Copper the preferred material for electrical cables? Besides cables, what is another well-known use of copper in manufacturing?",
-      "Name the property of copper that makes it ideal for manufacturing electrical cables. Give one other practical application of copper in daily life or currency."
-    ]
-  },
-  {
-    "id": 217,
-    "type": "compound",
-    "q": "Copper (II) sulfate (CuSO₄) is used as a fungicide and in purifying water. What is the chemical formula for copper (II) sulfate, and what are its two distinct uses in agriculture and environmental science?",
-    "answer": "The chemical formula for copper (II) sulfate is CuSO₄. It is used as a fungicide in agriculture and in purifying water in environmental science.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "CuSO₄; fungicide and water purification",
-      "Cu₂SO₄; fungicide and water purification",
-      "CuSO₄; fertilizer and water purification",
-      "CuSO₄; fungicide and soil conditioner"
-    ],
-    "correctIndex": 0,
-    "variants": [
-      "What is the chemical formula for copper (II) sulfate? What are its two applications: one in agriculture and the other in water treatment?",
-      "Write the chemical formula for copper (II) sulfate. How is this compound applied in agriculture and in environmental purification processes?",
-      "Copper (II) sulfate, represented by which chemical formula, is utilized both as a fungicide and for purifying water?"
-    ]
-  },
-  {
-    "id": 218,
-    "type": "compound",
-    "q": "Zinc oxide (ZnO) is used in the manufacture of paints, cosmetics, and as a sunscreen. What are the two specific applications of zinc oxide in personal care products, and what role does it play in sunscreens?",
-    "answer": "In personal care products, zinc oxide is used as a moisturizer and as a sunscreen. In sunscreens, it acts as a physical blocker that protects the skin from harmful UV rays.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Moisturizer and sunscreen; it protects from UV rays.",
-      "Cleanser and moisturizer; it protects from UV rays.",
-      "Sunscreen and anti-aging cream; it reflects UV rays.",
-      "Moisturizer and sunscreen; it absorbs UV rays."
-    ],
-    "correctIndex": 0,
-    "variants": [
-      "Zinc oxide (ZnO) is a versatile compound used in personal care products. What two specific applications does it have in cosmetics, and what is its primary function when used in sunscreens?",
-      "In the manufacture of cosmetics, zinc oxide (ZnO) serves as a moisturizer and a sunscreen. What protective function does ZnO perform when applied as a sunscreen?",
-      "What are the two personal care applications of zinc oxide (ZnO)? When used in sunscreens, what physical protective effect does it have on the skin?"
-    ]
-  },
-  {
-    "id": 219,
-    "type": "compound",
-    "q": "Zinc sulfide (ZnS) is used in the manufacture of luminous paints and X-ray screens. What is the composition of these two products, and for what specific types of technological devices is zinc sulfide utilized?",
-    "answer": "Zinc sulfide (ZnS) is used in luminous paints (for glow-in-the-dark applications) and in X-ray screens (for medical imaging). It is also used in LEDs.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Luminous paints and X-ray screens; also LEDs",
-      "Luminous paints and paints for automobiles; also LEDs",
-      "Luminous paints and X-ray screens; also television screens",
-      "Luminous paints and X-ray screens; also computer chips"
-    ],
-    "correctIndex": 0,
-    "variants": [
-      "Zinc sulfide (ZnS) is a key ingredient in two different products: one for glow-in-the-dark applications and one for medical imaging. What are these two specific products, and what are their technological uses?",
-      "What compound is used to manufacture both luminous paints and X-ray screens? What are the specific functions of these two different devices?",
-      "Name the compound used in both luminous paints and X-ray screens. What additional technological application utilizes ZnS besides these two?"
-    ]
-  },
-  {
-    "id": 220,
-    "type": "compound",
-    "q": "The first transition series elements fill the five 3d sublevel orbitals with electrons, starting with Scandium (Sc). Until which element does this filling occur singly before pairing begins, and what is the final configuration when it reaches this half-filled state (3d⁵)?",
-    "answer": "The filling occurs singly until Manganese (Mn), which has the half-filled configuration 3d⁵.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Iron (Fe); 3d⁶",
-      "Manganese (Mn); 3d⁵",
-      "Chromium (Cr); 3d⁵",
-      "Vanadium (V); 3d³"
-    ],
-    "correctIndex": 1,
-    "variants": [
-      "The first transition series fills the 3d sublevel one electron at a time. Which element is reached when all five 3d orbitals contain a single electron, resulting in a 3d⁵ configuration?",
-      "Scandium begins the filling of the five 3d orbitals in the first transition series. Prior to the pairing of electrons, which element marks the point where all five orbitals are singly occupied (3d⁵)?",
-      "At which element in the first transition series is the 3d sublevel half-filled with five electrons (3d⁵), one in each orbital, before pairing begins?"
-    ]
-  },
-  {
-    "id": 221,
-    "type": "compound",
-    "q": "The first transition series is located in the fourth period after Calcium (₂₀Ca), which has the configuration [Ar] 4s². How does Calcium's electron configuration differ from Scandium's, and what sublevel begins to be filled in the first element of the transition series?",
-    "answer": "Calcium has the configuration [Ar] 4s², while Scandium (the first transition element) has [Ar] 4s² 3d¹. The 3d sublevel begins to be filled in Scandium.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Calcium is [Ar] 4s², Scandium is [Ar] 4s² 3d¹; the 3d sublevel begins to fill.",
-      "Calcium is [Ar] 4s², Scandium is [Ar] 4s¹ 3d²; the 4s sublevel begins to fill.",
-      "Calcium is [Ar] 4s², Scandium is [Ar] 4s² 3d²; the 3d sublevel begins to fill.",
-      "Calcium is [Ar] 4s², Scandium is [Ar] 4s² 4p¹; the 4p sublevel begins to fill."
-    ],
-    "correctIndex": 0,
-    "variants": [
-      "Calcium (₂₀Ca), with the configuration [Ar] 4s², is located just before the first transition series in the fourth period. How does Scandium's configuration differ, and which sublevel starts to be filled in Scandium?",
-      "Calcium has the configuration [Ar] 4s² and sits right before the first transition series in the fourth period. Scandium is the first element of the series. What is the main difference in their configurations, and what new sublevel appears in Scandium?",
-      "What is the electron configuration of Calcium (₂₀Ca)? Since Scandium (₂₁Sc) is the first element after Calcium in the 4th period, which sublevel starts to fill in Scandium?"
-    ]
-  },
-  {
-    "id": 222,
-    "type": "compound",
-    "q": "The elements of the first transition series are characterized by filling the 3d sublevel. How many orbitals does this sublevel contain, and what is the maximum number of electrons it can accommodate when it is completely filled (d¹⁰)?",
-    "answer": "The 3d sublevel contains 5 orbitals and can accommodate a maximum of 10 electrons when completely filled.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "5 orbitals; 10 electrons",
-      "3 orbitals; 6 electrons",
-      "7 orbitals; 14 electrons",
-      "5 orbitals; 5 electrons"
-    ],
-    "correctIndex": 0,
-    "variants": [
-      "The first transition series is characterized by the filling of the 3d sublevel. How many orbitals are there in this sublevel, and what is the maximum electron capacity when it is completely filled (d¹⁰)?",
-      "How many orbitals make up the 3d sublevel of the first transition series? When it is filled completely, how many electrons does it hold?",
-      "The 3d sublevel plays a central role in the first transition series. What are the number of orbitals in this sublevel and its total electron capacity when completely filled?"
-    ]
-  },
-  {
-    "id": 223,
-    "type": "compound",
-    "q": "The filling of the 3d sublevel in the first transition series starts with single electrons until Manganese (3d⁵), after which electrons pair up following Hund's rule until Zinc (3d¹⁰). At which element does the pairing begin, and what is the final electron configuration for Zinc?",
-    "answer": "Pairing of electrons in the 3d sublevel begins at Iron (Fe). The final electron configuration for Zinc is [Ar] 4s² 3d¹⁰.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Iron (Fe); [Ar] 4s² 3d¹⁰",
-      "Manganese (Mn); [Ar] 4s² 3d⁵",
-      "Copper (Cu); [Ar] 4s¹ 3d¹⁰",
-      "Cobalt (Co); [Ar] 4s² 3d⁷"
-    ],
-    "correctIndex": 0,
-    "variants": [
-      "In the first transition series, the 3d sublevel is filled singly until Manganese (3d⁵). After Manganese, pairing begins. Which element marks the end of this filling process, and what is its final configuration?",
-      "Manganese (Mn) reaches a half-filled 3d⁵ state in the first transition series. At which element does the pairing of electrons in the 3d orbitals cease, and what is that element's final configuration?",
-      "The first transition series fills the 3d sublevel with single electrons until Manganese, then pairing occurs. What is the last element of this series, and what is its fully paired 3d electron configuration?"
-    ]
-  },
-  {
-    "id": 224,
-    "type": "compound",
-    "q": "The Fe³⁺ ion (3d⁵) is more stable than the Fe²⁺ ion (3d⁶) because it has a half-filled sublevel. Explain how the stability of the half-filled 3d sublevel drives the oxidation tendency of iron, leading it to preferably form the +3 oxidation state.",
-    "answer": "The stability of the half-filled 3d⁵ configuration drives iron to form the Fe³⁺ ion (3d⁵) because it is more stable than Fe²⁺ (3d⁶). This preferential formation of the more stable ion is a general tendency in oxidation.",
-    "steps": [
-      "Step 1 — Identify the electron configurations of Fe²⁺ and Fe³⁺.",
-      "Step 2 — Compare the stability of the two ions.",
-      "Step 3 — Explain the oxidation tendency."
-    ],
-    "stepExplanations": [
-      "Fe²⁺ has the configuration [Ar] 3d⁶, while Fe³⁺ has [Ar] 3d⁵.",
-      "The 3d⁵ configuration is half-filled, which is particularly stable due to electron exchange energy. Therefore, Fe³⁺ is more stable than Fe²⁺.",
-      "Since the general oxidation tendency is toward forming the more stable ion, iron preferentially forms the Fe³⁺ ion (the +3 oxidation state) rather than Fe²⁺."
-    ],
-    "choices": [
-      "Fe³⁺ is more stable because of the half-filled 3d⁵ configuration, so iron prefers +3.",
-      "Fe²⁺ is more stable because of the completely filled 4s sublevel, so iron prefers +2.",
-      "Both are equally stable.",
-      "Fe³⁺ is less stable because it has a higher charge."
-    ],
-    "correctIndex": 0,
-    "variants": [
-      "Iron exhibits a tendency to form the Fe³⁺ ion. How does the half-filled 3d sublevel stability (d⁵) drive this tendency over the formation of Fe²⁺?",
-      "Why is Fe³⁺ the preferred oxidation state for iron, rather than Fe²⁺? Use the stability of half-filled d sublevels to justify this preference.",
-      "Explain the role of a half-filled d sublevel in driving the oxidation of iron towards Fe³⁺ over Fe²⁺."
-    ]
-  },
-  {
-    "id": 225,
-    "type": "compound",
-    "q": "The Mn²⁺ ion (3d⁵) is more stable than the Mn³⁺ ion (3d⁴) for the same reason of having a half-filled sublevel. Since the oxidation tendency is toward forming the more stable ion, which oxidation state of manganese is preferentially formed, and what is its electron configuration?",
-    "answer": "The Mn²⁺ ion is preferentially formed. Its electron configuration is [Ar] 3d⁵ (half-filled), which is more stable than Mn³⁺ ([Ar] 3d⁴).",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Mn²⁺; [Ar] 3d⁵",
-      "Mn³⁺; [Ar] 3d⁴",
-      "Mn²⁺; [Ar] 3d⁴",
-      "Mn⁴⁺; [Ar] 3d³"
-    ],
-    "correctIndex": 0,
-    "variants": [
-      "Why does Manganese preferentially form the +2 oxidation state (Mn²⁺) over the +3 state (Mn³⁺)? Give the electron configuration of the preferred ion.",
-      "Explain the preference for the Mn²⁺ oxidation state over Mn³⁺. What is the electronic configuration for the Mn²⁺ ion that makes it more stable?",
-      "Considering oxidation states of Manganese, which is favored: Mn²⁺ or Mn³⁺? What is the electronic configuration of the favored ion?"
-    ]
-  },
-  {
-    "id": 226,
-    "type": "compound",
-    "q": "Although Cu⁺ has a completely filled 3d¹⁰ sublevel, the Cu²⁺ ion is actually more common. What is the electron configuration of Cu²⁺, and what chemical factor (hydration energy) is responsible for making it more prevalent than Cu⁺?",
-    "answer": "The electron configuration of Cu²⁺ is [Ar] 3d⁹. It is more common than Cu⁺ because its high hydration energy compensates for the loss of the stable d¹⁰ configuration.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "[Ar] 3d⁹; high hydration energy compensates for loss of d¹⁰ stability",
-      "[Ar] 3d¹⁰; low hydration energy makes it more stable",
-      "[Ar] 3d⁹; high lattice energy compensates for loss of d¹⁰ stability",
-      "[Ar] 3d⁸; high hydration energy makes it more stable"
-    ],
-    "correctIndex": 0,
-    "variants": [
-      "Even though Cu⁺ has a completely filled 3d¹⁰ sublevel, Cu²⁺ is more common. What is the electron configuration of Cu²⁺, and what chemical property makes it more common than Cu⁺?",
-      "Cu⁺ is 3d¹⁰, but Cu²⁺ is much more common. What is the 3d configuration of the Cu²⁺ ion, and what is the reason for its higher prevalence?",
-      "What is the electron configuration of the Cu²⁺ ion? Why is this ion formed more frequently than Cu⁺ despite Cu⁺ having a completely filled d sublevel?"
-    ]
-  },
-  {
-    "id": 227,
-    "type": "compound",
-    "q": "The d-block consists of 10 vertical groups designated by the letter B, except for group VIII which has 3 columns. What are the IUPAC numbers for the d-block groups, and what is the special feature of group VIII?",
-    "answer": "The IUPAC numbers for the d-block groups are 3 to 12. Group VIII is unique in that it consists of three vertical columns (8, 9, 10) instead of a single column.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Numbers 3-12; Group VIII has 3 columns.",
-      "Numbers 1-10; Group VIII has 3 columns.",
-      "Numbers 3-12; Group VIII has 2 columns.",
-      "Numbers 3-12; Group VIII has no exception."
-    ],
-    "correctIndex": 0,
-    "variants": [
-      "The d-block groups are numbered from 3 to 12 in the IUPAC system. What is the special feature of group VIII among these 10 groups?",
-      "Identify the IUPAC numbering for the d-block groups. Which group is an exception to the single-column rule in this block?",
-      "The d-block consists of 10 vertical groups numbered 3 to 12 in the IUPAC system. Explain the unique structural characteristic of group VIII within this block."
-    ]
-  },
-  {
-    "id": 228,
-    "type": "compound",
-    "q": "Oxidation number (state) is defined as the charge that appears on the atom or ion in a compound. In the compound K₂Cr₂O₇, knowing that K is +1 and O is -2, what is the oxidation number of Chromium, and what is the sum of the oxidation numbers in this neutral compound?",
-    "answer": "The oxidation number of chromium in K₂Cr₂O₇ is +6. The sum of the oxidation numbers in this neutral compound is 0.",
-    "steps": [
-      "Step 1 — Write the known oxidation numbers.",
-      "Step 2 — Set up the equation for the sum of oxidation numbers.",
-      "Step 3 — Solve for the oxidation number of chromium."
-    ],
-    "stepExplanations": [
-      "In K₂Cr₂O₇, K is +1 and O is -2.",
-      "The sum of the oxidation numbers in a neutral compound is 0. Therefore, 2(+1) + 2(Cr) + 7(-2) = 0.",
-      "2 + 2Cr - 14 = 0, so 2Cr - 12 = 0, and 2Cr = 12, giving Cr = +6. The sum is 0."
-    ],
-    "choices": [
-      "+6; sum is 0",
-      "+6; sum is +1",
-      "+3; sum is 0",
-      "+6; sum is -1"
-    ],
-    "correctIndex": 0,
-    "variants": [
-      "In the neutral compound K₂Cr₂O₇, what is the sum of the oxidation numbers? If Potassium is +1 and Oxygen is -2, calculate the oxidation number of Chromium.",
-      "Oxidation number is the charge on an atom in a compound. For K₂Cr₂O₇, what is the oxidation state of Chromium, and what is the total sum of oxidation states in this neutral compound?",
-      "Potassium dichromate (K₂Cr₂O₇) is a neutral compound. What is the sum of the oxidation numbers in the formula? Given that K is +1 and O is -2, what is the oxidation number of Cr?"
-    ]
-  },
-  {
-    "id": 229,
-    "type": "compound",
-    "q": "Transition elements are characterized by variable oxidation states, and a positive oxidation number indicates that the element has lost electrons. Why do transition elements lose different numbers of electrons compared to typical representative elements?",
-    "answer": "Transition elements have variable oxidation states because they can lose electrons from both the (n-1)d and ns orbitals, resulting in different positive charges. Representative elements typically have a fixed oxidation state based on their valence electrons.",
-    "steps": [
-      "Step 1 — Identify the electron configurations of transition elements.",
-      "Step 2 — Compare with representative elements.",
-      "Step 3 — Explain the variability."
-    ],
-    "stepExplanations": [
-      "Transition elements have partially filled d orbitals and can lose electrons from both the 4s and 3d orbitals.",
-      "Representative elements have valence electrons only in the outermost s and p orbitals, giving them a more limited and fixed number of electrons they can lose.",
-      "The ability to lose electrons from two different types of orbitals (s and d) allows transition elements to form multiple positive oxidation states, while representative elements typically form only one or two."
-    ],
-    "choices": [
-      "They can lose electrons from both (n-1)d and ns orbitals.",
-      "They can only lose electrons from the ns orbital.",
-      "They have fixed oxidation states like representative elements.",
-      "They lose electrons from the np orbital as well."
-    ],
-    "correctIndex": 0,
-    "variants": [
-      "Why are transition elements capable of exhibiting a wide range of positive oxidation states, while representative elements typically show fewer?",
-      "Since a positive oxidation number means a loss of electrons, why do transition elements show a greater variation in these positive states compared to main group elements?",
-      "Transition metals exhibit variable oxidation states, meaning they can lose different numbers of electrons. Why does this property set them apart from representative elements?"
-    ]
-  },
-  {
-    "id": 230,
-    "type": "compound",
-    "q": "The number of main energy levels in an atom is equal to its period number, and each period corresponds to a main energy level being filled. If an element is in the 5th period, how many main energy levels does it have, and which sublevel is likely being filled if it is a transition element?",
-    "answer": "An element in the 5th period has 5 main energy levels. If it is a transition element, the 4d sublevel is likely being filled.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "5 energy levels; 4d sublevel is being filled.",
-      "5 energy levels; 5d sublevel is being filled.",
-      "4 energy levels; 4d sublevel is being filled.",
-      "5 energy levels; 3d sublevel is being filled."
-    ],
-    "correctIndex": 0,
-    "variants": [
-      "A transition element is located in the 5th period of the periodic table. Based on its period, how many main energy levels does it have, and which d sublevel is actively being filled in its atoms?",
-      "If an element is in the 5th period, what is the number of its main energy levels? If it is a transition element, which d sublevel is undergoing filling?",
-      "An element in the 5th period and the d-block is being studied. How many main energy levels does it contain, and what specific sublevel is being populated with electrons?"
-    ]
-  },
-  {
-    "id": 231,
-    "type": "compound",
-    "q": "The magnetic quantum number (mₗ) is used to determine the number of orbitals in a sublevel, while the spin quantum number (mₛ) determines the electron spin. For a given sublevel (like 3d) that has 5 orbitals, what is the maximum number of electrons that can be accommodated, and what would be the spin orientation of these electrons?",
-    "answer": "A 3d sublevel with 5 orbitals can accommodate a maximum of 10 electrons. Each orbital holds 2 electrons with opposite spins (+½ and -½).",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "10 electrons; each orbital holds 2 electrons with opposite spins.",
-      "10 electrons; each orbital holds 2 electrons with parallel spins.",
-      "5 electrons; each orbital holds 1 electron with either spin.",
-      "10 electrons; each orbital holds 2 electrons with random spins."
-    ],
-    "correctIndex": 0,
-    "variants": [
-      "A 3d sublevel has 5 orbitals, as determined by mₗ. If each orbital can hold a maximum of two electrons with mₛ values of +1/2 and -1/2, what is the total electron capacity of the 3d sublevel?",
-      "The 3d sublevel consists of 5 orbitals. According to the spin quantum number, how many electrons can each orbital hold, and what is the total capacity of the 3d sublevel?",
-      "For a d sublevel (which has 5 orbitals), what is the total number of electrons it can contain, and what are the spin orientations of the two electrons in a completely filled orbital?"
-    ]
-  },
-  {
-    "id": 232,
-    "type": "compound",
-    "q": "In a filled orbital, it contains two electrons in a paired state with opposite spins. Conversely, in a half-filled orbital, it contains one electron only. According to Hund's rule, why do electrons prefer to stay unpaired in a half-filled orbital before beginning to pair up?",
-    "answer": "According to Hund's rule, electrons prefer to remain unpaired in a half-filled orbital because it maximizes electron exchange energy and minimizes electron-electron repulsion, resulting in a more stable configuration.",
-    "steps": [
-      "Step 1 — State Hund's rule.",
-      "Step 2 — Explain the stability of half-filled orbitals."
-    ],
-    "stepExplanations": [
-      "Hund's rule states that electrons will occupy separate orbitals in a sublevel before pairing up, and they will have parallel spins.",
-      "This arrangement is more stable because it maximizes the total spin (exchange energy) and minimizes electron-electron repulsion by keeping electrons as far apart as possible."
-    ],
-    "choices": [
-      "To maximize exchange energy and minimize electron-electron repulsion.",
-      "To minimize exchange energy and maximize electron-electron repulsion.",
-      "Because it allows for more electrons.",
-      "Because it requires less energy to have unpaired electrons."
-    ],
-    "correctIndex": 0,
-    "variants": [
-      "Hund's Rule dictates that pairing of electrons in orbitals does not occur until each orbital in a sublevel has one electron. What is the difference between a half-filled orbital and a filled orbital in terms of electron count and state?",
-      "According to Hund's rule, electrons will not pair up in an orbital until all orbitals in that sublevel are half-filled. What are the electron configurations of a half-filled and a completely filled orbital?",
-      "Explain why Hund's rule prevents electron pairing until necessary. Describe the electron content of a half-filled orbital and a filled orbital."
-    ]
-  },
-  {
-    "id": 233,
-    "type": "compound",
-    "q": "Atoms of noble gases are characterized by completely filled energy sublevels, and their electron distributions are written in the form [Noble Gas Symbol]. What is the abbreviated electron configuration for Calcium (₂₀Ca), and which noble gas core does it use?",
-    "answer": "The abbreviated electron configuration for Calcium is [Ar] 4s². It uses the noble gas core Argon (Ar).",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "[Ar] 4s²; uses Argon (Ar)",
-      "[Ne] 4s²; uses Neon (Ne)",
-      "[Ar] 4s²; uses Argon (Ar), but the core is Neon",
-      "[Kr] 4s²; uses Krypton (Kr)"
-    ],
-    "correctIndex": 0,
-    "variants": [
-      "Noble gases have completely filled sublevels. Calcium (₂₀Ca) uses a noble gas core in its abbreviated notation. What is that abbreviation, and what noble gas does it represent?",
-      "What is the abbreviated electron configuration for Calcium (₂₀Ca), and which noble gas symbol is used to represent its core electrons?",
-      "Calcium's electron configuration is written as [Ar] 4s². Which noble gas is represented by [Ar], and what does the 4s² indicate about Calcium's valence electrons?"
-    ]
-  },
-  {
-    "id": 234,
-    "type": "compound",
-    "q": "Titanium is strong as steel but has a lower density and maintains its strength at high temperatures. It is used in alloys with aluminum in aerospace applications. Why is Titanium preferred over pure steel in aerospace engineering?",
-    "answer": "Titanium is preferred in aerospace engineering because it is as strong as steel but has a lower density (making it lighter), and it maintains its strength at high temperatures.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "It is as strong as steel, lighter, and maintains strength at high temperatures.",
-      "It is stronger than steel and has a higher density.",
-      "It is lighter than steel but weaker and loses strength at high temperatures.",
-      "It is cheaper than steel and easily available."
-    ],
-    "correctIndex": 0,
-    "variants": [
-      "In aerospace engineering, Titanium is often preferred over steel. What properties of Titanium make it superior to steel for aircraft and spacecraft applications?",
-      "Why are Titanium-aluminum alloys selected for aerospace applications instead of pure steel?",
-      "Titanium is used in alloys with aluminum in spacecraft. What two physical properties of Titanium make it more suitable than steel for this purpose?"
-    ]
-  },
-  {
-    "id": 235,
-    "type": "compound",
-    "q": "Titanium is used in bone and joint implants because the body does not reject it, and it is also used in sunscreens as titanium dioxide (TiO₂). What makes titanium dioxide effective in protecting the skin from UV rays, and why is the metal itself used for implants?",
-    "answer": "Titanium dioxide (TiO₂) is effective in sunscreens because it absorbs or reflects UV rays. Titanium metal is used for implants because it is strong, lightweight, and biocompatible (the body does not reject it).",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "TiO₂ absorbs/reflects UV rays; titanium metal is biocompatible, strong, and lightweight.",
-      "TiO₂ absorbs UV rays; titanium metal is strong and lightweight only.",
-      "TiO₂ reflects UV rays; titanium metal is biocompatible only.",
-      "TiO₂ absorbs visible light; titanium metal is magnetic."
-    ],
-    "correctIndex": 0,
-    "variants": [
-      "Titanium metal is used for surgical implants, while titanium dioxide (TiO₂) is used in sunscreens. What makes TiO₂ effective at protecting skin, and what property makes the pure metal suitable for implants?",
-      "Titanium is utilized in two very different ways: as a metal in implants and as TiO₂ in sunscreens. Why is TiO₂ effective against UV radiation, and why is pure titanium biocompatible?",
-      "Explain the different roles of Titanium in medicine (implants) and skincare (sunscreen). What property makes the metal safe for implants, and what property makes its dioxide useful in sunscreens?"
-    ]
-  },
-  {
-    "id": 236,
-    "type": "compound",
-    "q": "Vanadium pentoxide (V₂O₅) is the most important vanadium compound and is used as a catalyst in the Contact process (manufacture of sulfuric acid) and in the synthesis of benzene. What is the chemical formula of this compound, and what role does it play in these two industrial processes?",
-    "answer": "The chemical formula is V₂O₅. It acts as a catalyst in the Contact process (for sulfuric acid production) and in the synthesis of benzene.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "V₂O₅; acts as a catalyst in both processes.",
-      "VO₂; acts as a catalyst in both processes.",
-      "V₂O₅; acts as a reactant in both processes.",
-      "V₂O₅; acts as a catalyst in the Contact process and a reactant in benzene synthesis."
-    ],
-    "correctIndex": 0,
-    "variants": [
-      "The most important vanadium compound is V₂O₅. It acts as a catalyst in two separate industrial processes. What is the name of this compound, and what industrial products are synthesized in the two processes it catalyzes?",
-      "Vanadium pentoxide (V₂O₅) is a key catalyst in the Contact process and in benzene synthesis. What is the chemical formula of vanadium pentoxide, and what product does the Contact process manufacture?",
-      "What is the chemical formula of vanadium pentoxide? Name two industrial processes for which this compound serves as a catalyst."
-    ]
-  },
-  {
-    "id": 237,
-    "type": "compound",
-    "q": "Chromium forms a thin oxide layer on its surface that is larger in volume than the chromium atom itself. Because of this protective layer, chromium acts as a corrosion-resistant metal and is used in plating metals and utensils. How does the oxide layer physically protect the underlying metal?",
-    "answer": "The oxide layer, being larger in volume than the chromium atom, forms a tightly adherent barrier that prevents oxygen and other corrosive agents from reaching the underlying metal surface.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "It forms a tightly adherent barrier that prevents corrosion.",
-      "It dissolves in water to form a protective coating.",
-      "It reacts with oxygen to form a gas that protects the metal.",
-      "It makes the metal surface smooth and shiny."
-    ],
-    "correctIndex": 0,
-    "variants": [
-      "Chromium is used to plate other metals to protect them from corrosion. How does the physical nature of the protective oxide layer it forms (which has a larger volume than the atom) contribute to its corrosion resistance?",
-      "How does Chromium's surface oxide layer, which has a larger volume than the metal atom itself, provide corrosion protection for plated utensils?",
-      "Chromium is a reactive metal, yet it is used for plating due to its resistance to corrosion. What physical characteristic of its oxide layer protects the metal underneath?"
-    ]
-  },
-  {
-    "id": 238,
-    "type": "compound",
-    "q": "Manganese is a hard, brittle metal always found in ores, and manganese alloys with iron are used in railway tracks because they are hard and wear-resistant. What two elements form this wear-resistant alloy, and what is its industrial application?",
-    "answer": "Manganese and iron form the alloy. It is used in railway tracks due to its hardness and wear resistance.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Manganese and iron; used in railway tracks.",
-      "Manganese and aluminum; used in railway tracks.",
-      "Manganese and steel; used in cookware.",
-      "Manganese and iron; used in electronics."
-    ],
-    "correctIndex": 0,
-    "variants": [
-      "Manganese is a hard, brittle metal found in ores. When combined with iron, it forms an alloy used to make railway tracks. What two elements make up this alloy, and what is its industrial application?",
-      "Which two metals are combined to form a hard, wear-resistant alloy used in railway tracks?",
-      "Name the alloy formed from Manganese and Iron. What specific industrial application uses this alloy due to its hardness and wear resistance?"
-    ]
-  },
-  {
-    "id": 239,
-    "type": "compound",
-    "q": "Manganese dioxide (MnO₂) is used as an oxidizing agent in dry cells and as a bleaching agent. What is the role of MnO₂ in a dry cell, and what is its function when used as a bleaching agent?",
-    "answer": "MnO₂ acts as an oxidizing agent in dry cells. As a bleaching agent, it releases oxygen to oxidize and remove color from materials.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Oxidizing agent in dry cells; bleaching agent releases oxygen to remove color.",
-      "Reducing agent in dry cells; bleaching agent removes color by reducing it.",
-      "Catalyst in dry cells; bleaching agent releases chlorine to remove color.",
-      "Oxidizing agent in dry cells; bleaching agent absorbs color."
-    ],
-    "correctIndex": 0,
-    "variants": [
-      "Manganese dioxide (MnO₂) serves two important chemical functions. In dry cell batteries, it acts as an oxidizing agent. What is its function when it is used as a bleaching agent?",
-      "What is the role of MnO₂ in dry cell batteries? What chemical function does it perform when used as a bleaching agent?",
-      "Manganese dioxide (MnO₂) is used in dry cells and as a bleaching agent. In both applications, it acts as what type of chemical substance?"
-    ]
-  },
-  {
-    "id": 240,
-    "type": "compound",
-    "q": "Potassium permanganate (KMnO₄) is used as an oxidizing agent, and manganese dioxide (MnO₂) is used as a catalyst in the decomposition of hydrogen peroxide. What is the chemical formula for potassium permanganate, and what role does manganese dioxide play in the breakdown of H₂O₂?",
-    "answer": "The chemical formula for potassium permanganate is KMnO₄. Manganese dioxide (MnO₂) acts as a catalyst in the decomposition of hydrogen peroxide, speeding up the reaction without being consumed.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "KMnO₄; acts as a catalyst.",
-      "KMnO₄; acts as a reactant.",
-      "K₂MnO₄; acts as a catalyst.",
-      "KMnO₄; acts as a product."
-    ],
-    "correctIndex": 0,
-    "variants": [
-      "What is the chemical formula of potassium permanganate? What role does manganese dioxide (MnO₂) play in the decomposition of hydrogen peroxide?",
-      "Potassium permanganate is represented by which chemical formula? What function does manganese dioxide serve in the breakdown of H₂O₂?",
-      "Write the chemical formula for potassium permanganate. What is the role of manganese dioxide in the reaction involving hydrogen peroxide?"
-    ]
-  },
-  {
-    "id": 241,
-    "type": "compound",
-    "q": "Iron is also used to convert coal into liquid fuel in the Bergius process. In contrast, the blast furnace is used to extract iron from its ores using coke. What is the chemical role of iron in the Bergius process, and what is the role of coke in the blast furnace?",
-    "answer": "In the Bergius process, iron acts as a catalyst to convert coal into liquid fuel. In the blast furnace, coke acts as a reducing agent to extract iron from its ores.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Iron acts as a catalyst in the Bergius process; coke acts as a reducing agent in the blast furnace.",
-      "Iron acts as a reducing agent in the Bergius process; coke acts as a catalyst in the blast furnace.",
-      "Iron acts as a reactant in the Bergius process; coke acts as a reactant in the blast furnace.",
-      "Iron acts as a catalyst in both processes; coke acts as a catalyst in the blast furnace."
-    ],
-    "correctIndex": 0,
-    "variants": [
-      "Iron is used as a catalyst in the Bergius process to convert coal into liquid fuel. In the extraction of iron from its ores, what is the role of coke in the blast furnace?",
-      "In the Bergius process, what is the function of Iron? In the extraction of iron using a blast furnace, what role does coke play?",
-      "What is the role of iron in the Bergius process? What is the role of coke in the extraction of iron from its ores in a blast furnace?"
-    ]
-  },
-  {
-    "id": 242,
-    "type": "compound",
-    "q": "Cobalt (Co) is similar to iron in its magnetic properties, and both are used in the manufacture of magnets. Which property do both cobalt and iron share, and how is this property exploited in the manufacturing of magnets?",
-    "answer": "Both cobalt and iron share magnetic properties. This property is exploited in the manufacturing of magnets by using these metals as magnetic materials.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "They share magnetic properties; used to make magnets.",
-      "They are both hard metals; used in making alloys.",
-      "They are both corrosion-resistant; used in plating.",
-      "They are both conductive; used in electrical wiring."
-    ],
-    "correctIndex": 0,
-    "variants": [
-      "Both Iron and Cobalt are magnetic. How is this shared property utilized in the manufacture of magnets?",
-      "What common property do Iron and Cobalt share? How is this property practically applied in the case of Cobalt?",
-      "Iron and Cobalt are both magnetic metals. How is this magnetic property specifically exploited for Cobalt?"
-    ]
-  },
-  {
-    "id": 243,
-    "type": "compound",
-    "q": "Nickel alloys with steel are characterized by hardness and rust resistance, and nickel is used as a catalyst in the hydrogenation of oils. What are the properties of nickel-steel alloys, and what chemical process does nickel catalyze in the food industry?",
-    "answer": "Nickel-steel alloys are hard and resistant to rust and acids. In the food industry, nickel catalyzes the hydrogenation of oils (vegetable oil hardening).",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Hard and rust-resistant; hydrogenation of oils.",
-      "Hard and magnetic; hydrogenation of oils.",
-      "Corrosion-resistant and conductive; oxidation of oils.",
-      "Hard and rust-resistant; dehydrogenation of oils."
-    ],
-    "correctIndex": 0,
-    "variants": [
-      "When nickel is alloyed with steel, what properties are imparted to the resulting alloy? What industrial process in the food sector uses nickel as a catalyst?",
-      "What are the physical properties of nickel-steel alloys? In the food industry, what process is catalyzed by nickel?",
-      "Describe the characteristics of a nickel-steel alloy. What chemical change does nickel catalyze in the food industry involving oils?"
-    ]
-  },
-  {
-    "id": 244,
-    "type": "compound",
-    "q": "Nickel is used in the plating of metals to protect them from oxidation, and it is also used in rechargeable Ni-Cd batteries. What is the purpose of nickel plating, and what are the components of a Ni-Cd rechargeable battery?",
-    "answer": "Nickel plating is used to protect metals from oxidation and improve their appearance. A Ni-Cd rechargeable battery contains nickel (Ni) and cadmium (Cd) as its main components.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Protection from oxidation and improvement of appearance; nickel and cadmium.",
-      "Protection from oxidation and improvement of appearance; nickel and cobalt.",
-      "Protection from oxidation only; nickel and copper.",
-      "Improvement of appearance only; nickel and zinc."
-    ],
-    "correctIndex": 0,
-    "variants": [
-      "Nickel plating is used to protect metals from oxidation. What type of rechargeable battery uses nickel as a key component, and what are the two elements in its name?",
-      "What is the purpose of plating a metal with Nickel? In the Ni-Cd battery, what does the \"Ni\" stand for, and what is the other component?",
-      "Why is Nickel used in metal plating? What are the two chemical symbols that give the name to the Ni-Cd rechargeable battery?"
-    ]
-  },
-  {
-    "id": 245,
-    "type": "compound",
-    "q": "Copper is used in electrical cables because it is an excellent conductor, and copper (II) sulfate (CuSO₄) is used in purifying water. What property makes copper suitable for electrical wiring, and what chemical compound is used in water treatment?",
-    "answer": "Copper is an excellent conductor of electricity, making it suitable for electrical wiring. Copper (II) sulfate (CuSO₄) is used in water purification.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Excellent conductivity; copper (II) sulfate (CuSO₄).",
-      "High malleability; copper (II) sulfate (CuSO₄).",
-      "High strength; copper (I) sulfate (Cu₂SO₄).",
-      "Good conductivity; copper chloride (CuCl₂)."
-    ],
-    "correctIndex": 0,
-    "variants": [
-      "Copper is widely used in electrical wiring due to what specific physical property? What is the chemical compound of copper that is utilized in water purification?",
-      "What property of copper makes it the material of choice for electrical cables? What copper compound is employed in water treatment processes?",
-      "Why is copper preferred for electrical wiring? Which copper compound is used for water purification?"
-    ]
-  },
-  {
-    "id": 246,
-    "type": "compound",
-    "q": "Copper (II) sulfate is used as a fungicide and in a diluted form to detect glucose in urine. How is copper (II) sulfate used to detect glucose, and what is its application in agriculture?",
-    "answer": "Diluted copper (II) sulfate solution is used in a test to detect glucose in urine (Benedict's test). In agriculture, it is used as a fungicide.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "It is used in Benedict's test for glucose; as a fungicide.",
-      "It is used in Fehling's test for glucose; as a fertilizer.",
-      "It is used in a test for protein; as a fungicide.",
-      "It is used in a test for glucose; as a herbicide."
-    ],
-    "correctIndex": 0,
-    "variants": [
-      "Copper (II) sulfate is used both as a fungicide and in a clinical test. How is diluted copper sulfate solution used to detect glucose, and what is its agricultural application?",
-      "What is the agricultural use of copper (II) sulfate? How is a diluted solution of this compound used in medical diagnostics?",
-      "What are two distinct uses of copper (II) sulfate: one related to agriculture and one related to clinical chemistry?"
-    ]
-  },
-  {
-    "id": 247,
-    "type": "compound",
-    "q": "Zinc is primarily used for galvanization, which is coating iron surfaces to protect them from rusting. What is the name of this coating process, and what protective benefit does it provide to the iron?",
-    "answer": "The coating process is called galvanization. It protects iron from rusting by creating a protective zinc layer that prevents corrosion.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "Galvanization; protects from rusting.",
-      "Annealing; protects from rusting.",
-      "Galvanization; protects from oxidation and improves appearance.",
-      "Polarization; protects from rusting."
-    ],
-    "correctIndex": 0,
-    "variants": [
-      "The process of coating iron with zinc to prevent rusting is called what? What protective benefit does this zinc layer provide to the iron?",
-      "What is the name given to the process of coating iron with zinc? What physical effect does this process have on the iron?",
-      "Zinc is used to coat iron in a process known as galvanization. What is the primary benefit of this process for the iron?"
-    ]
-  },
-  {
-    "id": 248,
-    "type": "compound",
-    "q": "Zinc oxide (ZnO) is used in paints, cosmetics, and as a sunscreen, while zinc sulfide (ZnS) is used in luminous paints and X-ray screens. What are the chemical formulas for zinc oxide and zinc sulfide, and what technological applications do these two compounds have?",
-    "answer": "Zinc oxide is ZnO, used in paints, cosmetics, and sunscreens. Zinc sulfide is ZnS, used in luminous paints, X-ray screens, and LEDs.",
-    "steps": [],
-    "stepExplanations": [],
-    "choices": [
-      "ZnO and ZnS; ZnO in cosmetics/sunscreen, ZnS in luminous paints/X-ray screens.",
-      "ZnO and ZnS; ZnO in luminous paints, ZnS in cosmetics.",
-      "ZnO and ZnS; both used in paints only.",
-      "Zn₂O and Zn₂S; ZnO in cosmetics, ZnS in X-ray screens."
-    ],
-    "correctIndex": 0,
-    "variants": [
-      "What are the chemical formulas for zinc oxide and zinc sulfide? What are the uses of ZnO in personal care and the uses of ZnS in display and imaging technology?",
-      "Write the formulas for zinc oxide and zinc sulfide. How is zinc oxide applied in paints and skincare, and how is zinc sulfide used in imaging technology?",
-      "What are the chemical formulas for zinc oxide and zinc sulfide? Identify the technological applications of ZnS and the cosmetic applications of ZnO."
-    ]
-  },
-  {
-    "id": 249,
-    "type": "compound",
-    "q": "The first transition series fills the 3d sublevel, starting with single electrons until Manganese (3d⁵), after which pairing begins. According to Hund's rule, why do electrons pair up in the 3d sublevel after Manganese, and what is the final electron configuration for Zinc (3d¹⁰)?",
-    "answer": "After Manganese, the 3d sublevel has all five orbitals singly occupied, so additional electrons must pair up in existing orbitals. The final configuration for Zinc is [Ar] 4s² 3d¹⁰.",
-    "steps": [
-      "Step 1 — Apply Hund's rule to the filling of the 3d sublevel.",
-      "Step 2 — Explain why pairing begins after Manganese.",
-      "Step 3 — State the final configuration for Zinc."
-    ],
-    "stepExplanations": [
-      "Hund's rule states that each orbital in a sublevel must be singly occupied before pairing occurs.",
-      "At Manganese (3d⁵), all five 3d orbitals are singly occupied. Additional electrons must be added to existing singly occupied orbitals, pairing with the electron already there.",
-      "The filling continues until Zinc, where all five 3d orbitals are completely filled with paired electrons, giving the configuration 3d¹⁰."
-    ],
-    "choices": [
-      "Because all five orbitals are singly occupied at 3d⁵; [Ar] 4s² 3d¹⁰.",
-      "Because pairing always occurs after 3d⁴; [Ar] 4s² 3d⁹.",
-      "Because the 3d sublevel is full at 3d⁵; [Ar] 4s² 3d⁵.",
-      "Because of electron-electron repulsion; [Ar] 4s² 3d¹⁰."
-    ],
-    "correctIndex": 0,
-    "variants": [
-      "Hund's rule dictates that electrons will not pair until each orbital is singly occupied. In the first transition series, pairing begins after Manganese (3d⁵). Why does pairing start at this point, and what is the final configuration of Zinc?",
-      "Why does electron pairing in the 3d sublevel begin after Manganese (3d⁵) in the first transition series? What is the fully paired electron configuration for Zinc?",
-      "According to Hund's rule, what is the condition for electrons to begin pairing in the 3d sublevel? At which element does this occur, and what is the final 3d configuration for Zinc?"
-    ]
-  },
-  {
-    "id": 250,
-    "type": "compound",
-    "q": "The atom or ion is more stable when the 3d sublevel is half-filled (d⁵) or completely filled (d¹⁰). Given that Chromium has the configuration 3d⁵ 4s¹ and Copper has 3d¹⁰ 4s¹, how do these configurations confirm the stability rule for half-filled and completely filled d sublevels?",
-    "answer": "Chromium's configuration (3d⁵ 4s¹) gives a half-filled 3d sublevel, and Copper's configuration (3d¹⁰ 4s¹) gives a completely filled 3d sublevel. These configurations are more stable than the expected 3d⁴ 4s² and 3d⁹ 4s², confirming the stability rule.",
-    "steps": [
-      "Step 1 — State the stability rule for d sublevels.",
-      "Step 2 — Analyze Chromium's configuration.",
-      "Step 3 — Analyze Copper's configuration."
-    ],
-    "stepExplanations": [
-      "Atoms and ions are more stable when the 3d sublevel is half-filled (d⁵) or completely filled (d¹⁰) due to exchange energy and symmetry.",
-      "Chromium has the configuration [Ar] 4s¹ 3d⁵ (3d half-filled) instead of [Ar] 4s² 3d⁴, confirming the extra stability of a half-filled d sublevel.",
-      "Copper has the configuration [Ar] 4s¹ 3d¹⁰ (3d completely filled) instead of [Ar] 4s² 3d⁹, confirming the extra stability of a completely filled d sublevel."
-    ],
-    "choices": [
-      "They both show deviating configurations that confirm the stability of half-filled and completely filled d sublevels.",
-      "Chromium shows half-filled stability, but Copper does not show completely filled stability.",
-      "Copper shows completely filled stability, but Chromium does not show half-filled stability.",
-      "Neither configuration confirms the stability rule."
-    ],
-    "correctIndex": 0,
-    "variants": [
-      "The 3d sublevel is particularly stable when half-filled (d⁵) or completely filled (d¹⁰). How do the electron configurations of Chromium (3d⁵ 4s¹) and Copper (3d¹⁰ 4s¹) illustrate this stability rule?",
-      "Explain how the anomalous configurations of Chromium ([Ar] 4s¹ 3d⁵) and Copper ([Ar] 4s¹ 3d¹⁰) serve as evidence for the stability of half-filled and completely filled d sublevels.",
-      "Why do Chromium and Copper deviate from the expected filling order? How does this deviation confirm the special stability of a half-filled and completely filled 3d sublevel?"
+      "Manganese changes from +7 to +2, demonstrating variable oxidation states.",
+      "Variable oxidation states are a key property of transition elements.",
+      "MnO₄⁻ gains electrons and is reduced, so it acts as an oxidizing agent."
+    ],
+    "choices": [],
+    "image": null,
+    "correctIndex": -1,
+    "variants": [
+      "Based on the reaction 5SO₂ + 2MnO₄⁻ + 2H₂O → 5SO₄²⁻ + 2Mn²⁺ + 4H⁺, suggest a property indicating manganese is a transition metal and describe the role of MnO₄⁻ in the reaction.",
+      "In the reaction where SO₂ decolorizes KMnO₄, what property of manganese shows it is a transition metal, and what is the role of MnO₄⁻?",
+      "Using the ionic equation 5SO₂ + 2MnO₄⁻ + 2H₂O → 5SO₄²⁻ + 2Mn²⁺ + 4H⁺, identify a transition metal property of manganese and explain the role of MnO₄⁻.",
+      "From the reaction of SO₂ with KMnO₄, suggest a characteristic property of manganese as a transition element and state the function of the MnO₄⁻ ion.",
+      "The ionic equation for the reaction of SO₂ with KMnO₄ is given. What property of manganese identifies it as a transition metal, and what is the role of MnO₄⁻ in this reaction?"
     ]
   }
 ];
